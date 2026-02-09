@@ -19,5 +19,12 @@ There are also some local [[Druids]] who are fighting back as their holy land is
 ### Resources
 The trace amounts of [[Weave infused materials]] that *were* in Aeglirin have been taken up and most people take trips deeper into the [[Thunder Peaks]] as they try to look for resources. Depending on their persuasion they may travel deep into the [[mines]] or just trip further into the treacherous mountain range 
 
+### Culture
+In terms of religion, the main religious population in the region pray to Mystra, as related to the magic shit going on.
+
+The town is quite scattered. Most inhabitants have come from varied areas for varied purposes, and so it kinda has a vibe of like a trucker motel off in the middle of nowhere. Those who love to socialize will hang out at the local inn, or group together to go on extracting expeditions. 
+
+All of those travelling this close to [[Arabel]] would surely know about the city. 
+
 ### Map
 wip
