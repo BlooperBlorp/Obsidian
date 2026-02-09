@@ -1,0 +1,3 @@
+With the [[gash in the weave]], raw magic has begun to spread throughout the region. This has led to weave infused materials being harvestable. While this is what they call that in the region, a smart researcher will be able to tell you that it's technically materials infused with raw magic, not the weave. 
+
+The most common material is **magucite**, which is what the local community refers to as any rocks or minerals that have been infused with magic. The uses of this material are still being researched, but there is growing interest in the possibility of harnessing the use of this raw magic into various magic tools.  
