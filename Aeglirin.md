@@ -3,7 +3,7 @@ who inhabited the land before they were kicked out by the first settlers
 
 ### Location 
 Aeglirin about a weeks travel from the largest city [[Arabel]], bordering on the [[Hullack Forrest]], just up the mountain on a crude path from the main roads 
-
+![[Screenshot 2026-02-08 at 10.28.51 PM.png]]
 ### Development: 
 The city popped up just recently, perhaps a month or 2 ago (depending on who you ask) as the rush to obtain and extract resources from the weave began 
 
