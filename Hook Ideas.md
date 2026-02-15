@@ -3,3 +3,4 @@ You've all been told about a man who seemed to be at the [[gash in the weave]] b
 - He knows the whereabouts of a huge deposit that he was planning a group expedition to
 - He knows more things about the origin of the weave than most people do
 - He might even know how to repair it 
+
