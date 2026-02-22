@@ -9,5 +9,5 @@ The BBEG is trying to access magic that they should not be able to. They wan't t
 1. developing and researching ways to bypass the weave, granting them direct access to magic
 2. Training wizards to cast 10th level magic
 
-Both of these would damage the weave. One of these things happened deep under aeglirin. I believe What is going to happen is ==another gash will form in the weave elsewhere sometime soon==
+Both of these would damage the weave. One of these things happened deep under aeglirin. I believe What is going to happen is ==another gash will form in the weave elsewhere sometime soon== when they try again or try something different 
 
