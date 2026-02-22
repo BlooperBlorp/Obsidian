@@ -20,7 +20,8 @@
 - Kael has recently set up on the outskirts of town and is trying to set up a way to get closer to the gash, so he can learn about what is going on himself 
 
 
-So they all want to learn more about the gash in the weave. Gep, Twig, and Kael especially are very keen on like going closer to learn about things themselves, each for different reasons. (Gep and Twig are kinda loners and would prefer to find things out themselves - Kael doesn't want to be biased or influences by anyone else). I just need to get Henk wanting to go on an expedition closer to the gash in the weave 
+So they all want to learn more about the gash in the weave. Gep, Twig, and Kael especially are very keen on like going closer to learn about things themselves, each for different reasons. (Gep and Twig are kinda loners and would prefer to find things out themselves - Kael doesn't want to be biased or influences by anyone else). I just need to get Henk wanting to go on an expedition closer to the gash in the weave...
+
 # Hook Ideas
 ### Idea 1
 You've all been told about a man who seemed to be at the [[gash in the weave]] before anyone else, everyone claims that he was there before them, other than the druids, they don't know where he came from. (or rather, when the gash in the weave happened, the druids pulled up and this dude was the first guy there).
@@ -29,8 +30,13 @@ You've all been told about a man who seemed to be at the [[gash in the weave]] b
 - He might even know how to repair it 
 
 ### Idea 2
+We are meeting because there were postings around town saying 
+"Looking for crew members for expedition towards the gash"
+"Whether you want to be the first to find a new type of magucite, or if you're just darn curious and lookin' for adventure, meet me, --- , at the ---- at ---. I'm looking for a crew to help me make this journey successful."
+"Requirements: Be useful."
 
-General thoughts:
+I could have them all be meeting and then the merchant guild comes in and tries to attack them with pickaxes and shit for trying to explore "their" land (that they haven't been to yet)
+
 
 # Start of Campaign ideas/thoughts
 - Starting with a vignette on something, people in the mines, people dying, people fighting, something that relates to the central tension 
