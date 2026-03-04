@@ -1,4 +1,4 @@
-# Notes about players
+“# Notes about players
 #### Gep
 - Gep wants to be at the Gash in the weave first and foremost becus the staff told him to be there 
 - He got to Aeglirin like yesterday and has learned about the gash a little, he's kinda confused tbh. 
