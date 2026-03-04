@@ -2,7 +2,7 @@ Aeglirin got it's name from the local community of elvish (?) [[Druids]]
 who inhabited the land before they were kicked out by the first settlers
 
 ### Location 
-Aeglirin about a weeks travel from the largest city [[Arabel]], bordering on the [[Hullack Forrest]], just up on the mountain on a crude path from the main roads. It is on a small outcrop high up in the mountains  
+Aeglirin about a weeks travel from the nearest largest city [[Arabel]], bordering on the [[Hullack Forrest]], just up on the mountain on a crude path from the main roads. It is on a small outcrop high up in the mountains  
 ![[Screenshot 2026-02-08 at 10.28.51 PM.png]]
 ### Development: 
 The city popped up just recently, perhaps a month or 2 ago (depending on who you ask) as the rush to obtain and extract resources from the [[gash in the weave]] began 
