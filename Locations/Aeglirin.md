@@ -29,3 +29,20 @@ All of those travelling this close to [[Arabel]] would surely know about the cit
 ### Map
 HUZZAH!!!!
 ![[aeglirin(4).png]]
+##### First Settlers
+- This is where people first settled in the area, the druids mostly live here, along with people who immediately left to be stationed in town
+- Followers of mystra are here 
+	- quickly built a 
+##### New Tents
+- Anyone who is alone and just got here is in a new tent area
+##### Group Tents
+- These are newer groups and collectives who have more recently come to Aeglirin, such as small merchant guilds
+##### Merchant Aisle
+- This is where the market stuff is 
+	- Tavern: The Travellers Treat  
+	- Medic tent: [[Henk Haynes]] inhabits it 
+	- Mining supplies shop
+	- Inn: The Pilgrimage 
+
+##### The Square:
+- Has a well in it 
