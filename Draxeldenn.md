@@ -1,0 +1,1 @@
+The small gnome town that [[Handorn Bravebraid]] is from, it is in the north of [[Thunder Peaks]]

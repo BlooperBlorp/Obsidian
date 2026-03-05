@@ -22,6 +22,8 @@
 
 So they all want to learn more about the gash in the weave. Gep, Twig, and Kael especially are very keen on like going closer to learn about things themselves, each for different reasons. (Gep and Twig are kinda loners and would prefer to find things out themselves - Kael doesn't want to be biased or influences by anyone else). I just need to get Henk wanting to go on an expedition closer to the gash in the weave...
 
+
+
 # Hook Ideas
 ### Idea 1
 You've all been told about a man who seemed to be at the [[gash in the weave]] before anyone else, everyone claims that he was there before them, other than the druids, they don't know where he came from. (or rather, when the gash in the weave happened, the druids pulled up and this dude was the first guy there).
@@ -42,4 +44,4 @@ I could have them all be meeting and then the merchant guild comes in and tries 
 - Starting with a vignette on something, people in the mines, people dying, people fighting, something that relates to the central tension 
 - Having the party run into each other naturally, inspired by D20
 	- possibly incorporating tabi at their medic tent 
-- 
+- [[Session 1]]
