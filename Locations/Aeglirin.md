@@ -27,4 +27,5 @@ The town is quite scattered. Most inhabitants have come from varied areas for va
 All of those travelling this close to [[Arabel]] would surely know about the city. 
 
 ### Map
-wip
+HUZZAH!!!!
+![[aeglirin(4).png]]
