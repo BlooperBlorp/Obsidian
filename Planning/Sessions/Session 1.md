@@ -13,7 +13,7 @@ He will ask people to meet in an area that he doesn't know is on [[Arcane brothe
 
 [[Efarius Covenmane]], attempting to stand his ground in taking over this region will approach.
 
-"Do you all know where you standing?"
+"None of you are going anywhere. The Arcane Brotherhood has claimed Juristiction "
 ### Notes / Lore
 [[Handorn Bravebraid]] is a rock gnome from [[Draxeldenn]], a small gnome town in the north of [[Thunder Peaks]], he is planning an expedition towards the [[gash in the weave]] to learn more about it for his gnomish colony. He doesn't know anybody in town as he has just gotten there so he is posting ads, going up to people who look alone/adventurous/keen, etc. to try and find people to come with him.
 
