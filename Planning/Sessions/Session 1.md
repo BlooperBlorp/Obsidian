@@ -15,7 +15,11 @@ He will ask people to meet in an area that he doesn't know is on [[Arcane brothe
 
 "None of you are going anywhere as a matter of fact. The Arcane Brotherhood has claimed Juristiction over the region, and there will be no more expeditions into the mines, or towards the gash in the weave. At least not without proper permission and documentation through us."
 
-Handorn: "Sir. With all due respect. Many populations have lived in this region before the Arcane Brotherhood even knew about it. We will not be stepping on any toes we are simply trying to help and figure out what is goin"
+Handorn: "Sir. With all due respect. Many populations have lived in this region before the Arcane Brotherhood even knew about it. We will not be stepping on any toes we are simply trying to help and figure out what is going on"
+
+"That is simply not my problem. Please leave before we have any further issues." you see plasma arc between his finger tips
+
+Astrid Moontracker goes on a passionate rant and argues with him. She gets shot in the face. We roll initiative
 ### Notes / Lore
 [[Handorn Bravebraid]] is a rock gnome from [[Draxeldenn]], a small gnome town in the north of [[Thunder Peaks]], he is planning an expedition towards the [[gash in the weave]] to learn more about it for his gnomish colony. He doesn't know anybody in town as he has just gotten there so he is posting ads, going up to people who look alone/adventurous/keen, etc. to try and find people to come with him.
 
