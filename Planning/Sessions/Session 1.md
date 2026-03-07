@@ -23,17 +23,17 @@ Astrid Moontracker goes on a passionate rant and argues with him.
 
 "I will not be disrespected. Admiral? Handle this."
 
-"Sir, will all due respect-"
+A young elf soldier pipes up: "Sir, will all due respect-"
 
-"you have a FUCKING job to do. DO IT. lest I replace you"
+"you have a FUCKING job to do. DO IT. lest I end you" He gives the Admiral a nod a misty steps away.
 
-The admiral grunts at a visibly conflicted soldier-looking young elf. The elf pauses. The admiral barks: "you have a FUCKING job to do. DO IT."
+Handorn tries to step between them "I really don't think all of this is neccesar-"
 
-The elf takes aim.
+The admiral whistles and snaps his fingers.
 
-Astrid begins to ready her 
+In an instant you see 
 
-She gets shot in the face. We roll initiative
+An arrow flies straight into She gets shot in the side of her neck Falls. We roll initiative
 ### Notes / Lore
 [[Handorn Bravebraid]] is a rock gnome from [[Draxeldenn]], a small gnome town in the north of [[Thunder Peaks]], he is planning an expedition towards the [[gash in the weave]] to learn more about it for his gnomish colony. He doesn't know anybody in town as he has just gotten there so he is posting ads, going up to people who look alone/adventurous/keen, etc. to try and find people to come with him.
 
