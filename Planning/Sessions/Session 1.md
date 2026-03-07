@@ -32,6 +32,8 @@ Handorn tries to step between them "I really don't think all of this is neccesar
 The admiral whistles and snaps his fingers.
 
 *NOISE* In an instant an arrow flies through the air. Straight into the side of astrids neck. She falls. As she falls you see an elven archer who was kneeled taking aim with a longbow emerge from invisibility. We roll initiative
+
+
 ### Notes / Lore
 [[Handorn Bravebraid]] is a rock gnome from [[Draxeldenn]], a small gnome town in the north of [[Thunder Peaks]], he is planning an expedition towards the [[gash in the weave]] to learn more about it for his gnomish colony. He doesn't know anybody in town as he has just gotten there so he is posting ads, going up to people who look alone/adventurous/keen, etc. to try and find people to come with him.
 
