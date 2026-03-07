@@ -11,4 +11,4 @@ To repair the Gash in the weave, one would need to:
 - Successfully cast a version of Karsus's Avatar, becoming the caretaker of the weave, repairing it themselves.
 - Complete a reweaving ritual, requiring certain materials, spellcasters, lost spells, and at a location
 
-- one may *think* that by appealing to Mystra, giving her strength and influece, one cold restore the weave. But this is not working for some reason... as noted by the local followers of mystra. This is because [[He who created the Gash in the weave]] had first developed a high level dampening effect on her 
+- one may *think* that by appealing to Mystra, giving her strength and influece, one cold restore the weave. But this is not working for some reason... as noted by the local followers of mystra. This is because [[He who created the Gash in the weave]]'s first 9th level spell had a failsafe (that worked) wherin it weakened Mystra, preventing her from repairing herself, and making her conserve her energy - so she can't contact her followers as easily. She's further from Faerun 
