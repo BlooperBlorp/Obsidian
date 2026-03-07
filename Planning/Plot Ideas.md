@@ -17,6 +17,7 @@ Somewhat inspired by Tabi's campaign, but also other pieces of fiction - what wi
 
 ## Local Issues - Sessions 1-4
 - The [[Arcane brotherhood]] is trying to take full control over Aeglirin, their local brigade, run by [[Efarius Covenmane]] is trying to monopolize [[Weave infused materials]] collection and research on the [[gash in the weave]]
+	- First couple sessions will actually be resolving their presence in the town, before our party is able to make their way into the gash at level 2 or 3 
 - The gash is getting worse, causing more magical, unexplainable sickness in a growing region. 
 	- more miners are not coming back, those who do are returning with higher amounts of magucite 
 	- 
