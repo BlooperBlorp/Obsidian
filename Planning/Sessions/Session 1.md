@@ -11,7 +11,7 @@ He will ask people to meet in an area that he doesn't know is on [[Arcane brothe
 
 [[Astrid Moontracker]] will be there. 
 
-[[Efarius Covenmane]], attempting to stand his ground in taking over this region will approach.
+[[Efarius Covenmane]], attempting to stand his ground in taking over this region will approach. He is followed by what looks to be a young war general, and 3 soldiers. 
 
 "None of you are going anywhere as a matter of fact. The Arcane Brotherhood has claimed Juristiction over the region, and there will be no more expeditions into the mines, or towards the gash in the weave. At least not without proper permission and documentation through us."
 
