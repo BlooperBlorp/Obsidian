@@ -15,7 +15,9 @@ Doc I really need your help... It's getting bad down there.
 [[Handorn Bravebraid]] Walks in and asks Henk to come to his meeting later that evening.
 
 #### Kael
+We pan over the norther corner of the city, in the north west of the first settlers region. To the church of mystra that has been built by her followers. Priests', clergyman and women, and followers populate the area. One priestess in particular is stood outside with flyers. 
 
+"Let us speak into our ladies weave! Let us give her our supplication and faith!"
 
 
 
