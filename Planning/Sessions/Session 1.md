@@ -35,7 +35,13 @@ From there we head over to the town tavern. The Travellers Treat. Inside, a wand
 Let holly have fun, Handorn can show up, it can be a poster outside, or she could even run into Gep!
 
 #### Gep
-(if not used yet) We actually are going to receed back, pan over just to the outskirts of town 
+(if not used yet) 
+We are going to move just over to the general store, where deep in the corner of the store there is a Tortle surprisingly enamored with the collection of [trinkets](https://dnd5e.wikidot.com/trinkets)
+
+
+#### Quatson
+(if not used yet)
+
 
 
 
