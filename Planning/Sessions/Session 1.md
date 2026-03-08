@@ -36,7 +36,7 @@ Let holly have fun, Handorn can show up, it can be a poster outside, or she coul
 
 #### Gep
 (if not used yet) 
-We are going to move just over to the general store, where deep in the corner of the store there is a Tortle surprisingly enamored with the collection of [trinkets](https://dnd5e.wikidot.com/trinkets)
+We are going to move just over to the general store, where deep in the corner of the store there is a Tortle surprisingly enamored with the collection of [trinkets](https://dnd5e.wikidot.com/trinkets). Gep, could you please introduce your character?
 
 A young halfling will approach. "hello sir!!! is there anything I can help you with?"
 
@@ -44,22 +44,19 @@ at the end of their interaction "Would you be interested in hearing an advertise
 
 #### Quatson
 (if not used yet)
-
-
-
-
-
-
-
-
-
 ### Handorn meeting people:
 [[Handorn Bravebraid]] is out in the town square in the small town so they all could run into him, or his poster, or just overhear him talking to someone else. 
 > [[Henk Haynes]] could be approached by [[Handorn Bravebraid]] as he doesn't know a medic and things having one on the expedition will be a good idea
 
+
+### Handorn Meeting
 He will ask people to meet in an area that he doesn't know is on [[Arcane brotherhood]] 'grounds' of the town. North-east side of town at the crossroads probably. Noone knows that. They determined that like 2 days ago and it hasn't come up yet 
 
 [[Astrid Moontracker]] will be there. 
+
+Handorn will introduce himself to everybody. Tell everyone his goal. Thank them all for coming to this meeting. 
+
+Everyone will introduce themself, Astrid included. She isa ranger from the area that has seen the horrible effects of the gash in the weave first hand. She's been coming in and out of town as she tries to figure out what the hell has been going on with the gash in the weave - she really liked the idea of a group of freelancers expeditioning for knowledge closer into the weave
 
 [[Efarius Covenmane]], attempting to stand his ground in taking over this region will approach. He is followed by what looks to be a young war general, and 3 soldiers. 
 
