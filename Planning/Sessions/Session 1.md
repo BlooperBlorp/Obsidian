@@ -56,7 +56,9 @@ He will ask people to meet in an area that he doesn't know is on [[Arcane brothe
 
 Handorn will introduce himself to everybody. Tell everyone his goal. Thank them all for coming to this meeting. 
 
-Everyone will introduce themself, Astrid included. She isa ranger from the area that has seen the horrible effects of the gash in the weave first hand. She's been coming in and out of town as she tries to figure out what the hell has been going on with the gash in the weave - she really liked the idea of a group of freelancers expeditioning for knowledge closer into the weave
+Everyone will introduce themself, Astrid included. She isa ranger from the area that has seen the horrible effects of the gash in the weave first hand. She's been coming in and out of town as she tries to figure out what the hell has been going on with the gash in the weave - she really liked the idea of a group of freelancers expeditioning for knowledge closer into the weave. She's REALLY passionate. 
+
+Handorn will go on about the plan, how they will leave with everyone interested in a couple days if all goes to plan. They will take a couple days to get some information and supplies ready, and then try and go figure out for themselves what is happening with the gash in the weave. 
 
 [[Efarius Covenmane]], attempting to stand his ground in taking over this region will approach. He is followed by what looks to be a young war general, and 3 soldiers. 
 
