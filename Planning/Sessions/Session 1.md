@@ -4,6 +4,19 @@ Vignette of thunder peaks?
 
 In [[Aeglirin]], Ask the players where they are, just roleplay them around town for the first bit of the session.
 
+#### Henk
+We pan down into the city, as a sickly dwarf miner aproaches the medic tent.
+
+He walks in, limping. He looks up and sees a tall Half-Orc standing opposite him. Tabi, would you like to introduce your character?
+
+Doc I really need your help... It's getting bad down there.
+
+
+
+
+
+
+### Handorn meeting people:
 [[Handorn Bravebraid]] is out in the town square in the small town so they all could run into him, or his poster, or just overhear him talking to someone else. 
 > [[Henk Haynes]] could be approached by [[Handorn Bravebraid]] as he doesn't know a medic and things having one on the expedition will be a good idea
 
