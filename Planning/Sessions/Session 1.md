@@ -46,9 +46,11 @@ at the end of their interaction "Would you be interested in hearing an advertise
 "what in the nine hells do you think you're doing. Do you know what you're standing on?"
 A wood elf stands, plain faced, with a look of genuine confusion on his face. Looking at a Forest gnome who was simply just setting up their tent... Quatson, can you introduce your character to us?
 
+He just unknowlingly started setting up his tent on an area claimed by the druids, that people have actually built their tents around but you can't tell whether that was on purpose or not. 
+
 If he ends up doing nice with the druid, the druid can tell him about Handorn, or same as everyone else, handorn can come up to him/ he can run into a poster. 
 
-"BIG SUPRISE! You turn around an see"
+"BIG SUPRISE! You turn around an see a Small, rugged, rock gnome facing you."
 
 ### Handorn meeting people:
 [[Handorn Bravebraid]] is out in the town square in the small town so they all could run into him, or his poster, or just overhear him talking to someone else. 
