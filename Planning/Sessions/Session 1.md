@@ -43,6 +43,12 @@ A young halfling will approach. "hello sir!!! is there anything I can help you w
 at the end of their interaction "Would you be interested in hearing an advertisement we've been given?"
 
 #### Quatson
+"what in the nine hells do you think you're doing. Do you know what you're standing on?"
+A wood elf stands, plain faced, with a look of genuine confusion on his face. Looking at a Forest gnome who was simply just setting up their tent... Quatson, can you introduce your character to us?
+
+If he ends up doing nice with the druid, the druid can tell him about Handorn, or same as everyone else, handorn can come up to him/ he can run into a poster. 
+
+"BIG SUPRISE! You turn around an see"
 
 ### Handorn meeting people:
 [[Handorn Bravebraid]] is out in the town square in the small town so they all could run into him, or his poster, or just overhear him talking to someone else. 
