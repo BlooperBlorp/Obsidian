@@ -74,7 +74,8 @@ Handorn will go on about the plan, how they will leave with everyone interested 
 
 Handorn: "Many populations have lived in this region before the Arcane Brotherhood even knew about it. We will not be stepping on any toes we are simply trying to help and figure out what is going on"
 
-"That is simply not my problem. Please leave before we have any further issues." you see plasma arc between his finger tips
+"That is simply not my problem. Please leave before we have any further issues." you see plasma arc between his finger tips ***==PLAY TROUBLED TIMES FROM BATTLE MUSIC PLAYLIST==***
+
 
 Astrid Moontracker goes on a passionate rant and argues with him. 
 
@@ -89,6 +90,12 @@ Handorn tries to step between them "I really don't think all of this is neccesar
 The admiral whistles and snaps his fingers.
 
 *NOISE* In an instant an arrow flies through the air. Straight into the side of astrids neck. She falls. As she falls you see an elven archer who was kneeled taking aim with a longbow emerge from invisibility. We roll initiative
+
+3 guards, 1 can run.
+1 scout (invis)
+1 feathergale knight 
+
+scout will start last in initiative, 
 
 
 ### Notes / Lore
