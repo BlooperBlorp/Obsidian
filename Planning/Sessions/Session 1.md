@@ -7,9 +7,9 @@ In [[Aeglirin]], Ask the players where they are, just roleplay them around town 
 #### Henk
 We pan down into the city, as a sickly dwarf miner aproaches the medic tent.
 
-He walks in, limping. He looks up and sees a tall Half-Orc standing opposite him. Tabi, would you like to introduce your character?
+He walks in, limping. He looks up and sees a tall Half-Orc standing opposite him. Tabi, would you like to introduce your character? 
 
-Doc I really need your help... It's getting bad down there.
+Doc I really need your help... It's getting bad down there. (Yastug Orecrown)
 
 ...
 [[Handorn Bravebraid]] Walks in and asks Henk to come to his meeting later that evening.
@@ -17,7 +17,11 @@ Doc I really need your help... It's getting bad down there.
 #### Kael
 We pan over the norther corner of the city, in the north west of the first settlers region. To the church of mystra that has been built by her followers. Priests', clergyman and women, and followers populate the area. One priestess in particular is stood outside with flyers. 
 
-"Let us speak into our ladies weave! Let us give her our supplication and faith!"
+"Let us speak into her weave! To Mystra we give our supplication and our faith!"
+
+She turns over and sees a human, a monk. He looks like he would be a religious man but it is unclear... Kael, can you introduce your character to us?
+
+
 
 
 
