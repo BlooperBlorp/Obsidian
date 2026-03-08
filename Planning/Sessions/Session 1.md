@@ -28,11 +28,14 @@ She approaches. "Hello sir! I am priestess Grizelda of the church of Mystra. wou
 Kael can either find a poster or have handorn come into the church or some shit. 
 
 #### Twig
-From there we head over to the town tavern. The Travellers Treat. Inside, a wanderer has just asked a peculiar question to the barkeep.
+From there we head over to the town tavern. The Travellers Treat. Inside, a wanderer has just asked a peculiar question to the barkeep. Twig, could you introduce your character?
 
 "No lady... I don't know anything about plagues either. I don't tend to spend a lot of my time thinking about death, and plagues and suffering... at least I try not to. Do you need help with something?"
 
+Let holly have fun, Handorn can show up, it can be a poster outside, or she could even run into Gep!
 
+#### Gep
+(if not used yet) We actually are going to receed back, pan over just to the outskirts of town 
 
 
 
