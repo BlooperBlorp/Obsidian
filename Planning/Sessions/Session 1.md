@@ -11,6 +11,12 @@ He walks in, limping. He looks up and sees a tall Half-Orc standing opposite him
 
 Doc I really need your help... It's getting bad down there.
 
+...
+[[Handorn Bravebraid]] Walks in and asks Henk to come to his meeting later that evening.
+
+#### Kael
+
+
 
 
 
