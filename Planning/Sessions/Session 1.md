@@ -21,6 +21,19 @@ We pan over the norther corner of the city, in the north west of the first settl
 
 She turns over and sees a human, a monk. He looks like he would be a religious man but it is unclear... Kael, can you introduce your character to us?
 
+She approaches. "Hello sir! I am priestess Grizelda of the church of Mystra. would you have any interest in coming to our noon prayers? "
+- They want to bring strength back to Mystra and try and repair the weave
+- Mystra is not communicating with them the way they would like
+
+Kael can either find a poster or have handorn come into the church or some shit. 
+
+#### Twig
+From there we head over to the town tavern. The Travellers Treat. Inside, a wanderer has just asked a peculiar question to the barkeep.
+
+"No lady... I don't know anything about plagues either. I don't tend to spend a lot of my time thinking about death, and plagues and suffering... at least I try not to. Do you need help with something?"
+
+
+
 
 
 
