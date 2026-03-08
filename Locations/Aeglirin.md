@@ -43,6 +43,7 @@ HUZZAH!!!!
 	- Medic tent: [[Henk Haynes]] inhabits it 
 	- Mining supplies shop
 	- Inn: The Pilgrimage 
+	- General Store
 
 ##### The Square:
 - Has a well in it 

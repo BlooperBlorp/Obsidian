@@ -43,7 +43,7 @@ A young halfling will approach. "hello sir!!! is there anything I can help you w
 at the end of their interaction "Would you be interested in hearing an advertisement we've been given?"
 
 #### Quatson
-(if not used yet)
+
 ### Handorn meeting people:
 [[Handorn Bravebraid]] is out in the town square in the small town so they all could run into him, or his poster, or just overhear him talking to someone else. 
 > [[Henk Haynes]] could be approached by [[Handorn Bravebraid]] as he doesn't know a medic and things having one on the expedition will be a good idea
