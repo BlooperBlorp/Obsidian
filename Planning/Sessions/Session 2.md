@@ -19,3 +19,10 @@ so I'm thinking like:
 - Efarius will be looking for the group + the defectors
 
 - Or they can decide to like try and push through, in that case I can just copy the stat sheets from last time and throw more guys at them as they try to go into the mines. 
+
+
+The plan is not to pick what the players are doing or give them limited options 
+- Plan what all the relevant people are doing 
+- Plan how they feel
+- plan what they know 
+- and get some random name generators ready
