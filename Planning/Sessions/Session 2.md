@@ -29,4 +29,4 @@ The plan is not to pick what the players are doing or give them limited options
 
 # Literally everything happening in the world
 ## Arcane Brotherhood
-The arcane brotherhood, back in Aeglirin, does not GAAAAFFFF about the gash in the weave. The top leader, Aolis Aedithas, could not be less concerned with the [[gash in the weave]]. This sect of the brotherhood, the [[]]
+The [[arcane brotherhood]], back in Aeglirin, does not GAAAAFFFF about the gash in the weave. The top leader, [[Aolis Aedithas]], could not be less concerned with the [[gash in the weave]]. This sect of the brotherhood, the [[8th sect]], is just one of the 11 brigades 
