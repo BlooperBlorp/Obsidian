@@ -29,4 +29,13 @@ The plan is not to pick what the players are doing or give them limited options
 
 # Literally everything happening in the world
 ## Arcane Brotherhood
-The [[arcane brotherhood]], back in Aeglirin, does not GAAAAFFFF about the gash in the weave. The top leader, [[Aolis Aedithas]], could not be less concerned with the [[gash in the weave]]. This sect of the brotherhood, the [[8th sect]], is just one of the 11 brigades 
+The [[arcane brotherhood]], back in Aeglirin, does not GAAAAFFFF about the [[gash in the weave]]. They are just straight chilling right now
+#### Sect 8 
+was recently taken over by [[Efarius Covenmane]], he's been evil as fuck, people are scared. they all:
+1. Fuck with his new style
+2. Are scared shitless
+
+The Admiral is #1 
+The guards are #2 and probably wont reveal shit until he is not around, or don't think info would get back. 
+
+
