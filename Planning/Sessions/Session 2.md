@@ -35,8 +35,13 @@ was recently taken over by [[Efarius Covenmane]], he's been evil as fuck, people
 1. Fuck with his new style
 2. Are scared shitless
 
-The Admiral is #1 
-The guards are #2 and probably wont reveal shit until he is not around, or don't think info would get back. 
+The Admiral fucks with his style, he wants to be his right hand man. He will want to fight probably when he gets up. Please, I am trying to do my job, will you just leave? His weakness is that he desperately wants to be Efarius's right hand man
+
+The guards are scared shitless of the situation.  probably wont reveal shit until Admiral is not around, or don't think info would get back. But they will be way more keen on spilling details about the plan if the admiral leaves
+
+
+
+
 
 
  
