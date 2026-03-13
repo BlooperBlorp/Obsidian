@@ -40,10 +40,13 @@ The Admiral fucks with his style, he wants to be his right hand man. He will wan
 The guards are scared shitless of the situation.  probably wont reveal shit until Admiral is not around, or don't think info would get back. But they will be way more keen on spilling details about the plan if the admiral leaves
 
 **The plan:**
-Efarius wants control over the area because he doesn't want people to be able to access the resources or research the [[gash in the weave]]. 
+Efarius wants control over the area because he doesn't want people to be able to access the resources or research the [[gash in the weave]]. He is gonna use some spell to like loudly announce it to the entire city, before they get back. 
 
 His main beef is with the miners, to which he has decreed that noone may enter, and as the very longest expeditions are 4 days, anyone still found in the mines after 4 days will be prosecuted. 
-- Miners Not h
+- Miners Not happy about this 
+
+## Druids
+So they're even more upset now - they want people to stop disrespecting their land but that was almost achievable if they could get some sense into the people of Aeglirin, which they were actually kinda achieving. 
 
 
 
