@@ -39,8 +39,8 @@ The Admiral fucks with his style, he wants to be his right hand man. He will wan
 
 The guards are scared shitless of the situation.  probably wont reveal shit until Admiral is not around, or don't think info would get back. But they will be way more keen on spilling details about the plan if the admiral leaves
 
-
-
+**The plan:**
+Efarius wants control over the area because he doesn't want people to be able to access 
 
 
 
