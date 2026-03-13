@@ -12,3 +12,5 @@ is the group in Aeglirin, led by [[Efarius Covenmane]] is trying to monopolize t
 Efarius has threatened horrible things to all of the people in his sect and they are scared of him so they can't leave or else worse things have happened. He has turned people to stone (Flesh To Stone) and enchanted people so they tear their own eyes out (Dominate Person). Due to this noone has said anything to the higherups of the Arcane Brotherhood, due to fear of failing and getting absolutely obliterated. 
 
 He has been in power for a long time, only recently being evil, so the higher ups have no suspicion of him. Recently started being evil (people don't know why) for ==a cool reason==
+
+Efarius recently gained interest as soon as he heard about the gash in the weave and told his men to set up there (trusted ones), when the rest got there with him just recently, he turned shit up and has decided this is their land (as he doesn't want anyone else to have the power), he is saying this is because he doesn't want anyone else to have the resources. 
