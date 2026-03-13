@@ -49,6 +49,8 @@ His main beef is with the miners, to which he has decreed that noone may enter, 
 So they're even more upset now - they want people to stop disrespecting their land but that was almost achievable if they could get some sense into the people of Aeglirin, which they were actually kinda achieving. 
 
 The druids, who are friends with [[Astrid Moontracker]], will come to pick her up, cause she is stable but not awaking. If asked, the guards will say they just use the weapons and tools they are issued. 
+
+The arrows were inbued with various curses, the used one is used so they don't know what it was. 
 ## Miners
 Some are scared and are planning to leave, others are incredibly mad in a miner kinda way. Some of them are planning to bomb the Arcane Brotherhood area of town. 
 
