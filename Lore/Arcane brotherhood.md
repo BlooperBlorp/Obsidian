@@ -5,5 +5,7 @@ As a high ranking mercantile group, that also deals in the arcane arts, that was
 Leader is called [[Aolis Aedithas]].  The group has 11 brigades, each do a different thing. 8th is outreach and research and has recently been taken over by [[Efarius Covenmane]]. 
 
 # Sect 8 
-is the group in Aeglirin, led by [[Efarius Covenmane]] is trying to monopolize the region of Aeglirin. As well as production and sale of [[Weave infused materials]]. They focus on *new* r&d, looking for new things, things thatll make money etc. Efarius is 'secretly' using this as a way to seek out 
+is the group in Aeglirin, led by [[Efarius Covenmane]] is trying to monopolize the region of Aeglirin. As well as production and sale of [[Weave infused materials]]. They focus on *new* r&d, looking for new things, things thatll make money etc. Efarius is secretly using this as a way to seek out power because he wants to be a great wizard (he's inspired by Karsus). He is going this under a guise of like a iron fist because he cares about the mission (some people are sus about this cause it really ain't that deep)
+
+Efarius has threatened horrible things to all of the people in his sect and they are scared of him so they can't leave or else worse things have happened. 
 
