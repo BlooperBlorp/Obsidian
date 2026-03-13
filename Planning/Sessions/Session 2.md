@@ -1,4 +1,4 @@
-### Planning and writing
+## Planning and writing
 The players wanna interrogate the 2 [[Arcane brotherhood]] Guards that remain, as well as the Admiral. 
 
 Basically what is going on is that [[Efarius Covenmane]] is having grander ideas about taking control over the [[gash in the weave]]. He is going a bit corrupt mode and has just decided that his sect of the Arcane Brotherhood has full control over [[Aeglirin]]. He probably wants to like meet up with [[He who created the Gash in the weave]], or maybe he just got a similar, related idea, and will eventually meet that other guy for big evil time. 
@@ -26,3 +26,7 @@ The plan is not to pick what the players are doing or give them limited options
 - Plan how they feel
 - plan what they know 
 - and get some random name generators ready
+
+# Literally everything happening in the world
+## Arcane Brotherhood
+The arcane brotherhood, back in Aeglirin, does not GAAAAFFFF about the gash in the weave. The top leader, Aolis Aedithas, could not be less concerned with the [[gash in the weave]]. This sect of the brotherhood, the [[]]
