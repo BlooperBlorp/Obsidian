@@ -40,7 +40,10 @@ The Admiral fucks with his style, he wants to be his right hand man. He will wan
 The guards are scared shitless of the situation.  probably wont reveal shit until Admiral is not around, or don't think info would get back. But they will be way more keen on spilling details about the plan if the admiral leaves
 
 **The plan:**
-Efarius wants control over the area because he doesn't want people to be able to access 
+Efarius wants control over the area because he doesn't want people to be able to access the resources or research the [[gash in the weave]]. 
+
+His main beef is with the miners, to which he has decreed that noone may enter, and as the very longest expeditions are 4 days, anyone still found in the mines after 4 days will be prosecuted. 
+- Miners Not h
 
 
 
