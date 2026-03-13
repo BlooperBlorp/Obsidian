@@ -7,5 +7,5 @@ Leader is called [[Aolis Aedithas]].  The group has 11 brigades, each do a diffe
 # Sect 8 
 is the group in Aeglirin, led by [[Efarius Covenmane]] is trying to monopolize the region of Aeglirin. As well as production and sale of [[Weave infused materials]]. They focus on *new* r&d, looking for new things, things thatll make money etc. Efarius is secretly using this as a way to seek out power because he wants to be a great wizard (he's inspired by Karsus). He is going this under a guise of like a iron fist because he cares about the mission (some people are sus about this cause it really ain't that deep)
 
-Efarius has threatened horrible things to all of the people in his sect and they are scared of him so they can't leave or else worse things have happened. 
+Efarius has threatened horrible things to all of the people in his sect and they are scared of him so they can't leave or else worse things have happened. He has turned people to stone (Flesh To Stone) and enchanted people so they tear their own eyes out (Dominate Person)
 
