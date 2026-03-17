@@ -59,7 +59,7 @@ They go to town square, people are meeting, discussing what the hell to do.
 - Arcanist's Magnificent Magnifier
 
 ##### Possible combat
-
+3 Drow Spies
 
 ### Druids
 So they're even more upset now - they want people to stop disrespecting their land but that was almost achievable if they could get some sense into the people of Aeglirin, which they were actually kinda achieving. 
