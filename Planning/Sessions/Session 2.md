@@ -26,6 +26,22 @@ The plan is not to pick what the players are doing or give them limited options
 - Plan how they feel
 - plan what they know 
 - and get some random name generators ready
+# Things Happening
+- Church of mysta is trying to meet with Efarius to negotiate their stay
+	- If they are walking around town they can see this -> Negotiation path
+- Miners are planning to blow up and murder sect 8 
+	- If they try to ask other people what they're gonna do -> fight path
+- Druids are planning a banishment ritual
+	- ask other people what they're gonna do -> not fight path
+# Things the players can/should do
+- Convince the majority of Sect 8 to 
+	- Leave
+	- Turn against Efarius 
+- Collect the people of the town into an uprising to fight against them
+- Side with Efarius who will actually try to reason with them once he realizes they're strong (he respects strength)
+	- optionally also the church of mystra
+- Banishment ritual with the druids
+ 
 
 # Literally everything happening in the world
 ### Arcane Brotherhood
@@ -118,8 +134,8 @@ Some are scared and are planning to leave, others are incredibly mad in a miner 
 - 2x Wolf spider
 
 ##### Rewards (some from the mines, some from the keep)
-- Wand of Magic Missiles
 - Bag of Holding
+- Cursed Luckstone
 - Helm of Awareness
 - Rope of Climbing
 ### Church of Mystra
@@ -143,19 +159,3 @@ Think the land is holy to them now, incredibly offended that someone else (who a
 - Cloak of Divine (Cloack of spines)
 
 
-# Things Happening
-- Church of mysta is trying to meet with Efarius to negotiate their stay
-	- If they are walking around town they can see this -> Negotiation path
-- Miners are planning to blow up and murder sect 8 
-	- If they try to ask other people what they're gonna do -> fight path
-- Druids are planning a banishment ritual
-	- ask other people what they're gonna do -> not fight path
-# Things the players can/should do
-- Convince the majority of Sect 8 to 
-	- Leave
-	- Turn against Efarius 
-- Collect the people of the town into an uprising to fight against them
-- Side with Efarius who will actually try to reason with them once he realizes they're strong (he respects strength)
-	- optionally also the church of mystra
-- Banishment ritual with the druids
- 
