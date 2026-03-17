@@ -133,12 +133,12 @@ Think the land is holy to them now, incredibly offended that someone else (who a
 - This one will be relatively short, and players will have the chance to debate with each other ( and maybe with Priestess Grizelda) how they want to achieve a lowered presence and lowered restrictions in the town
 	- Deception, Intimidation, Or Persuasion
 - There will be a representative Admiral there with 14 Charisma, players will RP a debate with him where they will get advantage or disadvantage depending on the quality of their arguments to convince the Admiral
-- They will need to win 3/5 Argument Categories (each one they will have 3 minutes to discuss) (subject to change)
+- They will need to win 3/5 Argument Categories (each one they will have 3 minutes to discuss) (subject to change) (each person has to talk for a different category)
 	1. Why do you want this/why do you care? (make it most reasonable)
 	2. What is in it for him specifically?
 	3. What is in it for Efarius/Sect 8 in general
 	4. How can I tell you're not lying? 
-	5. 
+	5. How do you have claim over the land? 
 
 # Things Happening
 - Church of mysta is trying to meet with Efarius to negotiate their stay
