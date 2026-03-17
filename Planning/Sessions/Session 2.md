@@ -60,4 +60,20 @@ Some are scared and are planning to leave, others are incredibly mad in a miner 
 
 ## Church of Mystra
 Think the land is holy to them now, incredibly offended that someone else (who also just pulled up) is taking claim over the land. They lowkey fuck with the arcane brotherhood though and want to kinda just be friends with them because they are more or less able to avoid conflict here. 
+
+# Things Happening
+- Church of mysta is trying to meet with Efarius to negotiate their stay
+	- If they are walking around town they can see this -> Negotiation path
+- Miners are planning to blow up and murder sect 8 
+	- If they try to ask other people what they're gonna do -> fight path
+- Druids are planning a banishment ritual
+	- ask other people what they're gonna do -> not fight path
+# Things the players can/should do
+- Convince the majority of Sect 8 to 
+	- Leave
+	- Turn against Efarius 
+- Collect the people of the town into an uprising to fight against them
+- Side with Efarius who will actually try to reason with them once he realizes they're strong (he respects strength)
+	- optionally also the church of mystra
+- Banishment ritual with the druids
  
