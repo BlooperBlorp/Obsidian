@@ -66,6 +66,13 @@ The druids want to work on a banishment ritual (totally not like baldurs gate 3)
 	- Slighly deeper female voice, speaks more quickly
 	- Normal kinda Serious chieftan person
 
+##### Quest:
+- Players will be introduced to the quest by Zanril
+	- If they go, they will be told to wander into the woods "you will find what you are meant to find"
+- Opportunity to make shit up, have them find the druids in the woods having a meeting led by Olanys
+	- They are going to do a druidic ritual to banish specifically the Arcane brotherhood
+	- They need 1 representative token from each of the groups of Aeglirin, as well as a 
+
 ### Miners
 Some are scared and are planning to leave, others are incredibly mad in a miner kinda way. Some of them are planning to bomb the Arcane Brotherhood area of town. It's kinda a secret 
 
