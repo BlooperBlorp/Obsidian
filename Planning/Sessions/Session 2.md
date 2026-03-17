@@ -48,7 +48,18 @@ His main beef is with the miners, to which he has decreed that noone may enter, 
 They go to town square, people are meeting, discussing what the hell to do.
 
 ##### Quest:
-- Convince a whole bunch of the members of sect 8 that ()
+- Convince a whole bunch of the members of sect 8 that "if enough of you leave then you can just all run, who will he send to get all you? It's a waste of his time"
+- This Quest will be started if they are really nice to Dain, one of the guards - and he thinks that the group can help him
+- They can meet Dain with his buddy, Durlan, on their newly instated patrols around town, and get "caught"
+	- They can then go back, and the 7 of them they can like sneak into the guard area and convince a bunch to leave (via the main areas of skills)
+
+##### Rewards:
+- Wand of Magic Missiles
+- Bag of Holding
+- Arcanist's Magnificent Magnifier
+
+##### Possible combat
+
 
 ### Druids
 So they're even more upset now - they want people to stop disrespecting their land but that was almost achievable if they could get some sense into the people of Aeglirin, which they were actually kinda achieving. 
@@ -86,6 +97,7 @@ The druids want to work on a banishment ritual (totally not like baldurs gate 3)
 - Cloak of Spines
 - 1x luckleaf each
 - Cloak of Elvenkind
+- Inbued the wood into the staff of a caster
 
 ##### Optional Combat:
 - 3 Dire wolf
