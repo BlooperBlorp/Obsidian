@@ -60,7 +60,7 @@ They go to town square, people are meeting, discussing what the hell to do.
 
 ##### Possible combat
 3 Drow Spies
-
+2 Guard
 ### Druids
 So they're even more upset now - they want people to stop disrespecting their land but that was almost achievable if they could get some sense into the people of Aeglirin, which they were actually kinda achieving. 
 
@@ -111,7 +111,19 @@ Some are scared and are planning to leave, others are incredibly mad in a miner 
 - "They're getting voilent? WE'LL GET VIOLENT" they're gonna blow up the main arcane brotherhood stockpile are for munitions and resources
 - Need to go get Smokepowder from the nearby Muhgundgion Mines 
 	- These were the closest by mountain mines prior to the [[gash in the weave]], so they left a bunch of shit there.
-	- The re
+	- The rest of the smokepowder is in the mines toward the gash, which are too dangerous to enter 
+	- Like a 4 hour walk around the side of the mountain
+
+##### Combat (do this one)
+- Crag Cat
+- 2x Giant Spider
+- 
+
+##### Rewards (some from the mines, some from the keep)
+- Wand of Magic Missiles
+- Bag of Holding
+- Helm of Awareness
+- Rope of Climbing
 ### Church of Mystra
 Think the land is holy to them now, incredibly offended that someone else (who also just pulled up) is taking claim over the land. They lowkey fuck with the arcane brotherhood though and want to kinda just be friends with them because they are more or less able to avoid conflict here. 
 
