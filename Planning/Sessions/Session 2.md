@@ -106,6 +106,12 @@ The druids want to work on a banishment ritual (totally not like baldurs gate 3)
 ### Miners
 Some are scared and are planning to leave, others are incredibly mad in a miner kinda way. Some of them are planning to bomb the Arcane Brotherhood area of town. It's kinda a secret 
 
+##### Quest
+- Found by talking to Urmdus (Dwarf Miner, deep miner voice) if they seek out the miners to see what they're up to anywhere
+- "They're getting voilent? WE'LL GET VIOLENT" they're gonna blow up the main arcane brotherhood stockpile are for munitions and resources
+- Need to go get Smokepowder from the nearby Muhgundgion Mines 
+	- These were the closest by mountain mines prior to the [[gash in the weave]], so they left a bunch of shit there.
+	- The re
 ### Church of Mystra
 Think the land is holy to them now, incredibly offended that someone else (who also just pulled up) is taking claim over the land. They lowkey fuck with the arcane brotherhood though and want to kinda just be friends with them because they are more or less able to avoid conflict here. 
 
