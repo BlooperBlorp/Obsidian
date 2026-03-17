@@ -47,6 +47,9 @@ His main beef is with the miners, to which he has decreed that noone may enter, 
 
 They go to town square, people are meeting, discussing what the hell to do.
 
+##### Quest:
+- Convince a whole bunch of the members of sect 8 that ()
+
 ### Druids
 So they're even more upset now - they want people to stop disrespecting their land but that was almost achievable if they could get some sense into the people of Aeglirin, which they were actually kinda achieving. 
 
@@ -71,13 +74,22 @@ The druids want to work on a banishment ritual (totally not like baldurs gate 3)
 	- If they go, they will be told to wander into the woods "you will find what you are meant to find"
 - Opportunity to make shit up, have them find the druids in the woods having a meeting led by Olanys
 	- They are going to do a druidic ritual to banish specifically the Arcane brotherhood
+		- They get to decide what the ritual does
 	- They need 1 representative token from each of the groups of Aeglirin, as well as a large enough totem for casting the ritual so everyone can focus on it, and some Kythrian Machineel Imbued Wood from the nearby woods
 		- 1 token - full roleplay it 
 		- Totem - fully make it up, they have to convince them it's good even
 		- Kythrial Machineel wood (from the nearby woods, they have to explore)
+- They will be rewarded for siding with the druids, for bonus if they're nice
+
+##### Rewards:
+- Boots of the Winding path
+- Cloak of Spines
+- 1x luckleaf each
+- Cloak of Elvenkind
 
 ##### Optional Combat:
-- 
+- 3 Dire wolf
+- 2 Wolf
 
 ### Miners
 Some are scared and are planning to leave, others are incredibly mad in a miner kinda way. Some of them are planning to bomb the Arcane Brotherhood area of town. It's kinda a secret 
