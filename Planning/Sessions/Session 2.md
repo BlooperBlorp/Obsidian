@@ -54,7 +54,6 @@ They go to town square, people are meeting, discussing what the hell to do.
 	- They can then go back, and the 7 of them they can like sneak into the guard area and convince a bunch to leave (via the main areas of skills)
 
 ##### Rewards:
-- Wand of Magic Missiles
 - Bag of Holding
 - Arcanist's Magnificent Magnifier
 
@@ -94,7 +93,6 @@ The druids want to work on a banishment ritual (totally not like baldurs gate 3)
 
 ##### Rewards:
 - Boots of the Winding path
-- Cloak of Spines
 - 1x luckleaf each
 - Cloak of Elvenkind
 - Inbued the wood into the staff of a caster
@@ -139,6 +137,11 @@ Think the land is holy to them now, incredibly offended that someone else (who a
 	3. What is in it for Efarius/Sect 8 in general
 	4. How can I tell you're not lying? 
 	5. How do you have claim over the land? 
+
+##### Rewards
+- Pearl of Power
+- Cloak of Divine (Cloack of spines)
+
 
 # Things Happening
 - Church of mysta is trying to meet with Efarius to negotiate their stay
