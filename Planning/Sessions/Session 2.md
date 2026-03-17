@@ -130,9 +130,15 @@ Think the land is holy to them now, incredibly offended that someone else (who a
 ##### Quest
 - Priestess Grizelda might find the players - because she is trying to show that she is good and capable pretty much (secretly)
 - She will say that she is in the process of organizing a meeting with Sect 8 of the Arcane brotherhood, and that she would love for the party (as members of [[Aeglirin]]) to come. 
-- This one will be relatively short, and players will have the chance to debate with each other ( and maybe with Priestess Grizelda) what they want to achieve
+- This one will be relatively short, and players will have the chance to debate with each other ( and maybe with Priestess Grizelda) how they want to achieve a lowered presence and lowered restrictions in the town
 	- Deception, Intimidation, Or Persuasion
-	- 
+- There will be a representative Admiral there with 14 Charisma, players will RP a debate with him where they will get advantage or disadvantage depending on the quality of their arguments to convince the Admiral
+- They will need to win 3/5 Argument Categories
+	1. Why do you want this/why do you care? (make it most reasonable)
+	2. What is in it for him specifically?
+	3. What is in it for Efarius/Sect 8 in general
+	4. How can I tell you're not lying? 
+	5. How does it strengthen the larger relationship between the churc
 
 # Things Happening
 - Church of mysta is trying to meet with Efarius to negotiate their stay
