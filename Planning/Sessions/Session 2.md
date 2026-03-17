@@ -54,7 +54,13 @@ The druids, who are friends with [[Astrid Moontracker]], will come to pick her u
 
 The arrows were inbued with various curses, the used one is used so they don't know what it was. 
 
-The druids want to work on a banishment ritual (totally not like  baldurs gate 3)
+The druids want to work on a banishment ritual (totally not like baldurs gate 3)
+
+##### NPCS:
+- Zanril
+	- Druid / point of contact - He'll come for Astrid
+	- Zenyata voice - lowkey chill 
+
 ### Miners
 Some are scared and are planning to leave, others are incredibly mad in a miner kinda way. Some of them are planning to bomb the Arcane Brotherhood area of town. It's kinda a secret 
 
