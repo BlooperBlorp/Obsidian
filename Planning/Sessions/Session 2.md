@@ -72,6 +72,7 @@ They go to town square, people are meeting, discussing what the hell to do.
 ##### Rewards:
 - Bag of Holding
 - Arcanist's Magnificent Magnifier
+- Repulsion Shield
 
 ##### Possible combat
 3 Drow Spies
@@ -157,5 +158,7 @@ Think the land is holy to them now, incredibly offended that someone else (who a
 ##### Rewards
 - Pearl of Power
 - Cloak of Divine (Cloack of spines)
+- Helm of Mystra
+	- Helm of the gods but just 1 charge a day and you can cast
 
 
