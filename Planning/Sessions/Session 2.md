@@ -159,6 +159,7 @@ Think the land is holy to them now, incredibly offended that someone else (who a
 - Pearl of Power
 - Cloak of Divine (Cloack of spines)
 - Helm of Mystra
-	- Helm of the gods but just 1 charge a day and you can cast
+	- Once a day every day you can bestow someone ancestral inspiration (1 use of Heroic inspo)
+		- It has to be given as an action, they get an additional inspiration until next long rest
 
 
