@@ -128,7 +128,11 @@ Some are scared and are planning to leave, others are incredibly mad in a miner 
 Think the land is holy to them now, incredibly offended that someone else (who also just pulled up) is taking claim over the land. They lowkey fuck with the arcane brotherhood though and want to kinda just be friends with them because they are more or less able to avoid conflict here. 
 
 ##### Quest
-- This one will be harder to find
+- Priestess Grizelda might find the players - because she is trying to show that she is good and capable pretty much (secretly)
+- She will say that she is in the process of organizing a meeting with Sect 8 of the Arcane brotherhood, and that she would love for the party (as members of [[Aeglirin]]) to come. 
+- This one will be relatively short, and players will have the chance to debate with each other ( and maybe with Priestess Grizelda) what they want to achieve
+	- Deception, Intimidation, Or Persuasion
+	- 
 
 # Things Happening
 - Church of mysta is trying to meet with Efarius to negotiate their stay
