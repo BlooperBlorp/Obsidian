@@ -117,7 +117,7 @@ Some are scared and are planning to leave, others are incredibly mad in a miner 
 ##### Combat (do this one)
 - Crag Cat
 - 2x Giant Spider
-- 
+- 2x Wolf spider
 
 ##### Rewards (some from the mines, some from the keep)
 - Wand of Magic Missiles
@@ -126,6 +126,9 @@ Some are scared and are planning to leave, others are incredibly mad in a miner 
 - Rope of Climbing
 ### Church of Mystra
 Think the land is holy to them now, incredibly offended that someone else (who also just pulled up) is taking claim over the land. They lowkey fuck with the arcane brotherhood though and want to kinda just be friends with them because they are more or less able to avoid conflict here. 
+
+##### Quest
+- This one will be harder to find
 
 # Things Happening
 - Church of mysta is trying to meet with Efarius to negotiate their stay
