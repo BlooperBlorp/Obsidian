@@ -28,7 +28,7 @@ The plan is not to pick what the players are doing or give them limited options
 - and get some random name generators ready
 
 # Literally everything happening in the world
-## Arcane Brotherhood
+### Arcane Brotherhood
 The [[arcane brotherhood]], back in Aeglirin, does not GAAAAFFFF about the [[gash in the weave]]. They are just straight chilling right now
 #### Sect 8 
 was recently taken over by [[Efarius Covenmane]], he's been evil as fuck, people are scared. they all:
@@ -47,7 +47,7 @@ His main beef is with the miners, to which he has decreed that noone may enter, 
 
 They go to town square, people are meeting, discussing what the hell to do.
 
-## Druids
+### Druids
 So they're even more upset now - they want people to stop disrespecting their land but that was almost achievable if they could get some sense into the people of Aeglirin, which they were actually kinda achieving. 
 
 The druids, who are friends with [[Astrid Moontracker]], will come to pick her up, cause she is stable but not awaking. If asked, the guards will say they just use the weapons and tools they are issued. 
@@ -55,10 +55,10 @@ The druids, who are friends with [[Astrid Moontracker]], will come to pick her u
 The arrows were inbued with various curses, the used one is used so they don't know what it was. 
 
 The druids want to work on a banishment ritual (totally not like  baldurs gate 3)
-## Miners
+### Miners
 Some are scared and are planning to leave, others are incredibly mad in a miner kinda way. Some of them are planning to bomb the Arcane Brotherhood area of town. It's kinda a secret 
 
-## Church of Mystra
+### Church of Mystra
 Think the land is holy to them now, incredibly offended that someone else (who also just pulled up) is taking claim over the land. They lowkey fuck with the arcane brotherhood though and want to kinda just be friends with them because they are more or less able to avoid conflict here. 
 
 # Things Happening
