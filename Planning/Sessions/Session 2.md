@@ -60,6 +60,11 @@ The druids want to work on a banishment ritual (totally not like baldurs gate 3)
 - Zanril
 	- Druid / point of contact - He'll come for Astrid
 	- Zenyata voice - lowkey chill 
+	- incredibly chill, does not gaf but has info that he will give
+- Olanys
+	- Chief Druid, will be at the meeting if they go there
+	- Slighly deeper female voice, speaks more quickly
+	- Normal kinda Serious chieftan person
 
 ### Miners
 Some are scared and are planning to leave, others are incredibly mad in a miner kinda way. Some of them are planning to bomb the Arcane Brotherhood area of town. It's kinda a secret 
