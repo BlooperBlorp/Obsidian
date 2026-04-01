@@ -156,9 +156,9 @@ Think the land is holy to them now, incredibly offended that someone else (who a
 	5. How do you have claim over the land? 
 
 ##### Rewards
-- Pearl of Power
-- Cloak of Divine (Cloack of spines)
-- Helm of Mystra
+- Pearl of Power - gep
+- Cloak of Divine (Cloack of spines) - Dr. Haynes
+- Helm of Mystra - ring of mystra - given to twig
 	- Once a day every day you can bestow someone ancestral inspiration (1 use of Heroic inspo)
 		- It has to be given as an action, they get an additional inspiration until next long rest
 
