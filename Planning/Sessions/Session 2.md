@@ -87,7 +87,7 @@ The arrows were inbued with various curses, the used one is used so they don't k
 The druids want to work on a banishment ritual (totally not like baldurs gate 3)
 
 ##### NPCS:
-- Zanril
+- Zandril
 	- Druid / point of contact - He'll come for Astrid
 	- Zenyata voice - lowkey chill 
 	- incredibly chill, does not gaf but has info that he will give
