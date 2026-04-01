@@ -163,3 +163,5 @@ Think the land is holy to them now, incredibly offended that someone else (who a
 		- It has to be given as an action, they get an additional inspiration until next long rest
 
 
+Session 3 notes:
+- they got a 
