@@ -166,3 +166,5 @@ Think the land is holy to them now, incredibly offended that someone else (who a
 Session 3 notes:
 - gep got a nat 20 so I gave him an  ~150 year old arcane brotherhood insignia (42 on trinket table) that is a different logo
 - Priestess vivian told twig they can do stuff4
+
+chanalor
