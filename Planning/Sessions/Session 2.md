@@ -87,7 +87,7 @@ The arrows were inbued with various curses, the used one is used so they don't k
 The druids want to work on a banishment ritual (totally not like baldurs gate 3)
 
 ##### NPCS:
-- Zandril
+- [[Zandril]]
 	- Druid / point of contact - He'll come for Astrid
 	- Zenyata voice - lowkey chill 
 	- incredibly chill, does not gaf but has info that he will give
@@ -167,5 +167,8 @@ Session 3 notes:
 - gep got a nat 20 so I gave him an  ~150 year old arcane brotherhood insignia (42 on trinket table) that is a different logo
 - Priestess vivian told twig they can do stuff4
 - Dr. Haynes is sending off a letter to the arabellian army 
+- The druids are doing a protection ritual, they need trinkets from the various people of the town 
+
+
 
 chanalor
