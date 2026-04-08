@@ -172,3 +172,5 @@ Session 3 notes:
 
 
 chanalor
+
+Players really like the idea of the peace talks so we can further that thing perhaps and then 
