@@ -177,4 +177,4 @@ Players really like the idea of the peace talks so we can further that thing per
 
 - urmdus
 - Zinlen
-- Katlyn (high priestess Mavene)1
+- Katlyn (high priestess Mavene)
