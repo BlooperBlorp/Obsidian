@@ -24,9 +24,9 @@ Somewhat inspired by Tabi's campaign, but also other pieces of fiction - what wi
 		- Maybe handorn can contact someone that will give him info on how to repair the gash 
 
 ## Bridging the gap - Sessions 5-8
-- The party will finish their preperations with the druids, and try to take on the 4 remaining guards
+- The party will finish their preperations with the  [[Druids of Hullack Forrest]], and try to take on the 4 remaining guards
 	- How does the druidic ritual come into play? How does the fight work? do I do 2 fights? 
-- After "defeating" the 8th sect (Efarius and a variable amount of others *will* get away, simply because he is WAY too strong and could swat them if he wanted to so he just wont have trouble with that), the party will explore the gash in the weave
+- After "defeating" the 8th sect [[Efarius Covenmane]] and a variable amount of others *will* get away, simply because he is WAY too strong and could swat them if he wanted to so he just wont have trouble with that), the party will explore the gash in the weave
 	- I'm thinking this is super theatrical, possibly combat? some way of giving the players info
 	- then in one way or another they will get info "Guys. Theres another one." "Another what?" "another gash in the weave" aaaaand we end session there
 		- Learned through someone telling them, or perhaps a magical artifact 

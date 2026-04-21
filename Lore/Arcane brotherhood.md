@@ -2,7 +2,7 @@ A mercantile group with a deep history rooted in arcane arts. While in the moder
 
 As a high ranking mercantile group, that also deals in the arcane arts, that was ALSO in close proximity to the [[gash in the weave]], they are the primary established mercantile group stationed in [[Aeglirin]]
 
-Leader is called [[Aolis Aedithas]].  The group has 11 brigades, each do a different thing. 8th is outreach and research and has recently been taken over by [[Efarius Covenmane]]. 
+Leader is called [[Aolis Aedithas]]. The group has 11 brigades, each do a different thing. 8th is outreach and research and has recently been taken over by [[Efarius Covenmane]]. 
 
 The Arcane Brotherhood is actually like, chill as fuck, like lowkey it's giving modern day corporate company a-la cactus club cafe. There can just be evil as fuck managers, which is who efarius is.
 

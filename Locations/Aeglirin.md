@@ -1,4 +1,4 @@
-Aeglirin got it's name from the local community of elvish (?) [[Druids]]
+Aeglirin got it's name from the local community of elvish (?) [[Druids of Hullack Forrest]]
 who inhabited the land before they were kicked out by the first settlers
 
 ### Location 
@@ -12,9 +12,9 @@ There are crude structures people call "houses". A secondary market has begun to
 ### Inhabitants
 The inhabitants include wizards and mages trying to study the break in the weave and it's effects, prospectors trying to make a quick buck, artificers that are buying the [[Weave infused materials]] for use, and large merchant organizations and governments looking to extract resources from the newly found supply of magic. 
 
-Followers of Mystra have come to pray as they want to get closer to their god. They are currently unsure about Mystra thinks on the matter as she has been silent 
+Followers of Mystra ([[Church of Mystra]]) have come to pray as they want to get closer to their god. They are currently unsure about Mystra thinks on the matter as she has been silent 
 
-There are also some local [[Druids]] who are fighting back as their holy land is being stepped on quite literally as they were kicked out into the nearby [[Hullack Forrest]]
+There are also some local [[Druids of Hullack Forrest]] who are fighting back as their holy land is being stepped on quite literally as they were kicked out into the nearby [[Hullack Forrest]]
 
 ### Resources
 The trace amounts of [[Weave infused materials]] that *were* in Aeglirin have been taken up and most people take trips deeper into the [[Thunder Peaks]] as they try to look for resources. Depending on their persuasion they may travel deep into the [[mines]] or just trip further into the treacherous mountain range 

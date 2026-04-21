@@ -18,7 +18,7 @@ The party just finished having a conversation with Urmdus (head miner), Zinlen (
 - 
 	- 
 ## Session Planning 
-- After open, Zinlin will explain that most of the Druids aren't really fighters, more-so protectors. (work with Henk on this)
+- After open, Zinlin will explain that most of the [[Druids of Hullack Forrest]] aren't really fighters, more-so protectors. (work with Henk on this)
 	- That they usually just wait for more Kythrian Machineel wood, and that they have been afriad to venture into the woods to get more
 	- They will have to collect 5 bundles, Zinlin will go back to the druid camp to get everyone to prepare the ritual
 	- Nature checks to find the wood 
@@ -31,5 +31,21 @@ The party just finished having a conversation with Urmdus (head miner), Zinlen (
 			- everyone other than [[Arcane brotherhood]] members will get +1 AC, +5 max hp 
 			- and nature will watch over then
 		- rewards
+			- Boots of the Winding path
+			- 1x luckleaf each
+			- Cloak of Elvenkind (if Quatson is there)
+			- Inbued the wood into the staff of a caster
+- They then can go find Urmdus (wherever they think he would be) to discuss the plan
+	- [[Handorn Bravebraid]] will come out of nowhere, limping, missing half an arm below his left elbow. 
+		- The gash is man made. 
+		- [[Efarius Covenmane]] did not like that he was so interested in learning about the [[gash in the weave]], so he was tracked down.
+			- They brought him to a make-shift base in the mines, he was tortured and questioned
+			- When they realized he didn't know anything they decided they would kill him, but he cut off his own arm that was shackled and ran 
+	- When they find Urmdus, they can discuss how they would like to go about attacking the remaining 3 sects of the [[Arcane brotherhood]]
+		- [[Urmdus]] is willing to fight, so is [[Olanys]], and [[High Priestess Mavene]]
 
-- 
+- Each remaining sect has 
+	- 1 Feathergale knight
+	- 1-8 guards
+	- 1 specialist (scout, drow spy)
+	- any number of filler barovian commoners (grunts, still in training)
