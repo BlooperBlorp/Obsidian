@@ -1,5 +1,5 @@
 ## Where we begin:
-The party just finished having a conversation with Urmdus (head miner), Zinlin (Druid guy), and High Priestess Gwendolin.
+The party just finished having a conversation with Urmdus (head miner), Zinlen (Druid guy), and High Priestess Mavene(Gwendolyn). 
 - It has been revealed that while [[Efarius Covenmane]] *said* that he was going to be peaceful to everyone who stayed out of the mines, and let people leave the mines, what actually is happening is:
 	- Efarius and his 5 most loyal groups went in to the mines and have been murdering, questioning, and torturing the miners. The specifics have not made it to Urmdus however.
 - Urmdus raised this concern to Zinlin and Gwendolin, saying they need to attack now - so they can weaken the [[8th Sect]] Of the [[Arcane brotherhood]] in order to raise their odds of survival
@@ -24,8 +24,8 @@ The party just finished having a conversation with Urmdus (head miner), Zinlin (
 	- Nature checks to find the wood 
 		- 15+ find 1-2 woods 
 		- <10: stealth rolls, variable depending on how bad they did 
-			- 1-2 dire wolf 
-			- 2-3 Wolf 
+			- 2-3 dire wolf 
+			- 1-2 Wolf 
 	- They go back to Druid camp, discuss ritual
 		- So this can last 4 days just in town/2 days deeper into the mines and surrounding area
 			- everyone other than [[Arcane brotherhood]] members will get +1 AC, +5 max hp 

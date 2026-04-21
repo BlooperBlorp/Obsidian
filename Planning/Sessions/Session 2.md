@@ -111,7 +111,7 @@ The druids want to work on a banishment ritual (totally not like baldurs gate 3)
 ##### Rewards:
 - Boots of the Winding path
 - 1x luckleaf each
-- Cloak of Elvenkind
+- Cloak of Elvenkind (if Quatson is there)
 - Inbued the wood into the staff of a caster
 
 ##### Optional Combat:
