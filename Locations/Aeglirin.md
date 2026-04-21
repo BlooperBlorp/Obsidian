@@ -44,6 +44,8 @@ HUZZAH!!!!
 	- Mining supplies shop
 	- Inn: The Pilgrimage 
 	- General Store
+	- Trading outpost
+	- 
 
 ##### The Square:
 - Has a well in it 
