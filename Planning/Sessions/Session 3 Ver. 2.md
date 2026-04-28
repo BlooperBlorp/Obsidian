@@ -49,3 +49,6 @@ The party just finished having a conversation with Urmdus (head miner), Zinlen (
 	- 1-8 guards
 	- 1 specialist (scout, drow spy)
 	- any number of filler barovian commoners (grunts, still in training)
+
+## Things that happen anyway
+- [[Efarius Covenmane]] will be in the mines 
