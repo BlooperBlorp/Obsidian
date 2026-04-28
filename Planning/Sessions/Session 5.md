@@ -15,12 +15,10 @@ The party just finished having a conversation with Urmdus (head miner), Zinlen (
 	- learned that Karsus was the last time Mystra was damaged
 	- Wants to teach Twig more about Mystra
 - Henk Writing to his army friends 
-- 
-	- 
 ## Session Planning 
 - After open, Zinlin will explain that most of the [[Druids of Hullack Forrest]] aren't really fighters, more-so protectors. (work with Henk on this)
 	- That they usually just wait for more Kythrian Machineel wood, and that they have been afriad to venture into the woods to get more
-	- They will have to collect 5 bundles, Zinlin will go back to the druid camp to get everyone to prepare the ritual
+	- They will have to collect 5 bundles, Zinlen will go back to the druid camp to get everyone to prepare the ritual
 	- Nature checks to find the wood 
 		- 15+ find 1-2 woods 
 		- <10: stealth rolls, variable depending on how bad they did 
@@ -51,4 +49,4 @@ The party just finished having a conversation with Urmdus (head miner), Zinlen (
 	- any number of filler barovian commoners (grunts, still in training)
 
 ## Things that happen anyway
-- [[Efarius Covenmane]] will be in the mines 
+- [[Efarius Covenmane]] will be in the mines, and with the privacy enabled by it's chambers
