@@ -1,5 +1,5 @@
 ## Where we begin:
-The party just finished having a conversation with Urmdus (head miner), Zinlen (Druid guy), and High Priestess Mavene(Gwendolyn). 
+The party just finished having a conversation with Urmdus (head miner), Zinlen (Druid guy), and High Priestess Mavene (Gwendolyn). 
 - It has been revealed that while [[Efarius Covenmane]] *said* that he was going to be peaceful to everyone who stayed out of the mines, and let people leave the mines, what actually is happening is:
 	- Efarius and his 5 most loyal groups went in to the mines and have been murdering, questioning, and torturing the miners. The specifics have not made it to Urmdus however.
 - Urmdus raised this concern to Zinlin and Gwendolin, saying they need to attack now - so they can weaken the [[8th Sect]] Of the [[Arcane brotherhood]] in order to raise their odds of survival
