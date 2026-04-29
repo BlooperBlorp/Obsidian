@@ -21,7 +21,7 @@ The party just finished having a conversation with Urmdus (head miner), Zinlen (
 	- They will have to collect 2 bundles, Zinlen will go back to the druid camp to get everyone to prepare the ritual
 	- Nature checks to find the wood 
 		- 15+ find 1 woods 
-		- <10: stealth rolls, variable depending on how bad they did 
+		- <14: stealth rolls, variable depending on how bad they did 
 			- 2-3 dire wolf 
 			- 1-2 Wolf 
 	- They go back to Druid camp, discuss ritual
