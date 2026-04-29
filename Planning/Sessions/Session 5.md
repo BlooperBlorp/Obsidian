@@ -55,3 +55,5 @@ The party just finished having a conversation with Urmdus (head miner), Zinlen (
 - He will discover that the [[gash in the weave]] was in fact caused by high level magic
 
 Merdan the druid guy
+
+
