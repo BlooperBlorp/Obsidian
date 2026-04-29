@@ -35,6 +35,7 @@ The party just finished having a conversation with Urmdus (head miner), Zinlen (
 			- Inbued the wood into the staff of a caster
 - They then can go find Urmdus (wherever they think he would be) to discuss the plan
 	- [[Handorn Bravebraid]] will come out of nowhere, limping, missing half an arm below his left elbow. 
+		- He needs to confirm what Urmdus is saying 
 		- The gash is man made. 
 		- [[Efarius Covenmane]] did not like that he was so interested in learning about the [[gash in the weave]], so he was tracked down.
 			- They brought him to a make-shift base in the mines, he was tortured and questioned
