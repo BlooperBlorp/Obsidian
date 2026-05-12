@@ -53,6 +53,7 @@ The party just finished having a conversation with Urmdus (head miner), Zinlen (
 - [[Efarius Covenmane]] will be in the mines, and with the privacy enabled by it's chambers he will be *much* more brutal. 
 	- Basically because he has deniability he dgaf and so he brought his closest men who wont go rogue - they are being brash, violent, and showing their true colours 
 - He will discover that the [[gash in the weave]] was in fact caused by high level magic
+	- He will 
 
 Merdan the druid guy
 
