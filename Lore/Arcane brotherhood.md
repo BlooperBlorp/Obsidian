@@ -15,4 +15,4 @@ He has been in power for a long time, only recently being evil, so the higher up
 
 Efarius recently gained interest as soon as he heard about the gash in the weave and told his men to set up there (trusted ones), when the rest got there with him just recently, he turned shit up and has decided this is their land (as he doesn't want anyone else to have the power), he is saying this is because he doesn't want anyone else to have the resources. 
 
-the 8th sect has 12 groups, the least relevant 4 of them have left, 8 remain, with 3 of them still being in town and the other 5 being in the mines. 
+the 8th sect has 12 groups, the least relevant 4 of them have left, 8 remain, with 3 of them still being in town and the other 5 being in the mines. Each sect has an admiral

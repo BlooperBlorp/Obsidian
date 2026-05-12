@@ -27,7 +27,7 @@ They then can go find Urmdus (wherever they think he would be) to discuss the pl
 	- They seem to do patrols 
 
 ### Sect 8 Bullshitting 
-- Names
+- Admiral Names
 	- Kheider Rusk
 	- Nio Youngdraft
 	- Seiben Dua
