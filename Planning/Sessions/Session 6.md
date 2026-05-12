@@ -30,7 +30,6 @@ They then can go find Urmdus (wherever they think he would be) to discuss the pl
 - Wild magic table 
 - Miner tabi fed being different 
 - Geps staff changing 
-- 
 
 - Each remaining sect has 
 	- 1 Feathergale knight
