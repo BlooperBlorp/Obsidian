@@ -1,4 +1,5 @@
-Henk was a member
+army of [[Arabel]]
+[[Henk Haynes]] was a member
 
 They send a letter back to Henk
 

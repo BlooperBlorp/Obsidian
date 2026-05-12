@@ -26,6 +26,12 @@ They then can go find Urmdus (wherever they think he would be) to discuss the pl
 ##### if they go for the head
 - end the session and tell the players you have to prep a dungeon now lol. 
 
+### Things to add to dm screen
+- Wild magic table 
+- Miner tabi fed being different 
+- Geps staff changing 
+- 
+
 - Each remaining sect has 
 	- 1 Feathergale knight
 	- 1-8 guards
