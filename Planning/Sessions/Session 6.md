@@ -17,6 +17,22 @@ They then can go find Urmdus (wherever they think he would be) to discuss the pl
 		- [[High Priestess Mavene]] will mention how they *were* able to convince groups to leave, maybe we can scare them, negotiate with them, 
 		- [[Olanys]], or Zinlen will say "why attack the ones in town at all? we need to cut off this sickness from the head"
 
+- Each remaining sect has 
+	- 1 Feathergale knight
+	- 1-8 guards
+	- 1 specialist (scout, drow spy)
+	- any number of filler barovian commoners (grunts, still in training)
+- They don't know the specifics of how they are operating.
+	- They tend to be around the Arcane Brotherhood like area
+	- They seem to do patrols 
+
+### Sect 8 Bullshitting 
+- Names
+	- Kheider Rusk
+	- Nio Youngdraft
+	- Seiben Dua
+- 
+
 ##### If they fight
 - The players can take on 1 group, the everyone else can take on another 
 
@@ -31,8 +47,3 @@ They then can go find Urmdus (wherever they think he would be) to discuss the pl
 - Miner tabi fed being different 
 - Geps staff changing 
 
-- Each remaining sect has 
-	- 1 Feathergale knight
-	- 1-8 guards
-	- 1 specialist (scout, drow spy)
-	- any number of filler barovian commoners (grunts, still in training)
