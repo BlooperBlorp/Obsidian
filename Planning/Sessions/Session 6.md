@@ -47,3 +47,15 @@ They then can go find Urmdus (wherever they think he would be) to discuss the pl
 - Miner tabi fed being different 
 - Geps staff changing 
 
+# Session Summary
+- We started the day
+	- Party is given the letter referenced above
+		- Henk sends a letter back
+	- Amduhr cakarr - random miner dude goes to Henk's tent, has a cut on his arm, he escaped
+		- Mentions Korgic Singlecraft, the dude henk treated
+			- he's just different, lowkey hallucinating...
+- We go to the cave
+	- Down into the cave it's like 8 ft across and loooong, enough where they cant see down one way, the other way has a fork
+		- from the way they can't see they hear screams
+	- They go that way, find 2 chests, one's a mimic, they fight it 
+		- the other one 
