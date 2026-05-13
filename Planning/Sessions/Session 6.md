@@ -37,3 +37,5 @@ They then can go find Urmdus (wherever they think he would be) to discuss the pl
 	- 1-8 guards
 	- 1 specialist (scout, drow spy)
 	- any number of filler barovian commoners (grunts, still in training)
+
+
