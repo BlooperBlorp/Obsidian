@@ -1,6 +1,6 @@
 ## Where we begin:
 You have gone into [[Hullack Forrest]] to help the [[Druids of Hullack Forrest]] complete their protection ritual onto the people of [[Aeglirin]]. As it stands, Urmdus wants to attack the 3 groups of the 8th sect that remain in Aeglirin. You all decided to go finish off the ritual to give everyone the rest of the day to think it through. Twig, Gep, and Kael all remain in the Druid camp after staying the night - while Henk has gone back to Aeglirin to watch over his 'client'. Efarius and the other 5 groups of the 8th sect remain in the mines, with an uncertain amount of of turmoil falling upon the miners that persist in there. 
-## Session Planning (first bit from unfinished [[session 5]] stuff)
+## Session Planning
 - Overnight, the bird came back with a return letter
 	- [[Bancroft Gartside]], Chieftan of the [[Arabellian Army]] was given his letter, he will be bringing it up to officials from the Arcane Brotherhood, would you like support?
 They then can go find Urmdus (wherever they think he would be) to discuss the plan

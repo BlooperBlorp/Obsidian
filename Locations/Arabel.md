@@ -3,3 +3,5 @@ A walled merchant town led by a plutocratic government. What was once a great ci
 Money is the most direct way to achieve anything in Arabel. It is not a complete anarcho-capatilist thing, they have a ruling government, but those who govern are just the leaders of the top merchant guilds. 
 
 A main guild of note is the the [[Arcane brotherhood]], a mercantile and wizarding collective. This is the collective that sent troops to the [[gash in the weave]]
+
+A weeks travel from [[Aeglirin]]
