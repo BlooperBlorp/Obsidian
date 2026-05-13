@@ -25,7 +25,7 @@ The party just finished having a conversation with Urmdus (head miner), Zinlen (
 			- 2-3 dire wolf 
 			- 1-2 Wolf 
 	- They go back to Druid camp, discuss ritual
-		- So this can last 4 days just in town/2 days deeper into the mines and surrounding area
+		- ==So this can last 4 days just in town==/2 days deeper into the mines and surrounding area
 			- everyone other than [[Arcane brotherhood]] members will get +1 AC, +5 max hp 
 			- and nature will watch over then
 		- rewards
