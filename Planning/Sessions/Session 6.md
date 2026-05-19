@@ -45,9 +45,6 @@ They then can go find Urmdus (wherever they think he would be) to discuss the pl
 ### Things to add to dm screen
 - Wild magic table 
 - Miner tabi fed being different 
-<<<<<<< HEAD
-- Geps staff changing 
-=======
 - Geps staff changing 
 
 # Session Summary
@@ -74,4 +71,4 @@ They then can go find Urmdus (wherever they think he would be) to discuss the pl
 	- they save him and get tf out of there
 - We have meeting 
 	- I give them all the options presented above, they decide we're gonna fight people, pretty much just following urmdus' plan 
->>>>>>> origin/main
+
