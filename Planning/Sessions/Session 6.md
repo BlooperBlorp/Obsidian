@@ -45,4 +45,33 @@ They then can go find Urmdus (wherever they think he would be) to discuss the pl
 ### Things to add to dm screen
 - Wild magic table 
 - Miner tabi fed being different 
+<<<<<<< HEAD
 - Geps staff changing 
+=======
+- Geps staff changing 
+
+# Session Summary
+- We started the day
+	- Party is given the letter referenced above
+		- Henk sends a letter back
+			- half a platoon
+			- supplies
+			- Standard weaponry
+			- telling them about then breaking peace treaty talks, going against civilians, escalating 
+	- Amduhr cakarr - random miner dude goes to Henk's tent, has a cut on his arm, he escaped
+		- Mentions Korgic Singlecraft, the dude henk treated
+			- he's just different, lowkey hallucinating...
+- Meet with Urmdus 
+	- we will have a meal to discuss the plan this evening 
+- We go to the cave
+	- Down into the cave it's like 8 ft across and loooong, enough where they cant see down one way, the other way has a fork
+		- from the way they can't see they hear screams
+	- They go that way, find 2 chests, one's a mimic, they fight it 
+		- the other one had a bag of holding and rope of climing 
+			- NO MORE ITEMS FOR THEM LMFAO
+	- They find Handorn
+		- he says that they beat him, that they are looking for someone, doesn't know who though, and that theyre evil
+	- they save him and get tf out of there
+- We have meeting 
+	- I give them all the options presented above, they decide we're gonna fight people, pretty much just following urmdus' plan 
+>>>>>>> origin/main
