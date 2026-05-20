@@ -11,6 +11,5 @@ Players can do recap
 	- 10 guards
 	- 1 drow spy 
 
-- Make a player use the wild magic table hehe 
 
 
