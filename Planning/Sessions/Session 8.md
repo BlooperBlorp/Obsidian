@@ -1,6 +1,11 @@
 # THE DUNGEON
 Start of the dungeon has a warning: somewhere maybe about being confusing 
 
+[[Start point 1, Cave Entrance]]
+[[Start Point 2, Main entrance]]
+
+
+
 - Guard post near the main exit
 - Room with the exposed gash, Efarius is here
 - Converted miners quarters, place where Arcane brotherhood people now sleep
