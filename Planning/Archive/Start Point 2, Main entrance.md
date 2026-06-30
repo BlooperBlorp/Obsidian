@@ -1,0 +1,1 @@
+In the main entrance there is a guard checkpoint 
