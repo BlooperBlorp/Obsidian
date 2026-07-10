@@ -23,3 +23,7 @@ y. "office" space that efarius and the officers are using
 	- Room of the sides marked "DO NOT PASS, DANGER DUE TO WILD MAGIC" "if you want yer ass got by the weave.... you may proceed"
 y2. Prisoners chambers 
 x. THE GASH ROOM. 
+
+
+#### The mines
+So this area is a confusing mess of miners tunnels that will give of the vibe like "I have no fucking clue how these miners got around here"
