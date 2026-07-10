@@ -9,4 +9,7 @@ Dungeon >:)
 - Layout
 	- 2 Entrances
 	- a room in the deepest section, away from the entrances
-	- 
+
+
+### Numbering for map i'm drawing
+1. Main cave entrance, guarded
