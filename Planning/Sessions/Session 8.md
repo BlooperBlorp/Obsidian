@@ -33,4 +33,6 @@ So this area is a confusing mess of miners tunnels that will give of the vibe li
 Players must navigate through the mines until they find the Barracks. This is a device for you to elongate, shorten, or bolster the session in any which way you'd like. Make the players make rolls to find the rooms though
 - Rooms/encounters:
 	1. patrolling 8th sect admiral + 3-5 8th sect guards (1d6: 1-2/3-4/5-6)
-	2. 
+	2. Pet rock:
+		1. A baby Earth Elemental cowers in the corner. He's about the size of your palm and understands Terran. A DC 15 WIS (Animal Handling) or DC 15 INT (Arcana) roll earns the creature's trust. He can't carry anything heavier than a gold coin. His name is Rocky and he forms a psychic bond with the first person he bonds with enabling that person to understand and crudely speak Terran. If you're buried alive he'll jump in your mouth and allow you to breath.
+	3. 
