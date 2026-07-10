@@ -12,4 +12,5 @@ Dungeon >:)
 
 
 ### Numbering for map i'm drawing
-1. Main cave entrance, guarded
+1. Main mines entrance, guarded
+2. Cave entrance, where they found gundren. There has been activity... non human. ROcks have blocked off the other direction 
