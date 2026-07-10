@@ -49,4 +49,7 @@ Players must navigate through the mines until they find the Barracks. This is a 
 - Other ideas:
 
 
-2026
+2026-07-10 end of building notes:
+- So I have the structure of a dungon here, we made it past the difficult part
+- Other than finishing the basic layout I then have to flesh out each encounter with **descriptions** and details, then I have to
+	- Plan the ending/how this shit connects to the next campaign 
