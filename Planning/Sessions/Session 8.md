@@ -35,4 +35,6 @@ Players must navigate through the mines until they find the Barracks. This is a 
 	1. patrolling 8th sect admiral + 3-5 8th sect guards (1d6: 1-2/3-4/5-6)
 	2. Pet rock:
 		1. A baby Earth Elemental cowers in the corner. He's about the size of your palm and understands Terran. A DC 15 WIS (Animal Handling) or DC 15 INT (Arcana) roll earns the creature's trust. He can't carry anything heavier than a gold coin. His name is Rocky and he forms a psychic bond with the first person he bonds with enabling that person to understand and crudely speak Terran. If you're buried alive he'll jump in your mouth and allow you to breath.
-	3. 
+	3. A wizard is stuck under a large boulder. What happened is he was teleporting as normal and somehow ended up in this cave... his conjuration and divination seems to be blocked... He's super fucking confused and is just trying to get out of here. he will NOT join the party or come with them lol 
+	4. 2 Dwarven miners are tending to a third who is gravely injured bleeding out of his leg... they were attacked by the Arcane brotherhood and ran
+	5. A pair of 
