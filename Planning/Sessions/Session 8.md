@@ -27,6 +27,10 @@ y2. Armory/supply cash
 x. THE GASH ROOM. 
 
 
+For later:
+- Fucking blue dragon wyrmling 
+
+
 #### The mines
 So this area is a confusing mess of miners tunnels that will give of the vibe like "I have no fucking clue how these miners got around here"
 
