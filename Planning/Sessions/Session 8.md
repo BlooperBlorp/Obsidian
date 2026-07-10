@@ -8,4 +8,5 @@ Dungeon >:)
 	- Also so they can focus on my descriptions of the rooms 
 - Layout
 	- 2 Entrances
-	- a room in the deepest section, away from the 
+	- a room in the deepest section, away from the entrances
+	- 
