@@ -14,5 +14,6 @@ Dungeon >:)
 ### Numbering for map i'm drawing
 1. Main mines entrance, guarded
 2. Cave entrance, where they found gundren. There has been activity... non human. ROcks have blocked off the other direction 
-3. A glittermoss room 
-	1. 
+3. A glittermoss room (maybe with yellow mold?)
+4. 5 Giant spider rats 
+5. 
