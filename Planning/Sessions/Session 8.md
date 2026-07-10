@@ -30,7 +30,7 @@ x. THE GASH ROOM.
 #### The mines
 So this area is a confusing mess of miners tunnels that will give of the vibe like "I have no fucking clue how these miners got around here"
 
-Players must navigate through the mines until they find the 
-Rooms will be 10-30 minutes long, players 
-- Rooms:
-	- 
+Players must navigate through the mines until they find the Barracks. This is a device for you to elongate, shorten, or bolster the session in any which way you'd like. Make the players make rolls to find the rooms though
+- Rooms/encounters:
+	1. patrolling 8th sect admiral + 3-5 8th sect guards (1d6: 1-2/3-4/5-6)
+	2. 
