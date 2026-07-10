@@ -16,4 +16,10 @@ Dungeon >:)
 2. Cave entrance, where they found gundren. There has been activity... non human. ROcks have blocked off the other direction 
 3. A glittermoss room (maybe with yellow mold?)
 4. 5 Giant spider rats 
-5. 
+5. ***the mines*** 
+	
+
+y. "office" space that efarius and the officers are using 
+	- Room of the sides marked "DO NOT PASS, DANGER DUE TO WILD MAGIC" "if you want yer ass got by the weave.... you may proceed"
+y2. Prisoners chambers 
+x. THE GASH ROOM. 
