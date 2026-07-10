@@ -17,13 +17,20 @@ Dungeon >:)
 3. A glittermoss room (maybe with yellow mold?)
 4. 5 Giant spider rats 
 5. ***the mines*** 
-	
+6. Converted miners quarters deep in the mine that was has been converted to the barracks for the Arcane brotherhood. 
+7. Prisoner room 
+8. Refuse room 
 
 y. "office" space that efarius and the officers are using 
 	- Room of the sides marked "DO NOT PASS, DANGER DUE TO WILD MAGIC" "if you want yer ass got by the weave.... you may proceed"
-y2. Prisoners chambers 
+y2. Armory/supply cash
 x. THE GASH ROOM. 
 
 
 #### The mines
 So this area is a confusing mess of miners tunnels that will give of the vibe like "I have no fucking clue how these miners got around here"
+
+Players must navigate through the mines until they find the 
+Rooms will be 10-30 minutes long, players 
+- Rooms:
+	- 
