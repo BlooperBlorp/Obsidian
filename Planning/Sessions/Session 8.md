@@ -9,6 +9,7 @@ Dungeon >:)
 - Layout
 	- 2 Entrances
 	- a room in the deepest section, away from the entrances
+- After the first mines secion, players will enter the "wild magic" section after passing efarius's chambers and will pretty much enter a different dungeon - I'm doing this to open myself up to build a longer dungeon that doesn't get old and to allow for more creative encounter design
 
 
 ### Numbering for map i'm drawing
@@ -43,4 +44,9 @@ Players must navigate through the mines until they find the Barracks. This is a 
 	4. 2 Dwarven miners are tending to a third who is gravely injured bleeding out of his leg... they were attacked by the Arcane brotherhood and ran
 	5. A  8th sect guard-type has been attacked by something... his whole patrol was... they're all dead... he's dying 
 	6. Trapper encounter
-	7. 
+	7. a GIANT, EMPTY, ROOM 
+
+- Other ideas:
+
+
+2026
