@@ -1,6 +1,7 @@
 My plan is to narrow the somewhat long list of modules down into a short list of ones where the setting actually makes a semblance of sense first: 
-- hoard of the dragon queen / rise of tiamat
-- princes of the apocalypse
-- stortms kings thunder
-- Waterdeep saga (kinda)
-- 
+- **Storm King's Thunder** (levels 1–11, Sword Coast) — Giants have broken their ancient truce and are rampaging across the whole region. Big open sandbox, tons of hooks, and easy to just say "the giant unrest starts spilling toward your city." Lots of runway left if you start at level 3-5.
+- **Princes of the Apocalypse** (levels 1–15, Dessarin Valley — Sword Coast-adjacent) — Four elemental cults building strongholds and stirring disasters. Very dungeon-crawl-heavy, which might suit your group if they liked the mine dungeon you're running now. Long runway.
+- **Waterdeep: Dungeon of the Mad Mage** (starts at level 5, Waterdeep, Sword Coast) — This one's basically built to be picked up at level 5 exactly. It's a 23-level megadungeon under Waterdeep — very little in the way of "plot" beyond "descend and survive," but if your table likes crawling, it's practically made for slotting into an existing campaign at your target level.
+- **Out of the Abyss** (levels 1–15, starts in the Underdark) — Geographically it's directly beneath the Sword Coast region. Easiest hook: your gash in the weave has also torn something open below, and your party gets swept into (or captured and taken into) the Underdark as demon lords break loose. Long, meaty campaign if you want something big after this.
+- **Curse of Strahd** (levels 1–10, Barovia — a pocket demiplane) — Not on the Sword Coast at all, but the classic hook is the Mists of Ravenloft literally reaching out and pulling characters in — which fits shockingly well with a "gash in the weave" premise. Easiest reflavor: the tear your cult is trying to access has a "leak" into the Domains of Dread, and your party gets pulled through. Great if you want a hard tonal pivot into gothic horror.
+- **The Wild Beyond the Witchlight** (levels 1–8, starts at a traveling carnival) — Not geographically tied anywhere; the carnival can show up wherever you want, including right outside your Sword Coast city. Fully cohesive plot (three hag sisters, one domain, one goal), no anthology looseness. Good if you want a lighter, weirder tonal break before going back to darker stuff.
