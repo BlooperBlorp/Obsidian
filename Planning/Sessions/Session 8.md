@@ -45,6 +45,8 @@ Players must navigate through the mines until they find the Barracks. This is a 
 	5. A  8th sect guard-type has been attacked by something... his whole patrol was... they're all dead... he's dying 
 	6. Trapper encounter
 	7. a GIANT, EMPTY, ROOM 
+	8. Colony of flumphs 
+	9. 3 8th sect guards bullying a xorn, making it find them ores, th
 
 - Other ideas:
 
