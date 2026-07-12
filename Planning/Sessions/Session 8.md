@@ -69,11 +69,17 @@ Player description:
 	- opposed perception check  (+2) of whoever is walking first to notice the guards before they are noticed
 - there is a steep drop, about 30ft (3d6 damage)
 - They have disabled the old looking rickety mining lift 
-- there is a rickety wooden staircase 
+- there is a rickety wooden staircase (dc 12 acrobatics to not damage, if damaged, dc 16 acrobatics to not take damage)
 
 Notes:
 - A full group has been stationed at the main entrance of the cave. 
 - 8 8th sect guards and their admiral 
+
+#### 2. Forest Cave Entrance
+- Players shouldn't have a difficult time getting in as they have shown that they can get in
+
+Player description:
+- You re-enter the old and decrepit mineshaft, it's a tunnel about 10ft by 10ft wide, very rough on the edges. Old wooden scaffolding barely holds up the stone above you. splintered wood and old broken tools 
 
 1. Main mines entrance, guarded
 2. Cave entrance, where they found gundren. There has been activity... non human. ROcks have blocked off the other direction 
