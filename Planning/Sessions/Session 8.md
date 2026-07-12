@@ -60,7 +60,7 @@ Players must navigate through the mines until they find the Barracks. This is a 
 	- Plan the ending/how this shit connects to the next campaign 
 
 
-# Numbering for map i'm drawing
+# Numbering for map 
 
 #### 1. Main Mines Entrance 
 Player description:
