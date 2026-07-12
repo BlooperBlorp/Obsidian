@@ -73,7 +73,6 @@ Notes:
 - A full group has been stationed at the main entrance of the cave. 
 - 8 8th sect guards and their admiral 
 
-
 1. Main mines entrance, guarded
 2. Cave entrance, where they found gundren. There has been activity... non human. ROcks have blocked off the other direction 
 3. A glittermoss room (maybe with yellow mold?)
