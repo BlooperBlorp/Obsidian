@@ -84,8 +84,11 @@ Player description:
 
 - As they pass the mimic room and travel into unknown terrain they reach a fork as the tunnel splits off into two even sections at a slight angle from each other. 
 	- Perception check:
-		- One has the absolute faintest multicoloured - almost pearesclent glow 
-		- The other is oddly clean... 
+		- One has the absolute faintest multicoloured - almost pearesclent sparkle 
+		- The other has a faint musk smell to it 
+
+#### Glittermoss room
+- As you continue down the tunnel, the glow grows in brightness until you finally reach the source - an opening in the cave, a round section of cave about 20ft in diameter that is absolutely covered in the 
 
 1. Main mines entrance, guarded
 2. Cave entrance, where they found gundren. There has been activity... non human. ROcks have blocked off the other direction 
