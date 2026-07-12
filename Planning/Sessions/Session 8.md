@@ -46,7 +46,10 @@ Players must navigate through the mines until they find the Barracks. This is a 
 	6. Trapper encounter
 	7. a GIANT, EMPTY, ROOM 
 	8. Colony of flumphs 
-	9. 3 8th sect guards bullying a xorn, making it find them ores, th
+	9. 3 8th sect admiral + guards bullying a xorn, making it find them ores. They have 4 captive miners who they're making mine them magucite 
+	10. a group of miners (scared, running)
+	11. a group of miners (have no clue what is going on and will not believe the party)
+	12. 
 
 - Other ideas:
 
