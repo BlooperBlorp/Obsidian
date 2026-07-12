@@ -67,7 +67,9 @@ Player description:
 - Mouth of the cave about as tall and as wide as a school bus, broken stalagtites, sticks and twigs that have been tracked in, broken tools, torn scraps of fabric dot the walls.
 - You turn around the bend and the cave opens up into a large room. 
 	- opposed perception check  (+2) of whoever is walking first to notice the guards before they are noticed
-- 
+- there is a steep drop, about 30ft (3d6 damage)
+- They have disabled the old looking rickety mining lift 
+- there is a rickety wooden staircase 
 
 Notes:
 - A full group has been stationed at the main entrance of the cave. 
