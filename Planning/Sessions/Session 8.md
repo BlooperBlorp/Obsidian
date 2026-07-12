@@ -95,7 +95,17 @@ Player description:
 
 #### 4. Giant spider rats 
  - As they traverse down this corrodor, they start to notice a slight buildup of webbing along the corners of the cave. 
- - 
+ - Further ahead there is a total webbing blocking off the section of cave
+ - right above it is 5 giant spider rats 
+	 - If someone takes care to look for them I will let them not be surprised, otherwise, surprise!
+
+#### 5. The MINES.
+
+#### 6. Arcane Brotherhood Barracks
+#### 7. Prisoner Room
+#### 8. Refuse room
+
+
 
 1. Main mines entrance, guarded
 2. Cave entrance, where they found gundren. There has been activity... non human. ROcks have blocked off the other direction 
