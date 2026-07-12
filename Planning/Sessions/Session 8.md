@@ -87,12 +87,15 @@ Player description:
 		- One has the absolute faintest polychromatic - almost pearesclent sparkle 
 		- The other has a faint musk smell to it 
 
-#### Glittermoss room
-- As you continue down the tunnel, the glow grows in brightness until you finally reach the source - an opening in the cave, a round section of cave about 20ft in diameter that is absolutely covered in bright, multicoloured moss. It is quite a thick moss, with the tops of is whispy sections reaching just under a foot tall. it is almost blinding to look at and It seems to almost be reaching out around the cavern. 
+#### 3. Glittermoss room
+- As you continue down the tunnel, the glow grows in brightness until you finally reach the source - an opening in the cave, a round section of cave about 20ft in diameter that is absolutely covered in bright, multicoloured moss. It even reaches slightly up onto the walls. It is quite a thick moss, with the tops of is whispy sections reaching just under a foot tall. it is almost blinding to look at and It seems to almost be reaching out around the cavern. 
 
-- any contact makes a dc 12 constitution saving throw. (2d8 damage and blinded on fail). 
-	- An effected creatured will be illumat
+- any contact makes a dc 12 constitution saving throw. (2d8 damage and blinded for 1 min on fail). 
+	- An effected creature will have spores climb onto them, sheding a bright light around them. any creature that gets anywhere close to them within the minute will make the same save
 
+#### 4. Giant spider rats 
+ - As they traverse down this corrodor, they start to notice a slight buildup of webbing along the corners of the cave. 
+ - 
 
 1. Main mines entrance, guarded
 2. Cave entrance, where they found gundren. There has been activity... non human. ROcks have blocked off the other direction 
