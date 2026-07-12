@@ -79,7 +79,13 @@ Notes:
 - Players shouldn't have a difficult time getting in as they have shown that they can get in
 
 Player description:
-- You re-enter the old and decrepit mineshaft, it's a tunnel about 10ft by 10ft wide, very rough on the edges. Old wooden scaffolding barely holds up the stone above you. splintered wood and old broken tools 
+- You re-enter the old and decrepit mineshaft, it's a tunnel about 10ft by 10ft wide, very rough on the edges. Old wooden scaffolding barely holds up the stone above you.splintered wood and old broken tools speckle the edges of the tunnel. 
+- The shaft is dark, you can't see. (unless you have dark vision)
+
+- As they pass the mimic room and travel into unknown terrain they reach a fork as the tunnel splits off into two even sections at a slight angle from each other. 
+	- Perception check:
+		- One has the absolute faintest multicoloured - almost pearesclent glow 
+		- The other is oddly clean... 
 
 1. Main mines entrance, guarded
 2. Cave entrance, where they found gundren. There has been activity... non human. ROcks have blocked off the other direction 
