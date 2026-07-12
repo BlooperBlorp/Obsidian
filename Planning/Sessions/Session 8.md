@@ -65,11 +65,13 @@ Players must navigate through the mines until they find the Barracks. This is a 
 #### 1. Main Mines Entrance 
 Player description:
 - Mouth of the cave about as tall and as wide as a school bus, broken stalagtites, sticks and twigs that have been tracked in, broken tools, torn scraps of fabric dot the walls.
-- The cave opens up into a large room. As you approa
+- You turn around the bend and the cave opens up into a large room. 
+	- opposed perception check  (+2) of whoever is walking first to notice the guards before they are noticed
+- 
 
 Notes:
 - A full group has been stationed at the main entrance of the cave. 
-
+- 8 8th sect guards and their admiral 
 
 
 1. Main mines entrance, guarded
