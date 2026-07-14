@@ -91,6 +91,17 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 11. a group of miners (have no clue what is going on and will not believe the party)
 12. 2 Ghosts are heard bickering. They both claim to be miners, both claiming that the other one is the ghost of a 8th sect guard, one is trying to guide them towards where the 8th sect is stationed, the other is trying to guide them out ;) 
 13. You can always throw a break room at them
+14. A room fiiiiled with mushrooms, different colours, etc. (flip a coin)
+	1. https://www.dndspeak.com/2020/08/19/100-mushrooms-and-their-effects/
+	2. d6
+		1. Blinded
+		2. Deafened
+		3. Frightened
+		4. Invisible
+		5. Paralyzed
+		6. Petrified
+		7. Poisoned
+		8. 
 
 #### 6. Arcane Brotherhood Barracks
 #### 7. Armory / Supply cache
