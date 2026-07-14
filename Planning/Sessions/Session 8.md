@@ -80,10 +80,11 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 4. 2 Dwarven miners are tending to a third who is gravely injured bleeding out of his leg... they were attacked by the Arcane brotherhood and ran
 5. A  8th sect guard-type has been attacked by something... his whole patrol was... they're all dead... he's dying 
 6. Trapper encounter
-7. Colony of flumphs 
-8. 3 8th sect admiral + guards bullying a xorn, making it find them ores. They have 4 captive miners who they're making mine them magucite 
-9. a group of miners (scared, running)
-10. a group of miners (have no clue what is going on and will not believe the party)
+7. 
+8. Colony of flumphs 
+9. 3 8th sect admiral + guards bullying a xorn, making it find them ores. They have 4 captive miners who they're making mine them magucite 
+10. a group of miners (scared, running)
+11. a group of miners (have no clue what is going on and will not believe the party)
 
 #### 6. Arcane Brotherhood Barracks
 #### 7. Armory / Supply cache
