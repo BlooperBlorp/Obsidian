@@ -89,11 +89,10 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 	4. One entity - 4 health bars. AC 12 HP 11 each. For each health bar it will make 1 attack at a party member (up to all of them) +4 to hit, 2d4+1 piercing damage.
 8. Colony of flumphs 
 9. 3 8th sect admiral + guards bullying a xorn, making it find them ores. They have 4 captive miners who they're making mine them magucite / 4 Miners have befriended a xorn and they're helping each other out.
-10. a group of miners (scared, running)
-11. a group of miners (have no clue what is going on and will not believe the party)
-12. 2 Ghosts are heard bickering. They both claim to be miners, both claiming that the other one is the ghost of a 8th sect guard, one is trying to guide them towards where the 8th sect is stationed, the other is trying to guide them out ;) 
-13. You can always throw a break room at them
-14. A room fiiiiled with mushrooms, different colours, etc. (flip a coin)
+10. a group of miners (flip a coin: 1.have no clue what is going on and will not believe the party 2. Scared and are running, but not hurt)
+11. 2 Ghosts are heard bickering. They both claim to be miners, both claiming that the other one is the ghost of a 8th sect guard, one is trying to guide them towards where the 8th sect is stationed, the other is trying to guide them out ;) 
+12. You can always throw a break room at them
+13. A room fiiiiled with mushrooms, different colours, etc. (flip a coin)
 	1. https://www.dndspeak.com/2020/08/19/100-mushrooms-and-their-effects/
 	2. d6 (Effect lasts until next encounter)
 		1. Blinded
@@ -102,7 +101,7 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 		4. Invisible
 		5. Paralyzed
 		6. Poisoned
-15. 
+14. 2 
 
 #### 6. Arcane Brotherhood Barracks
 
