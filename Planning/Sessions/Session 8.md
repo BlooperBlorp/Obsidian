@@ -84,7 +84,7 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 	1. You get to an open section of trail, within an dark, open cavern that travels perpendicular to the mineshaft. Perception check (dc 10 to hear bats)
 	2. Stealth Check (DC 15 to evade the bats attention)
 	3. Swarm of bats surrounds the party 
-	4. One entity - 4 health bars. AC 12 HP 11 each. For each health bar it will make 1 attack at a party member (up to all of them) +4 to 
+	4. One entity - 4 health bars. AC 12 HP 11 each. For each health bar it will make 1 attack at a party member (up to all of them) +4 to hit, 2d4+1 piercing damage.
 8. Colony of flumphs 
 9. 3 8th sect admiral + guards bullying a xorn, making it find them ores. They have 4 captive miners who they're making mine them magucite 
 10. a group of miners (scared, running)
