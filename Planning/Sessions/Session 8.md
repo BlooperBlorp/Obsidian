@@ -108,6 +108,8 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 16. You hear footsteps (perception check for details)
 	1. it's an 8th sect guard who got the fuck out of dodge and is trying to find his way out of here
 17. You approach as a 8th sect admiral is verbally assaulting a miner, his back is turned to you however. 
+18. An angry Xorn, looking around for more magucite 
+19. 8th Sect Snare (DC 20 Perception to notice, )
 
 #### 6. Arcane Brotherhood Barracks
 
