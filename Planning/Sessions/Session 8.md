@@ -18,8 +18,11 @@ Dungeon >:)
 	- Plan the ending/how this shit connects to the next campaign 
 
 
-# Numbering for map 
 
+# Numbering for map 
+#### Reminder for players:
+- No map given by me
+- Take a moment to encourage creative thinking. Every single encounter in this dungeon has well more than 2 ways you can go about it. You quite literally have every option, use that. 
 #### 1. Main Mines Entrance 
 Player description:
 - Mouth of the cave about as tall and as wide as a school bus, broken stalagtites, sticks and twigs that have been tracked in, broken tools, torn scraps of fabric dot the walls.
@@ -58,23 +61,26 @@ Player description:
 	 - If someone takes care to look for them I will let them not be surprised, otherwise, surprise!
 
 #### 5. The MINES.
+##### Self planning:
 So this area is a confusing mess of miners tunnels that will give of the vibe like "I have no fucking clue how these miners got around here"
 
 Players must navigate through the mines until they find the Barracks. This is a device for you to elongate, shorten, or bolster the session in any which way you'd like. Make the players make rolls to find the rooms though
-- Rooms/encounters:
-	1. patrolling 8th sect admiral + 2-3 8th sect guards 
-	2. Patrolling 4-5 8th Sect guards
-	3. Pet rock:
-		1. A baby Earth Elemental cowers in the corner. He's about the size of your palm and understands Terran. A DC 15 WIS (Animal Handling) or DC 15 INT (Arcana) roll earns the creature's trust. He can't carry anything heavier than a gold coin. His name is Rocky and he forms a psychic bond with the first person he bonds with enabling that person to understand and crudely speak Terran. If you're buried alive he'll jump in your mouth and allow you to breath.
-	4. A wizard is stuck under a large boulder. What happened is he was teleporting as normal and somehow ended up in this cave... his conjuration and divination seems to be blocked... He's super fucking confused and is just trying to get out of here. he will NOT join the party or come with them lol 
-	5. 2 Dwarven miners are tending to a third who is gravely injured bleeding out of his leg... they were attacked by the Arcane brotherhood and ran
-	6. A  8th sect guard-type has been attacked by something... his whole patrol was... they're all dead... he's dying 
-	7. Trapper encounter
-	8. Colony of flumphs 
-	9. 3 8th sect admiral + guards bullying a xorn, making it find them ores. They have 4 captive miners who they're making mine them magucite 
-	10. a group of miners (scared, running)
-	11. a group of miners (have no clue what is going on and will not believe the party)
-	12. 
+
+##### Player Description:
+
+##### Rooms/Encounters:
+1. patrolling 8th sect admiral + 2-3 8th sect guards 
+2. Patrolling 4-5 8th Sect guards
+3. Pet rock:
+	1. A baby Earth Elemental cowers in the corner. He's about the size of your palm and understands Terran. A DC 15 WIS (Animal Handling) or DC 15 INT (Arcana) roll earns the creature's trust. He can't carry anything heavier than a gold coin. His name is Rocky and he forms a psychic bond with the first person he bonds with enabling that person to understand and crudely speak Terran. If you're buried alive he'll jump in your mouth and allow you to breath.
+4. A wizard is stuck under a large boulder. What happened is he was teleporting as normal and somehow ended up in this cave... his conjuration and divination seems to be blocked... He's super fucking confused and is just trying to get out of here. he will NOT join the party or come with them lol 
+5. 2 Dwarven miners are tending to a third who is gravely injured bleeding out of his leg... they were attacked by the Arcane brotherhood and ran
+6. A  8th sect guard-type has been attacked by something... his whole patrol was... they're all dead... he's dying 
+7. Trapper encounter
+8. Colony of flumphs 
+9. 3 8th sect admiral + guards bullying a xorn, making it find them ores. They have 4 captive miners who they're making mine them magucite 
+10. a group of miners (scared, running)
+11. a group of miners (have no clue what is going on and will not believe the party)
 
 #### 6. Arcane Brotherhood Barracks
 #### 7. Armory / Supply cache
