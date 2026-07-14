@@ -101,7 +101,7 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 		4. Invisible
 		5. Paralyzed
 		6. Poisoned
-14. 2 
+14. The pathway ahead is blocked due to a recent cave-in, though the rocks look small enough to push out of the way. It seems it would take quite a while though, and it would probably make a lot of noise that would possibly attract all sorts of attention. However there is a very small off
 
 #### 6. Arcane Brotherhood Barracks
 
