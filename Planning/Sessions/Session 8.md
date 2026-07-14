@@ -17,8 +17,6 @@ Dungeon >:)
 - Other than finishing the basic layout I then have to flesh out each encounter with **descriptions** and details, then I have to
 	- Plan the ending/how this shit connects to the next campaign 
 
-
-
 # Numbering for map 
 #### Reminder for players:
 - No map given by me
@@ -28,7 +26,7 @@ Dungeon >:)
 Player description:
 - Mouth of the cave about as tall and as wide as a school bus, broken stalagtites, sticks and twigs that have been tracked in, broken tools, torn scraps of fabric dot the walls.
 - You turn around the bend and the cave opens up into a large room. 
-	- opposed perception check  (+2) of whoever is walking first to notice the guards before they are noticed
+	- opposed perception check (+2) of whoever is walking first to notice the guards before they are noticed
 - there is a steep drop, about 30ft (3d6 damage)
 - They have disabled the old looking rickety mining lift 
 - there is a rickety wooden staircase (dc 12 acrobatics to not damage, if damaged, dc 16 acrobatics to not take damage)
@@ -118,7 +116,9 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 
 #### 6. Arcane Brotherhood Barracks
 - Very large crescent, kinda half-C shaped room, light flickers from a couple campfires strewn about. There is relatively steep and uneven drop in elevation from one end to the other end. You stand at one end of the C, at he high point. 
-- 3 Paths off of it 
+- 4 Paths off of it 
+- At least like 5-8 guards here
+	- Loud noise/battle will attract 1-2 admirals from the officer room
 
 #### 7. Armory / Supply cache
 #### 8. Refuse room
