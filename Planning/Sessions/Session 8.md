@@ -91,8 +91,7 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 9. 3 8th sect admiral + guards bullying a xorn, making it find them ores. They have 4 captive miners who they're making mine them magucite / 4 Miners have befriended a xorn and they're helping each other out.
 10. a group of miners (flip a coin: 1.have no clue what is going on and will not believe the party 2. Scared and are running, but not hurt)
 11. 2 Ghosts are heard bickering. They both claim to be miners, both claiming that the other one is the ghost of a 8th sect guard, one is trying to guide them towards where the 8th sect is stationed, the other is trying to guide them out ;) 
-12. You can always throw a break room at them
-13. A room fiiiiled with mushrooms, different colours, etc. (flip a coin)
+12. A room fiiiiled with mushrooms, different colours, etc. (flip a coin)
 	1. https://www.dndspeak.com/2020/08/19/100-mushrooms-and-their-effects/
 	2. d6 (Effect lasts until next encounter)
 		1. Blinded
@@ -101,15 +100,16 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 		4. Invisible
 		5. Paralyzed
 		6. Poisoned
-14. The pathway ahead is blocked due to a cave-in, though the rocks look small enough to push out of the way. It seems it would take quite a while though, and it would probably make a lot of noise that would possibly attract all sorts of attention. However there is a very small, dark tunnel that looks like it has been dug in the side of the wall to take you around... you can't see the end of it though
+13. The pathway ahead is blocked due to a cave-in, though the rocks look small enough to push out of the way. It seems it would take quite a while though, and it would probably make a lot of noise that would possibly attract all sorts of attention. However there is a very small, dark tunnel that looks like it has been dug in the side of the wall to take you around... you can't see the end of it though
 	1. if they go in, just make sure that the tunnel leads back a couple times and it's more blocked off rock.
-15. Magucite singing vein
+14. Magucite singing vein
 	1. Triggers wild magic table if anyone takes an action
-16. You hear footsteps (perception check for details)
-	1. it's an 8th sect guard who got the fuck out of dodge and is trying to find his way out of here
-17. You approach as a 8th sect admiral is verbally assaulting a miner, his back is turned to you however. 
-18. An angry Xorn, looking around for more magucite 
-19. 8th Sect Snare (DC 20 Perception to notice, )
+15-16. You hear footsteps (perception check for details)
+	2. it's an 8th sect guard who got the fuck out of dodge and is trying to find his way out of here
+17._ You approach as a 8th sect admiral is verbally assaulting a miner, his back is turned to you however. 
+18._ 8th Sect Snare (DC 21 Perception/Arcana to notice, DC 15 dex to avoid)
+	3. Alerts a nearby patrol
+19._  
 
 #### 6. Arcane Brotherhood Barracks
 
