@@ -13,9 +13,9 @@ They then can go find Urmdus (wherever they think he would be) to discuss the pl
 		- The other groups will be mortified 
 			- Urmdus will say "this is what I was afraid of"
 	- When they find Urmdus, they can discuss how they would like to go about attacking the remaining 3 sects of the [[Arcane brotherhood]]
-		- [[Urmdus]] is willing to fight, so is [[Olanys]], and [[High Priestess Mavene]]
+		- [[Urmdus]] is willing to fight, so is [[Olanys, Chief Druid]], and [[High Priestess Mavene]]
 		- [[High Priestess Mavene]] will mention how they *were* able to convince groups to leave, maybe we can scare them, negotiate with them, 
-		- [[Olanys]], or Zinlen will say "why attack the ones in town at all? we need to cut off this sickness from the head"
+		- [[Olanys, Chief Druid]], or Zinlen will say "why attack the ones in town at all? we need to cut off this sickness from the head"
 
 - Each remaining sect has 
 	- 1 Feathergale knight

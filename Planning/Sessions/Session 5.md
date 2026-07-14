@@ -41,7 +41,7 @@ The party just finished having a conversation with Urmdus (head miner), Zinlen (
 			- They brought him to a make-shift base in the mines, he was tortured and questioned
 			- When they realized he didn't know anything they decided they would kill him, but he cut off his own arm that was shackled and ran 
 	- When they find Urmdus, they can discuss how they would like to go about attacking the remaining 3 sects of the [[Arcane brotherhood]]
-		- [[Urmdus]] is willing to fight, so is [[Olanys]], and [[High Priestess Mavene]]
+		- [[Urmdus]] is willing to fight, so is [[Olanys, Chief Druid]], and [[High Priestess Mavene]]
 
 - Each remaining sect has 
 	- 1 Feathergale knight
