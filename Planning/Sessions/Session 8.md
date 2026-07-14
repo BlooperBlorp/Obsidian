@@ -78,7 +78,7 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 2. 2 Dwarven miners are tending to a third who is gravely injured bleeding out of his leg... they were attacked by the Arcane brotherhood and ran
 3. A 8th sect guard-type has been attacked by something... his whole patrol was... they're all dead... he's dying 
 4. 5. Colony of flumphs 
-5. 3 8th sect admiral + guards bullying a xorn, making it find them ores. They have 4 captive miners who they're making mine them magucite / 4 Miners have befriended a xorn and they're helping each other out.
+5. 4 Miners have befriended a xorn and they're helping each other out.
 6. a group of miners (flip a coin: 1.have no clue what is going on and will not believe the party 2. Scared and are running, but not hurt)
 7. 2 Ghosts are heard bickering. They both claim to be miners, both claiming that the other one is the ghost of a 8th sect guard, one is trying to guide them towards where the 8th sect is stationed, the other is trying to guide them out ;) 
 8. A room fiiiiled with mushrooms, different colours, etc. (flip a coin)
@@ -97,8 +97,7 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 	1. Triggers wild magic table if anyone takes an action
 11. You hear footsteps (perception check for details)
 	1. it's an 8th sect guard who got the fuck out of dodge and is trying to find his way out of here
-12. You approach as a 8th sect admiral is verbally assaulting a miner, his back is turned to you however. 
-13. 8th Sect Snare (DC 21 Perception/Arcana to notice, DC 15 dex to avoid)
+12. 8th Sect Snare (DC 21 Perception/Arcana to notice, DC 15 dex to avoid)
 	2. Alerts a nearby patrol
 ###### Combat:
 1. patrolling 8th sect admiral + 2-3 8th sect guards 
@@ -112,10 +111,14 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 	2. Stealth Check (DC 15 to evade the bats attention)
 	3. Swarm of bats surrounds the party 
 	4. One entity - 4 health bars. AC 12 HP 11 each. For each health bar it will make 1 attack at a party member (up to all of them) +4 to hit, 2d4+1 piercing damage.
+5. You approach as a 8th sect admiral is interrogating and assaulting a miner, his back is turned to you however. 
+6. 8th sect admiral + 3 guards bullying a xorn, making it find them ores. They have 4 captive miners who they're making mine them magucite 
 
 
 
 #### 6. Arcane Brotherhood Barracks
+- Very large crescent, kinda half-C shaped room, light flickers from a couple campfires strewn about. There is relatively steep and uneven drop in elevation from one end to the other end. You stand at one end of the C, at he high point. 
+- 3 Paths off of it 
 
 #### 7. Armory / Supply cache
 #### 8. Refuse room
