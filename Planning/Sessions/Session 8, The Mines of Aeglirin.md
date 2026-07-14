@@ -135,4 +135,5 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 - Patch of unmoving mist, if you touch it you get the faint sensation of being watched
 - Unnaturally cold spot 
 - Wolf howling that feel so close but aren't there
-- 
+- Torn Tarot card 
+- Miners can mention that the mist took someone 
