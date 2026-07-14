@@ -101,7 +101,13 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 		4. Invisible
 		5. Paralyzed
 		6. Poisoned
-14. The pathway ahead is blocked due to a recent cave-in, though the rocks look small enough to push out of the way. It seems it would take quite a while though, and it would probably make a lot of noise that would possibly attract all sorts of attention. However there is a very small off
+14. The pathway ahead is blocked due to a cave-in, though the rocks look small enough to push out of the way. It seems it would take quite a while though, and it would probably make a lot of noise that would possibly attract all sorts of attention. However there is a very small, dark tunnel that looks like it has been dug in the side of the wall to take you around... you can't see the end of it though
+	1. if they go in, just make sure that the tunnel leads back a couple times and it's more blocked off rock.
+15. Magucite singing vein
+	1. Triggers wild magic table if anyone takes an action
+16. You hear footsteps (perception check for details)
+	1. it's an 8th sect guard who got the fuck out of dodge and is trying to find his way out of here
+17. You approach as a 8th sect admiral is verbally assaulting a miner, his back is turned to you however. 
 
 #### 6. Arcane Brotherhood Barracks
 
