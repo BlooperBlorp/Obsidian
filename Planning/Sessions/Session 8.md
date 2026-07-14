@@ -1,5 +1,7 @@
 Dungeon >:) 
-
+### Recap:
+- [[Efarius Covenmane]] and his 8th sect of the [[Arcane brotherhood]] have taken an odd interest in the [[gash in the weave]]... and interest you yet understand. He and his men have taken over the mines nearby to [[a]]
+- You have just slain the last of the 8th sect members who remain outside of the mines. 
 ### Things I want for this dungeon
 - 2-3 sessions long
 	- vaguely 10-20 rooms total
