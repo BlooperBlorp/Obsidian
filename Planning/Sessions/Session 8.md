@@ -69,8 +69,12 @@ Players must navigate through the mines until they find the Barracks. This is a 
 ##### Player Description:
 You enter a medium sized opening in the cave. This room is round and has many objects scattered about. Tools, broken or used, campfires long since burnt, bedrolls dispersed throuhgout. One side of the room is covered with mineshaft entrances. You see 5 different pathways each heading off in different directions, sparsely lit with old, flickering lanterns.  
 ##### Rooms/Encounters:
+- All 8th sect members will make a dc 15 check to see if they recognize the players (guards get +1, admirals get +3)
+
 1. patrolling 8th sect admiral + 2-3 8th sect guards 
+	- check for who sees who first
 2. Patrolling 4-5 8th Sect guards
+	- check for who sees who first
 3. Pet rock:
 	1. A baby Earth Elemental cowers in the corner. He's about the size of your palm and understands Terran. A DC 15 WIS (Animal Handling) or DC 15 INT (Arcana) roll earns the creature's trust. He can't carry anything heavier than a gold coin. His name is Rocky and he forms a psychic bond with the first person he bonds with enabling that person to understand and crudely speak Terran. If you're buried alive he'll jump in your mouth and allow you to breath.
 4. A wizard is stuck under a large boulder. What happened is he was teleporting as normal and somehow ended up in this cave... his conjuration and divination seems to be blocked... He's super fucking confused and is just trying to get out of here. he will NOT join the party or come with them lol 
