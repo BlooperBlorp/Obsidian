@@ -76,15 +76,14 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 2. Patrolling 4-5 8th Sect guards
 	- check for who sees who first
 3. Pet rock:
-	1. A baby Earth Elemental cowers in the corner. He's about the size of your palm and understands Terran. A DC 15 WIS (Animal Handling) or DC 15 INT (Arcana) roll earns the creature's trust. He can't carry anything heavier than a gold coin. His name is Rocky and he forms a psychic bond with the first person he bonds with enabling that person to understand and crudely speak Terran. If you're buried alive he'll jump in your mouth and allow you to breath.
-4. A wizard is stuck under a large boulder. What happened is he was teleporting as normal and somehow ended up in this cave... his conjuration and divination seems to be blocked... He's super fucking confused and is just trying to get out of here. he will NOT join the party or come with them lol 
-5. 2 Dwarven miners are tending to a third who is gravely injured bleeding out of his leg... they were attacked by the Arcane brotherhood and ran
-6. A  8th sect guard-type has been attacked by something... his whole patrol was... they're all dead... he's dying 
-7. Trapper encounter
-8. Colony of flumphs 
-9. 3 8th sect admiral + guards bullying a xorn, making it find them ores. They have 4 captive miners who they're making mine them magucite 
-10. a group of miners (scared, running)
-11. a group of miners (have no clue what is going on and will not believe the party)
+	1. There is a rock trembling on the side of the wall (A baby Earth Elemental cowers in the corner). He's about the size of your palm and understands Terran. A DC 15 WIS (Animal Handling) or DC 15 INT (Arcana) roll earns the creature's trust. He can't carry anything heavier than a gold coin. His name is Rocky and he forms a psychic bond with the first person he bonds with enabling that person to understand and crudely speak Terran. 
+4. 2 Dwarven miners are tending to a third who is gravely injured bleeding out of his leg... they were attacked by the Arcane brotherhood and ran
+5. A  8th sect guard-type has been attacked by something... his whole patrol was... they're all dead... he's dying 
+6. Trapper encounter
+7. Colony of flumphs 
+8. 3 8th sect admiral + guards bullying a xorn, making it find them ores. They have 4 captive miners who they're making mine them magucite 
+9. a group of miners (scared, running)
+10. a group of miners (have no clue what is going on and will not believe the party)
 
 #### 6. Arcane Brotherhood Barracks
 #### 7. Armory / Supply cache
@@ -93,3 +92,6 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 - Has Efarius's quarters off the side 
 #### 10. Prisoner Room
 
+### Ideas for second half of dungeon
+- Blue dragon wyrmling 
+- A wizard is stuck under a large boulder. What happened is he was teleporting as normal and somehow ended up in this cave... his conjuration and divination seems to be blocked... He's super fucking confused and is just trying to get out of here. he will NOT join the party or come with them lol 
