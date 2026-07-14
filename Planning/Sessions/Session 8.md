@@ -72,26 +72,16 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 ##### Rooms/Encounters:
 - All 8th sect members will make a dc 15 check to see if they recognize the players (guards get +1, admirals get +3)
 
-1. patrolling 8th sect admiral + 2-3 8th sect guards 
-	- check for who sees who first
-2. Patrolling 4-5 8th Sect guards
-	- check for who sees who first
-3. Pet rock:
+###### Non-combat
+. Pet rock:
 	1. There is a rock trembling on the side of the wall (A baby Earth Elemental cowers in the corner). He's about the size of your palm and understands Terran. A DC 15 WIS (Animal Handling) or DC 15 INT (Arcana) roll earns the creature's trust. He can't carry anything heavier than a gold coin. His name is Rocky and he forms a psychic bond with the first person he bonds with enabling that person to understand and crudely speak Terran. 
-4. 2 Dwarven miners are tending to a third who is gravely injured bleeding out of his leg... they were attacked by the Arcane brotherhood and ran
-5. A 8th sect guard-type has been attacked by something... his whole patrol was... they're all dead... he's dying 
-6. Trapper encounter
-	1. Bunch of dead bodies on the floor right near it 
-7. Swarm of bats
-	1. You get to an open section of trail, within an dark, open cavern that travels perpendicular to the mineshaft. Perception check (dc 10 to hear bats)
-	2. Stealth Check (DC 15 to evade the bats attention)
-	3. Swarm of bats surrounds the party 
-	4. One entity - 4 health bars. AC 12 HP 11 each. For each health bar it will make 1 attack at a party member (up to all of them) +4 to hit, 2d4+1 piercing damage.
-8. Colony of flumphs 
-9. 3 8th sect admiral + guards bullying a xorn, making it find them ores. They have 4 captive miners who they're making mine them magucite / 4 Miners have befriended a xorn and they're helping each other out.
-10. a group of miners (flip a coin: 1.have no clue what is going on and will not believe the party 2. Scared and are running, but not hurt)
-11. 2 Ghosts are heard bickering. They both claim to be miners, both claiming that the other one is the ghost of a 8th sect guard, one is trying to guide them towards where the 8th sect is stationed, the other is trying to guide them out ;) 
-12. A room fiiiiled with mushrooms, different colours, etc. (flip a coin)
+2. 2 Dwarven miners are tending to a third who is gravely injured bleeding out of his leg... they were attacked by the Arcane brotherhood and ran
+3. A 8th sect guard-type has been attacked by something... his whole patrol was... they're all dead... he's dying 
+4. 5. Colony of flumphs 
+5. 3 8th sect admiral + guards bullying a xorn, making it find them ores. They have 4 captive miners who they're making mine them magucite / 4 Miners have befriended a xorn and they're helping each other out.
+6. a group of miners (flip a coin: 1.have no clue what is going on and will not believe the party 2. Scared and are running, but not hurt)
+7. 2 Ghosts are heard bickering. They both claim to be miners, both claiming that the other one is the ghost of a 8th sect guard, one is trying to guide them towards where the 8th sect is stationed, the other is trying to guide them out ;) 
+8. A room fiiiiled with mushrooms, different colours, etc. (flip a coin)
 	1. https://www.dndspeak.com/2020/08/19/100-mushrooms-and-their-effects/
 	2. d6 (Effect lasts until next encounter)
 		1. Blinded
@@ -100,16 +90,30 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 		4. Invisible
 		5. Paralyzed
 		6. Poisoned
-13. The pathway ahead is blocked due to a cave-in, though the rocks look small enough to push out of the way. It seems it would take quite a while though, and it would probably make a lot of noise that would possibly attract all sorts of attention. However there is a very small, dark tunnel that looks like it has been dug in the side of the wall to take you around... you can't see the end of it though
-	1. if they go in, just make sure that the tunnel leads back a couple times and it's more blocked off rock.
-14. Magucite singing vein
+9. The pathway ahead is blocked due to a cave-in, 
+	1. though the rocks look small enough to push out of the way. It seems it would take quite a while though, and it would probably make a lot of noise that would possibly attract all sorts of attention. However there is a very small, dark tunnel that looks like it has been dug in the side of the wall to take you around... you can't see the end of it though
+		1. if they go in, just make sure that the tunnel leads back a couple times and it's more blocked off rock.
+10. Magucite singing vein
 	1. Triggers wild magic table if anyone takes an action
-15-16. You hear footsteps (perception check for details)
-	2. it's an 8th sect guard who got the fuck out of dodge and is trying to find his way out of here
-17._ You approach as a 8th sect admiral is verbally assaulting a miner, his back is turned to you however. 
-18._ 8th Sect Snare (DC 21 Perception/Arcana to notice, DC 15 dex to avoid)
-	3. Alerts a nearby patrol
-19._  
+11. You hear footsteps (perception check for details)
+	1. it's an 8th sect guard who got the fuck out of dodge and is trying to find his way out of here
+12. You approach as a 8th sect admiral is verbally assaulting a miner, his back is turned to you however. 
+13. 8th Sect Snare (DC 21 Perception/Arcana to notice, DC 15 dex to avoid)
+	2. Alerts a nearby patrol
+###### Combat:
+1. patrolling 8th sect admiral + 2-3 8th sect guards 
+	- check for who sees who first
+2. Patrolling 4-5 8th Sect guards
+	- check for who sees who first
+3. Trapper encounter
+	1. Bunch of dead bodies on the floor right near it 
+4. Swarm of bats
+	1. You get to an open section of trail, within an dark, open cavern that travels perpendicular to the mineshaft. Perception check (dc 10 to hear bats)
+	2. Stealth Check (DC 15 to evade the bats attention)
+	3. Swarm of bats surrounds the party 
+	4. One entity - 4 health bars. AC 12 HP 11 each. For each health bar it will make 1 attack at a party member (up to all of them) +4 to hit, 2d4+1 piercing damage.
+
+
 
 #### 6. Arcane Brotherhood Barracks
 
