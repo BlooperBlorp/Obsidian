@@ -23,6 +23,7 @@ Dungeon >:)
 #### Reminder for players:
 - No map given by me
 - Take a moment to encourage creative thinking. Every single encounter in this dungeon has well more than 2 ways you can go about it. You quite literally have every option, use that. 
+- Also, be sure to engage with the things I put here. Every encounter think about 1 thing you or your character might care about, be interested in, want to get out of a situation, or just think is funny, do it. 
 #### 1. Main Mines Entrance 
 Player description:
 - Mouth of the cave about as tall and as wide as a school bus, broken stalagtites, sticks and twigs that have been tracked in, broken tools, torn scraps of fabric dot the walls.
@@ -78,8 +79,9 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 3. Pet rock:
 	1. There is a rock trembling on the side of the wall (A baby Earth Elemental cowers in the corner). He's about the size of your palm and understands Terran. A DC 15 WIS (Animal Handling) or DC 15 INT (Arcana) roll earns the creature's trust. He can't carry anything heavier than a gold coin. His name is Rocky and he forms a psychic bond with the first person he bonds with enabling that person to understand and crudely speak Terran. 
 4. 2 Dwarven miners are tending to a third who is gravely injured bleeding out of his leg... they were attacked by the Arcane brotherhood and ran
-5. A  8th sect guard-type has been attacked by something... his whole patrol was... they're all dead... he's dying 
+5. A 8th sect guard-type has been attacked by something... his whole patrol was... they're all dead... he's dying 
 6. Trapper encounter
+	1. Bunch of dead bodies on the floor right near it 
 7. Swarm of bats
 	1. You get to an open section of trail, within an dark, open cavern that travels perpendicular to the mineshaft. Perception check (dc 10 to hear bats)
 	2. Stealth Check (DC 15 to evade the bats attention)
@@ -93,17 +95,17 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 13. You can always throw a break room at them
 14. A room fiiiiled with mushrooms, different colours, etc. (flip a coin)
 	1. https://www.dndspeak.com/2020/08/19/100-mushrooms-and-their-effects/
-	2. d6
+	2. d6 (Effect lasts until next encounter)
 		1. Blinded
 		2. Deafened
 		3. Frightened
 		4. Invisible
 		5. Paralyzed
-		6. Petrified
-		7. Poisoned
-		8. 
+		6. Poisoned
+15. 
 
 #### 6. Arcane Brotherhood Barracks
+
 #### 7. Armory / Supply cache
 #### 8. Refuse room
 #### 9. Officer room
