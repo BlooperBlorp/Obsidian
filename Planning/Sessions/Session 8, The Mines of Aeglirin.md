@@ -144,3 +144,5 @@ Gep Got magucite
 Tabi was a dick "uh NOPE! when I said something slightly incorrect about that"
 - they did some mapping, I gave them a general vibe of the thing
 - I tell tabi the miners would get the explosive powder in 3 days 
+
+holy shit anyone "touched" by magucite or the weave makes it into barovia
