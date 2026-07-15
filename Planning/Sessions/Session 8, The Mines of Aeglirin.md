@@ -137,3 +137,8 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 - Wolf howling that feel so close but aren't there
 - Torn Tarot card 
 - Miners can mention that the mist took someone 
+
+
+
+Gep Got magucite
+Tabi was a dick "uh NOPE! when I said something slightly incorrect about that"
