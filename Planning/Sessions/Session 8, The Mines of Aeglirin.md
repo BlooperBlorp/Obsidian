@@ -150,3 +150,8 @@ Tabi fucking babyrages when their map was oriented incorrectly when it was based
 holy shit anyone "touched" by magucite or the weave makes it into barovia
 
 I start combat and Tabi rudely goes "uh what are we starting combat to :nerd emoji:" when I was going to give my little thing after I got the initiative rolls 
+
+
+out of this room, way from right to left is:
+
+ 
