@@ -142,3 +142,5 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 
 Gep Got magucite
 Tabi was a dick "uh NOPE! when I said something slightly incorrect about that"
+- they did some mapping, I gave them a general vibe of the thing
+- I tell tabi the miners would get the explosive powder in 3 days 
