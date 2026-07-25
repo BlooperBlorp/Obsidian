@@ -139,7 +139,7 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 - Miners can mention that the mist took someone 
 
 
-
+### Session 1 notes
 Gep Got magucite
 Tabi was a dick "uh NOPE! when I said something slightly incorrect about that"
 - they did some mapping, I gave them a general vibe of the thing
@@ -155,3 +155,5 @@ I start combat and Tabi rudely goes "uh what are we starting combat to :nerd emo
 out of this room, way from right to left is:
 
  
+
+### Session 2 notes
