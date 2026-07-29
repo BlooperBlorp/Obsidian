@@ -125,9 +125,12 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 - 4 Paths off of it 
 - At least like 5-8 guards here
 	- Loud noise/battle will attract 1-2 admirals from the officer room
-- Guards in this room will know that Efarius is not around. Don't know where he went though as the 
+- Guards in this room will know that Efarius is not around. Don't know where he went though as the admirals are keeping it from them.
 
 #### 7. Armory / Supply cache
+- Mostly food supplies, bedrolls, all the normal equipment they've seen the [[Arcane brotherhood]] use
+- Ask the players what they look for, reward them (not with items they have to be concious of ig)
+- use loot tables depending 
 #### 8. Refuse room
 #### 9. Officer room
 - Has Efarius's quarters off the side 
