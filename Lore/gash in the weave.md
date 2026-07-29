@@ -20,4 +20,4 @@ To repair the Gash in the weave, one would need to:
 	- He's a power hungry wizard who wants to find the people he thinks are like truly strong and truly pushing the limits. He is smart and theorized based on his knowledge that it was caused by high level magic and so he went to go find it in hopes of finding a way to find the person who created it.
 
 #### How did the gash become created by Strahd
-- 
+- Very hard to figure out lol
