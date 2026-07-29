@@ -67,6 +67,10 @@ So this area is a confusing mess of miners tunnels that will give of the vibe li
 
 Players must navigate through the mines until they find the Barracks. This is a device for you to elongate, shorten, or bolster the session in any which way you'd like. Make the players make rolls to find the rooms though
 
+##### Function:
+The mines are a seemingly never-ending intertwining set of tunnels. With little denoting features, it is difficult to recognize any situation before you're close to it (without being able to see or hear it basically). By virtue of the vastness of the mines, it is virtually impossible to get a sense of the various things you may encounter, before you encounter them. 
+
+When traversing the mines, 
 ##### Player Description:
 You enter a medium sized opening in the cave. This room is round and has many objects scattered about. Tools, broken or used, campfires long since burnt, bedrolls dispersed throuhgout. One side of the room is covered with mineshaft entrances. You see 5 different pathways each heading off in different directions, sparsely lit with old, flickering lanterns.  
 ##### Rooms/Encounters:
