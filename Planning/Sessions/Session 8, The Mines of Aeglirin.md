@@ -140,7 +140,8 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 ### Ideas for second half of dungeon
 - Blue dragon wyrmling 
 - A wizard is stuck under a large boulder. What happened is he was teleporting as normal and somehow ended up in this cave... his conjuration and divination seems to be blocked... He's super fucking confused and is just trying to get out of here. he will NOT join the party or come with them lol 
-- 
+- very curse of strahd themed
+	- Random encounters from Barovia
 ### Hints they can find for curse of strahd
 - Patch of unmoving mist, if you touch it you get the faint sensation of being watched
 - Unnaturally cold spot 
