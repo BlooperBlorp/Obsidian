@@ -12,3 +12,10 @@ To repair the Gash in the weave, one would need to:
 - Complete a reweaving ritual, requiring certain materials, spellcasters, lost spells, and at a location
 
 - one may *think* that by appealing to Mystra, giving her strength and influece, one cold restore the weave. But this is not working for some reason... as noted by the local followers of mystra. This is because [[He who created the Gash in the weave]]'s first 9th level spell had a failsafe (that worked) wherin it weakened Mystra, preventing her from repairing herself, and making her conserve her energy - so she can't contact her followers as easily. She's further from Faerun 
+
+
+### Post-Curse of Strahd Decision
+#### Efarius:
+- So I think his motivation would still make the most sense to be:
+	- He's a power hungry wizard who wants to find the people he thinks are like truly strong and truly pushing the limits. He is smart and theorized based on his knowledge that it was caused by high level magic and so he went to go find it in hopes of finding a way to find the person who created it.
+
