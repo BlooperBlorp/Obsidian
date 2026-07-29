@@ -135,7 +135,7 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 - Has 1-2 Admirals in it 
 - Has Efarius's quarters off the side 
 #### 10. Prisoner Room
-- Small disgusting round cavern room with iron rings driven into the rock walls. Chains hang off them, some hanging onto recently deceased corpses of miners, 1 miner remains alive, barely.
+- Small disgusting round cavern room with iron rings driven into the rock walls. Chains hang off them, some hanging onto recently deceased corpses of miners, 1 miner remains alive, barely. (Grokrac Leadspine). Depending on roles he might have info into what Efarius is trying to do (Get to the actual gash, figure out who opened it)
 
 ### Ideas for second half of dungeon
 - Blue dragon wyrmling 
