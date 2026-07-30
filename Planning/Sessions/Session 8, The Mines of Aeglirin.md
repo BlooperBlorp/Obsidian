@@ -72,7 +72,7 @@ The mines are a seemingly never-ending intertwining set of tunnels. Any relevant
 
 When traversing the mines, players will describe what they are trying to do, where they might be wanting to go, based on their goals. They will explain how they are going to go about it and make a related check to see how well they do. This will be how we determine where the players end up 
 ##### Player Description:
-You enter a medium sized opening in the cave. This room is round and has many objects scattered about. Tools, broken or used, campfires long since burnt, bedrolls dispersed throuhgout. One side of the room is covered with mineshaft entrances. You see 5 different pathways each heading off in different directions, sparsely lit with old, flickering lanterns.  
+You enter a medium sized opening in the cave. This room is round and has many objects scattered about. Tools, broken or used, campfires long since burnt, bedrolls dispersed throughout. One side of the room is covered with mineshaft entrances. You see 5 different pathways each heading off in different directions, sparsely lit with old, flickering lanterns.  
 ##### Rooms/Encounters:
 - All 8th sect members will make a dc 15 check to see if they recognize the players (guards get +1, admirals get +3)
 
