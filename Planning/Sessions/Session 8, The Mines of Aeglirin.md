@@ -168,3 +168,4 @@ out of this room, way from right to left is:
  
 
 ### Session 2 notes
+- Gep maybe has like a goal to kill Strahd directly, something ancient with his people holy shit maybe they're connected to the like people who can pass through Barovia 
