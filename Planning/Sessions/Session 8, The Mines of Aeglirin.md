@@ -81,7 +81,7 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 	1. There is a rock trembling on the side of the wall (A baby Earth Elemental cowers in the corner). He's about the size of your palm and understands Terran. A DC 15 WIS (Animal Handling) or DC 15 INT (Arcana) roll earns the creature's trust. He can't carry anything heavier than a gold coin. His name is Rocky and he forms a psychic bond with the first person he bonds with enabling that person to understand and crudely speak Terran. 
 2. 2 Dwarven miners are tending to a third who is gravely injured bleeding out of his leg... they were attacked by the Arcane brotherhood and ran
 3. A 8th sect guard-type has been attacked by something... his whole patrol was... they're all dead... he's dying 
-4. 5. Colony of flumphs 
+4. Colony of flumphs 
 5. 4 Miners have befriended a xorn and they're helping each other out.
 6. a group of miners (flip a coin: 1.have no clue what is going on and will not believe the party 2. Scared and are running, but not hurt)
 7. 2 Ghosts are heard bickering. They both claim to be miners, both claiming that the other one is the ghost of a 8th sect guard, one is trying to guide them towards where the 8th sect is stationed, the other is trying to guide them out ;) 
