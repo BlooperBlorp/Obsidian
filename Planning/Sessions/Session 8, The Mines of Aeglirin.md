@@ -190,4 +190,4 @@ out of this room, way from right to left is:
 - Everyone who has consumed or been infected with magucite/the weave will be transported to Barovia, all in varrying locations
 	- This brings in interest for Twig and Henk, as Henk's wife would presumably be in Barovia. 
 - When the big hole opens up, we're gonna do a crazy narration about how the world rips open, and they see images of all the people known to be infected by the weave/ magucite 
-- I'm on the fence 
+- I'm on the fence about having them actually just enter strahd next session. 
