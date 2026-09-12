@@ -135,7 +135,7 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 - Has 1-2 Admirals in it 
 - Has Efarius's quarters off the side 
 	- Small hole in the wall with an ornate cloth draped down covering it, nailed into the wall. 
-- Has a 
+- Has a crack in the wall, air coming from it feels cold and wet. There is a light fog eminating from the crack
 #### 9.5. Efarius's Quarters
 - Small cavernous opening in the wall, a few square meters
 - A bed and a desk, desk is old and rickety 
@@ -143,7 +143,7 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 #### 10. Prisoner Room
 - Small disgusting round cavern room with iron rings driven into the rock walls. Chains hang off them, some hanging onto recently deceased corpses of miners, 1 miner remains alive, barely. (Grokrac Leadspine). Depending on roles he might have info into what Efarius is trying to do (Get to the actual gash, figure out who opened it)
 #### 11. Gash caverns
-- 
+- Huge wide open cavernous space. Stalactites hang from the ceiling and stalagmites pierce up through the ground 
 
 
 ### Ideas for second half of dungeon
