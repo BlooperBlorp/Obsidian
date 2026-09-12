@@ -184,3 +184,10 @@ out of this room, way from right to left is:
 
 ### Session 2 notes
 - Gep maybe has like a goal to kill Strahd directly, something ancient with his people holy shit maybe they're connected to the like people who can pass through Barovia 
+
+### Session 10 planning
+- Gep's staff has actually been leading him to strahd
+- Everyone who has consumed or been infected with magucite/the weave will be transported to Barovia, all in varrying locations
+	- This brings in interest for Twig and Henk, as Henk's wife would presumably be in Barovia. 
+- When the big hole opens up, we're gonna do a crazy narration about how the world rips open, and they see images of all the people known to be infected by the weave/ magucite 
+- I'm on the fence 
