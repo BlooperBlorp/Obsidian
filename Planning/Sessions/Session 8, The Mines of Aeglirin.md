@@ -149,7 +149,7 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 - Bright multicoloured luminescence fills the air. you are almost blinded as you walk into the room, but as your eyes adjust you see an open perfectly spherical room with the gash in the center of it.
 	- The gash looks like a rip in reality. Space 
 - Efarius is here casting some sort of magic on the gash, talkin bout some "THIS SPELL WILL BRING THE CREATOR OF THIS GASH HERE!!!!!!!"
-- 
+- and he'll summon a blue dragon wyrmling (a spirit version) to fight off the players 
 
 
 ### Ideas for second half of dungeon
