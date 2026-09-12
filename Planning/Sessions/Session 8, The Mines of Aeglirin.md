@@ -143,7 +143,9 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 #### 10. Prisoner Room
 - Small disgusting round cavern room with iron rings driven into the rock walls. Chains hang off them, some hanging onto recently deceased corpses of miners, 1 miner remains alive, barely. (Grokrac Leadspine). Depending on roles he might have info into what Efarius is trying to do (Get to the actual gash, figure out who opened it)
 #### 11. Gash caverns
-- Huge wide open cavernous space. Stalactites hang from the ceiling and stalagmites pierce up through the ground 
+- Huge wide open cavernous space. Stalactites hang from the ceiling and stalagmites pierce up through the ground. A thin fog hangs through the air, it's noticeably colder in here than the rest of the cave. As each of you walk in to the cave I would like you to make con saves (roleplay about how uneasy they feel, like they're being watched.) 
+- Geps staff glows. (becuase his ancestral rulers want him to kill strahd)
+- 
 
 
 ### Ideas for second half of dungeon
