@@ -142,6 +142,7 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 #### 10. Prisoner Room
 - Small disgusting round cavern room with iron rings driven into the rock walls. Chains hang off them, some hanging onto recently deceased corpses of miners, 1 miner remains alive, barely. (Grokrac Leadspine). Depending on roles he might have info into what Efarius is trying to do (Get to the actual gash, figure out who opened it)
 
+
 ### Ideas for second half of dungeon
 - Blue dragon wyrmling 
 - A wizard is stuck under a large boulder. What happened is he was teleporting as normal and somehow ended up in this cave... his conjuration and divination seems to be blocked... He's super fucking confused and is just trying to get out of here. he will NOT join the party or come with them lol 
