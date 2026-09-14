@@ -191,3 +191,5 @@ out of this room, way from right to left is:
 	- This brings in interest for Twig and Henk, as Henk's wife would presumably be in Barovia. 
 - When the big hole opens up, we're gonna do a crazy narration about how the world rips open, and they see images of all the people known to be infected by the weave/ magucite 
 - I'm on the fence about having them actually just enter strahd next session. 
+
+- You have an outline. All the knowledge you need for the backstory of the situation is in your head. Ask the players what they're looking for and guide them to that information. 
