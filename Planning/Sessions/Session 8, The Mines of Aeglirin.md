@@ -149,7 +149,11 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 - Huge wide open cavernous space. Stalactites hang from the ceiling and stalagmites pierce up through the ground. A thin fog hangs through the air, it's noticeably colder in here than the rest of the cave. As each of you walk in to the cave I would like you to make con saves (roleplay about how uneasy they feel, like they're being watched.) 
 - Geps staff glows. (becuase his ancestral rulers want him to kill strahd)
 - **Don't forget about the [[Wild Magic Table]]!**
-- optional encounter of 3 dire wolves 
+- 2 directions 
+	- One path is dark and foggy 
+		-  optional encounter of 3 dire wolves 
+	- The other has the normal amount of fog but they see a flash come from it 
+		- They run into a wizard who teleported here on accident, he is currently stuck under a boulder. His magic isn't working, he was trying to teleport to bladurs gate from neverwinter for business
 #### X. Gash room
 - Bright multicoloured luminescence fills the air. you are almost blinded as you walk into the room, but as your eyes adjust you see an open perfectly spherical room with the gash in the center of it.
 	- The gash looks like a rip in reality. 
