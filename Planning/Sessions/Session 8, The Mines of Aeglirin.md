@@ -161,7 +161,14 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 
 #### Gash explosion
 - The world splits, but the ground isnt tearing, reality itself is. Light and darkness sheer a line through your vision. 
-- 
+	- Imagine like a wormhole opening up in all directions 
+- You start to see figures (rolls for all of this )
+	- Miners (suprisignly)
+		- all of them with indiviual parts of their body glowing, wounds?
+	- Cynthia
+		- veins glowing
+	- Yastug (the miner tabi treated)
+		- veins also glowing
 
 
 ### Ideas for second half of dungeon
