@@ -140,17 +140,28 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 - Small cavernous opening in the wall, a few square meters
 - A bed and a desk, desk is old and rickety 
 - a good roll will find them a letter he meant to send that hasn't been sent yet pretty much detailing his plans 
+- Notes that while interacting with the gash, some of his control of the weave will be sapped and he will be weaker 
 #### ~~10. Prisoner Room~~
 - Small disgusting round cavern room with iron rings driven into the rock walls. Chains hang off them, some hanging onto recently deceased corpses of miners, 1 miner remains alive, barely. (Grokrac Leadspine). Depending on roles he might have info into what Efarius is trying to do (Get to the actual gash, figure out who opened it)
 #### 11. Gash caverns
 - Huge wide open cavernous space. Stalactites hang from the ceiling and stalagmites pierce up through the ground. A thin fog hangs through the air, it's noticeably colder in here than the rest of the cave. As each of you walk in to the cave I would like you to make con saves (roleplay about how uneasy they feel, like they're being watched.) 
 - Geps staff glows. (becuase his ancestral rulers want him to kill strahd)
+- **Don't forget about the [[Wild Magic Table]]!**
 - optional encounter of 3 dire wolves 
 #### X. Gash room
 - Bright multicoloured luminescence fills the air. you are almost blinded as you walk into the room, but as your eyes adjust you see an open perfectly spherical room with the gash in the center of it.
-	- The gash looks like a rip in reality. Space 
+	- The gash looks like a rip in reality. 
+	- A thick fog fills the room
 - Efarius is here casting some sort of magic on the gash, talkin bout some "Using the arcane fingerprint left behind I will track he who created this magnificent gash and I will bring them here"
+	- he will worry the players about disturbing his spell 
 - and he'll summon a blue dragon wyrmling (a spirit version) to fight off the players 
+- Efarius will try to defend himself while he channels into the gash and:
+	- After the fight ends (he dies, players are all about to die)
+	- He is successfully able to channel for like idk 5 turns
+
+#### Gash explosion
+- The world splits, but the ground isnt tearing, reality itself is. Light and darkness sheer a line through your vision. 
+- 
 
 
 ### Ideas for second half of dungeon
