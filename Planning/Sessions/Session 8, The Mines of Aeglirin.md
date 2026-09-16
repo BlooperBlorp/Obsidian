@@ -155,6 +155,7 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 	- The other has the normal amount of fog but they see a flash come from it 
 		- They run into a wizard who teleported here on accident, he is currently stuck under a boulder. His magic isn't working, he was trying to teleport to bladurs gate from neverwinter for business
 #### X. Gash room
+- Play Fighting the sorceror on spotify
 - Bright multicoloured luminescence fills the air. you are almost blinded as you walk into the room, but as your eyes adjust you see an open perfectly spherical room with the gash in the center of it.
 	- The gash looks like a rip in reality. 
 	- A thick fog fills the room
