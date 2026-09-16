@@ -127,17 +127,19 @@ You enter a medium sized opening in the cave. This room is round and has many ob
 - 6 guards
 	- Loud noise/battle will attract 1-2 admirals from the officer room
 - Guards in this room will know that Efarius is not around. Don't know where he went though as the admirals are keeping it from them.
-	- As this guy is the most loyal, he has been promised power and wealth 
+	
 
 #### 7. Armory / Supply cache
 - Mostly food supplies, bedrolls, all the normal equipment they've seen the [[Arcane brotherhood]] use
 - Ask the players what they look for, reward them (not with items they have to be concious of ig)
 - use loot tables depending 
 #### 9. Officer room
-- Has 1 Admiral in it 
+- Has 1 Admiral in it (writing review reports)
+	- - As this guy is the most loyal, he has been promised power and wealth 
 - Has Efarius's quarters off the side 
 	- Small hole in the wall with an ornate cloth draped down covering it, nailed into the wall. 
 - Has a crack in the wall, air coming from it feels cold and wet. There is a light fog eminating from the crack
+
 #### 9.5. Efarius's Quarters
 - Small cavernous opening in the wall, a few square meters
 - A bed and a desk, desk is old and rickety 
