@@ -220,3 +220,7 @@ out of this room, way from right to left is:
 - When the big hole opens up, we're gonna do a crazy narration about how the world rips open, and they see images of all the people known to be infected by the weave/ magucite 
 
 - You have an outline. All the knowledge you need for the backstory of the situation is in your head. Ask the players what they're looking for and guide them to that information. 
+
+
+Session notes:
+- Tabi has disadvantage on charisma checks for the next 4 days
