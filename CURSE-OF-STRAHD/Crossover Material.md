@@ -17,3 +17,8 @@
 	- intro scene 
 	- Travelling to the Villaige 
 	- Read the villaige stuff 
+
+
+Alright noah. The outlook for this campaign is gonna be like 
+- read ahead in the book 
+- read ahead on the online guide (optionsa)
