@@ -12,3 +12,8 @@
 ##### To figure out:
 - who got pulled into barovia and where they are
 	- particularly what happens to Efarius
+- Write the intro scene
+- Plan out session 1
+	- intro scene 
+	- Travelling to the Villaige 
+	- Read the villaige stuff 
