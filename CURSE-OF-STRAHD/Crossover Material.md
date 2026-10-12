@@ -21,4 +21,5 @@
 
 Alright noah. The outlook for this campaign is gonna be like 
 - read ahead in the book 
-- read ahead on the online guide (optionsa)
+- read ahead on the online guide (optional)
+- and set up important maps and images on owlbear rodeo. 
