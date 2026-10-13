@@ -31,4 +31,5 @@
 - Svalich Woods + description, 
 - throw 1 random encounter at them if things go as you plan. Otherwise just roll. 
 ##### Village of Barovia
-- Description, 
+- Description, let them wander or ask for stuff to find.
+- 
