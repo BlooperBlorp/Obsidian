@@ -22,9 +22,12 @@
 	- Gep to the bright glow from his staff
 	- Twig to Mort licking her
 	- Henk to whatever he wants
-- Oddly, you are not all laying down. You're all in the same positions you just were. 
+- Oddly, you are not all laying down. You're all in the same positions you just were. You're all cold. 
 	- Henk crouches over twig who was just knocked back, and you are both the same 5 feet away from Gep you just were.
 	- Gep Stands with his staff held out in front of him, as he just was channeling the gash in the weave. 
-- You stand amongst a dark wood, trees towering above you into a familiar thick mist. The tree trunks are unnaturally close together. Your feet rest on a muddy roadwayTo your east, 
+- You stand amongst a dark wood, trees towering above you into a familiar thick mist. The tree trunks are unnaturally close together. Your feet rest on a muddy roadway, where black pools of water stand like dark mirrors. The roadway runs east to west. To your east the roadway trails into a thick fog through which you cannot see. To your west a set of gates. 
+- What will you do? 
 ##### Traveling to Barovia
+- Svalich Woods + description, 
+- throw 1 random encounter at them if things go as you plan. Otherwise just roll. 
 ##### Village of Barovia
