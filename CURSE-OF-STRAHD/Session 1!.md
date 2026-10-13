@@ -32,4 +32,7 @@
 - throw 1 random encounter at them if things go as you plan. Otherwise just roll. 
 ##### Village of Barovia
 - Description, let them wander or ask for stuff to find.
-- 
+###### Bildrath's Mercantile:
+- The sparse light from this building spills out from behind drawn heavy curtains. A sign over the door, creaking on its hinges, reads "Bildrath's Mercantile."
+- Bildrath Catemir - Male human
+###### Blood of the Vine Tavern:
