@@ -1,5 +1,5 @@
 ### Session plan:
-#### Intro Scene (FIND MUSIC***)
+#### Intro Scene (STAY)
 - Last we left off, [[Efarius Covenmane]] was channeling the [[gash in the weave]] attempting to draw out it's creator utilizing conjuration magic.
 - Twig, Gep, and Dr. Henk Haynes stepped in however, gravely injuring Efarius, ending his spell.
 - As he was defeated, Efarius called out to the party damning them for destabilizing the gash. 
@@ -25,6 +25,8 @@
 - Oddly, you are not all laying down. You're all in the same positions you just were. 
 	- Henk crouches over twig who was just knocked back, and you are both the same 5 feet away from Gep you just were.
 	- Gep Stands with his staff held out in front of him, as he just was channeling the gash in the weave. 
+PLAY HUBRIS (feat. Deryn Cullen)
+	CUE ZYWOT 
 - You stand amongst a dark wood, trees towering above you into a familiar thick mist. The tree trunks are unnaturally close together. A cold damp breeze passes through, sending a chill down your spine. Your feet rest on a muddy roadway, where black pools of water stand like dark mirrors. The roadway runs east to west. To your east the roadway trails into a thick fog through which you cannot see. To your west a set of gates. 
 - What will you do? 
 #### Traveling to Barovia
@@ -32,7 +34,7 @@
 - throw 1 random encounter at them if things go as you plan. Otherwise just roll. 
 #### Village of Barovia
 - Description, let them wander or ask for stuff to find.
-
+PLAY AN OMINOUS PLACE 
 ###### Dream Pastries:
 - "You hear the sound of small, wooden wheels rolling across damp cobbles. You trace the lonely sound to a hunched figure bundled in rags, pushing a rickety wooden cart through the fog."
 - If they look a little, she's selling pastries
