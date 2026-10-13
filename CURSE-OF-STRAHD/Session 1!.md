@@ -54,6 +54,7 @@
 		- Far awar from Castle Ravenloft and Strahd
 		- He's heard it's well guarded
 		- He knows that for some reason Strahd is attracted to Ireena and desires her. 
+		- ==he offers them 50gp to deliver her there safely==
 	- If they accept, he takes them to Burgomasters residence
 
 ###### Mad Mary's Townhouse
