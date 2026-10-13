@@ -1,6 +1,5 @@
 ### Session plan:
-pretty simple
-- Intro scene
-- Traveling to Barovia
-- Have Village of Barovia prepped
-- End probably somewhere in Barovia wherever seems fine
+##### Intro Scene
+- Last we left off, [[Efarius Covenmane]] was channeling the [[gash in the weave]] attempting to 
+##### Traveling to Barovia
+##### Village of Barovia
