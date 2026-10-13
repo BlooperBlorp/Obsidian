@@ -61,4 +61,12 @@
 - Mad marry is on the second floor past a boarded up entryway. He daughter Gertruda has broke out and hasn't been home since. 
 ###### Burgomaster's Mansion
 - "A weary-looking mansion squats behind a rusting iron fence. The iron gates are twisted and torn. The right gate lies cast aside, while the left swings lazily in the wind. The stuttering squeal and clang of the gate repeats with mindless precision. Weeds choke the grounds and press with menace upon the house itself. Yet, against the walls, the growth has been tramped down to create a path all about the domain. Heavy claw markings have stripped the once-beautiful finish of the walls. Great black marks tell of the fires that have assailed the mansion. Not a pane nor a shard of glass stands in any window. All the windows are barred with planks, each one marked with stains of evil omen."
-- Ireena is inside and won't open the door unless 
+- Ireena is inside and won't open the door unless Ismark is with them or they DC 15 convince her. 
+- "The interior of the mansion is well furnished, yet the fixtures show signs of great wear. Noticeable oddities are the boarded-up windows and the presence of holy symbols in every room. The burgomaster is in a side drawing room on the floor—lying in a simple wooden coffin surrounded by wilting flowers and a faint odor of decay."
+- Ireena
+	- The rest of the Villagers are afraid of her
+	- She doesn't remember all of her past and her encounters with Strahd are hazy, but she can recall the blazing hunger in his eyes 
+	- Wolves and other terrible creatures attacked the house night after night for weeks. The burgomaster's heart couldn't stand the constant assault, and he died three days ago. Strangely, since his death, the house has not come under attack.
+	- She won't leave with the party until the Burgomaster (Kolyan Idirovich) is taken safety to Donavich, the local priest 
+
+###### Church
