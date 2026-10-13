@@ -35,7 +35,9 @@
 
 ###### Dream Pastries:
 - "You hear the sound of small, wooden wheels rolling across damp cobbles. You trace the lonely sound to a hunched figure bundled in rags, pushing a rickety wooden cart through the fog."
-- If they f
+- If they look a little, she's selling pastries
+- If they look a lot, she has a conversation in which she takes a boy as payment.
+- If they ask her to return the boy, she does. 
 ###### Bildrath's Mercantile:
 - The sparse light from this building spills out from behind drawn heavy curtains. A sign over the door, creaking on its hinges, reads "Bildrath's Mercantile."
 - Bildrath Catemir - Male human
@@ -56,3 +58,7 @@
 
 ###### Mad Mary's Townhouse
 - "A moaning sob floats through the still, gray streets, coloring your thoughts with sadness. The sounds flow from a dark, two-story townhouse."
+- Mad marry is on the second floor past a boarded up entryway. He daughter Gertruda has broke out and hasn't been home since. 
+###### Burgomaster's Mansion
+- "A weary-looking mansion squats behind a rusting iron fence. The iron gates are twisted and torn. The right gate lies cast aside, while the left swings lazily in the wind. The stuttering squeal and clang of the gate repeats with mindless precision. Weeds choke the grounds and press with menace upon the house itself. Yet, against the walls, the growth has been tramped down to create a path all about the domain. Heavy claw markings have stripped the once-beautiful finish of the walls. Great black marks tell of the fires that have assailed the mansion. Not a pane nor a shard of glass stands in any window. All the windows are barred with planks, each one marked with stains of evil omen."
+- Ireena is inside and won't open the door unless 
