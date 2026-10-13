@@ -1,5 +1,5 @@
 ### Session plan:
-##### Intro Scene (FIND MUSIC***)
+#### Intro Scene (FIND MUSIC***)
 - Last we left off, [[Efarius Covenmane]] was channeling the [[gash in the weave]] attempting to draw out it's creator utilizing conjuration magic.
 - Twig, Gep, and Dr. Henk Haynes stepped in however, gravely injuring Efarius, ending his spell.
 - As he was defeated, Efarius called out to the party damning them for destabilizing the gash. 
@@ -27,17 +27,25 @@
 	- Gep Stands with his staff held out in front of him, as he just was channeling the gash in the weave. 
 - You stand amongst a dark wood, trees towering above you into a familiar thick mist. The tree trunks are unnaturally close together. A cold damp breeze passes through, sending a chill down your spine. Your feet rest on a muddy roadway, where black pools of water stand like dark mirrors. The roadway runs east to west. To your east the roadway trails into a thick fog through which you cannot see. To your west a set of gates. 
 - What will you do? 
-##### Traveling to Barovia
+#### Traveling to Barovia
 - Svalich Woods + description, 
 - throw 1 random encounter at them if things go as you plan. Otherwise just roll. 
-##### Village of Barovia
+#### Village of Barovia
 - Description, let them wander or ask for stuff to find.
+
+###### Dream Pastries:
+- "You hear the sound of small, wooden wheels rolling across damp cobbles. You trace the lonely sound to a hunched figure bundled in rags, pushing a rickety wooden cart through the fog."
+- If they f
 ###### Bildrath's Mercantile:
 - The sparse light from this building spills out from behind drawn heavy curtains. A sign over the door, creaking on its hinges, reads "Bildrath's Mercantile."
 - Bildrath Catemir - Male human
 ###### Blood of the Vine Tavern:
 - "A single shaft of light thrusts illumination into the main square, its brightness looking like a solid pillar in the heavy fog. Above the gaping doorway, a sign hangs precariously askew, proclaiming this to be the Blood on the Vine tavern."
 - 3 Vistani
+	- Uninterested, they're the owners and just care that people pay their tabs. 
+- Arik the Barkeep (Arik Lorensk)
+	- Ignors the fuck out of them if they question him 
+	- Dull, Hollow voice
 - Ismark the Lesser
 	- Invites characters to join him, to pay for some wine, and to ask to help protect Ireena 
 		- He wants to escort her to Vallaki, a settlement in the heart of the valley
@@ -45,3 +53,6 @@
 		- He's heard it's well guarded
 		- He knows that for some reason Strahd is attracted to Ireena and desires her. 
 	- If they accept, he takes them to Burgomasters residence
+
+###### Mad Mary's Townhouse
+- "A moaning sob floats through the still, gray streets, coloring your thoughts with sadness. The sounds flow from a dark, two-story townhouse."
