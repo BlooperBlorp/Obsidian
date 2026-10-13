@@ -36,3 +36,12 @@
 - The sparse light from this building spills out from behind drawn heavy curtains. A sign over the door, creaking on its hinges, reads "Bildrath's Mercantile."
 - Bildrath Catemir - Male human
 ###### Blood of the Vine Tavern:
+- "A single shaft of light thrusts illumination into the main square, its brightness looking like a solid pillar in the heavy fog. Above the gaping doorway, a sign hangs precariously askew, proclaiming this to be the Blood on the Vine tavern."
+- 3 Vistani
+- Ismark the Lesser
+	- Invites characters to join him, to pay for some wine, and to ask to help protect Ireena 
+		- He wants to escort her to Vallaki, a settlement in the heart of the valley
+		- Far awar from Castle Ravenloft and Strahd
+		- He's heard it's well guarded
+		- He knows that for some reason Strahd is attracted to Ireena and desires her. 
+	- If they accept, he takes them to Burgomasters residence
