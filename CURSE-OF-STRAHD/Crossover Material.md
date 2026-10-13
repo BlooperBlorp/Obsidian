@@ -11,7 +11,9 @@
 
 ##### To figure out:
 - who got pulled into barovia and where they are
-	- particularly what happens to Efarius
+	- ANSWER:
+		- the plan for now is that finding the various people from the previous campaign will be a hook.
+		- 
 - Write the intro scene
 - Plan out session 1
 	- intro scene 
