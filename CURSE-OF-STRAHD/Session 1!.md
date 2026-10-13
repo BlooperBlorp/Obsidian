@@ -8,13 +8,20 @@
 - Then the gash shut.
 - You all feel an overwhelming arcane energy surrounding you, you feel a pressure surrounding you like being deep underwater but it reaches beyond your corporeal form, you feel this pressure on your mind and on your soul. 
 - Reality shifts around you as you all lose sight of each other, barely retaining consciousness. 
-- As you pass in and out of consciousness you all see visions. 
+- As your mind wenes under the pressure you all see visions. 
 	- The land of Aeglirin, of the area surrounding the gash in the weave, tens of unnamed miners, all ripped from reality. Vast wild arcane energy, a tear in space, a whiteout. A familiar sight. 
 	- Twig. roll perception for me.
 		- She sees the colony, Cricket in a clearing in barovia,  surrounded by evergreen trees in a dark wood.
 	- Henk. Roll perception. 
 		- Yastug Orecrown, Cynthia, veins glowing, a darkness passing over them. 
 	- Gep. Roll perception.
-		- You oddly see someone unfamiliar, 
+		- You oddly see someone unfamiliar, an older woman wearing odd, flamboyant clothing. She makes eye contact with you and smiles. 
+- The mental toll swells as it overwhelms you. You finally lose consciousness. 
+- Con rolls. 
+	- Highest wakes up first
+	- Gep to the bright glow from his staff
+	- Twig to Mort licking her
+	- Henk to whatever he wants
+- Oddly, you are not all laying down. You're all in the same positions you just were. 
 ##### Traveling to Barovia
 ##### Village of Barovia
