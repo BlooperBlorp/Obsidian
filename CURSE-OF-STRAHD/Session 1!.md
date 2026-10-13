@@ -9,5 +9,8 @@
 - You all feel an overwhelming arcane energy surrounding you, you feel a pressure surrounding you like being deep underwater but it reaches beyond your corporeal form, you feel this pressure on your mind and on your soul. 
 - Reality shifts around you as you all lose sight of each other, barely retaining consciousness. 
 - As you pass in and out of consciousness you all see visions. 
+	- The land of Aeglirin, of the area surrounding the gash in the weave, tens of unnamed miners, all ripped from reality. Vast wild arcane energy, a tear in space, a whiteout. A familiar sight. 
+	- Twig. roll perception for me.
+		- She sees the colony in a clearing in barovia, surrounded by evergreen trees in a dark wood.
 ##### Traveling to Barovia
 ##### Village of Barovia
