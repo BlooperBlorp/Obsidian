@@ -23,5 +23,8 @@
 	- Twig to Mort licking her
 	- Henk to whatever he wants
 - Oddly, you are not all laying down. You're all in the same positions you just were. 
+	- Henk crouches over twig who was just knocked back, and you are both the same 5 feet away from Gep you just were.
+	- Gep Stands with his staff held out in front of him, as he just was channeling the gash in the weave. 
+- You stand amongst a dark wood, trees towering above you into a familiar thick mist. The tree trunks are unnaturally close together. Your feet rest on a muddy roadwayTo your east, 
 ##### Traveling to Barovia
 ##### Village of Barovia
