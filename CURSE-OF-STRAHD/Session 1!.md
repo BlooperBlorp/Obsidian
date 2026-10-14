@@ -81,3 +81,6 @@ PLAY AN OMINOUS PLACE
 
 # Notes:
 - Twigs finger is missing, put Cricket there soon, so we can make this happen in a good way :thumbs-up: 
+
+Names:
+Ismark, Ireena 
