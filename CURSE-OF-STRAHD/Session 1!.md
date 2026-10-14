@@ -77,3 +77,7 @@ PLAY AN OMINOUS PLACE
 - Some added notes:
 	- If donu dies Donovich will hang himself on the church bell
 	- Donovich will happily let the players take a look at Dono, who will cower but also want to escape. 
+
+
+# Notes:
+- Twigs finger is missing, put Cricket ther soo
