@@ -30,5 +30,9 @@
 ##### Madam Eva
 - She greets the players by name when they enter the tent
 	- Twidget, Henk, Gep
+		- I know all about your time with your friend Cricket. 
+		- I know about your time in the army and your wife Cynthia, 
+		- I know your parents, you know. 
+- She knows that everyone from where they came from
 - "Took you all long enough to arrive, I have been expecting you. Are you ready to learn your fate?"
 - 
