@@ -52,4 +52,8 @@
 - She then places her hand on her right and says
 	- "This is a card of power and strength. It tells of a weapon of vengeance: A sword of sunlight"
 	- flip
-	- " "
+	- "8 of Glyphs - Bishop"
+	- "This weapon lies in a pile of treasure, beyond a set of Amber doors"
+- Next she goes to the card closest to her
+	- "This card sheds light on one who will help you greatly in the battle against darkness"
+	- ""
