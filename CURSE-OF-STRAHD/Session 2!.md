@@ -32,7 +32,8 @@
 	- Twidget, Henk, Gep
 		- I know all about your time with your friend Cricket. 
 		- I know about your time in the army and your wife Cynthia, 
-		- I know your parents, you know. 
-- She knows that everyone from where they came from
+		- I'm very well acquainted with Ulmenmite there. An I know your parents, you know. 
+- "My cards grant me right into the threads of fate that bind us all. And so I know the threads of barovia have been intertwined with you three and the lands you come from." 
+	- It is highly likely that those intertwined with Barovias fate have come to this land as well.
 - "Took you all long enough to arrive, I have been expecting you. Are you ready to learn your fate?"
 - 
