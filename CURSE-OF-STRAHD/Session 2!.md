@@ -44,4 +44,7 @@
 	- She flips the card
 	- "9 of Swords - Torturer"
 	- "There is a town where all is not well, one it seems you will reach sooner than later. There you will find a house of corruption, and within, a dark room full of still ghosts. That is where this treasure lies"
-- She then places her hand on the 
+- She then places her hand on the card opposite her and says
+	- "This card tells of a powerful force for good and protection, a holy symbol of great hope."
+	- She flips the card
+	- ""
