@@ -36,4 +36,8 @@
 - "My cards grant me right into the threads of fate that bind us all. And so I know the threads of barovia have been intertwined with you three and the lands you come from." 
 	- It is highly likely that those intertwined with Barovias fate have come to this land as well.
 - "Took you all long enough to arrive, I have been expecting you. Are you ready to learn your fate?"
-- 
+
+##### The Card Reading 
+- Madam Eva Shuffles an ornate deck of cards, and then meticulously places 5 of them face down on the table in front of you in a cross pattern. She then Places a card face down in front of each of you. 
+- She flips the leftmost card and says
+	- "This card tells of History. "
