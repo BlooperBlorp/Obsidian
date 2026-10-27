@@ -11,7 +11,7 @@
 	- Play off player speed, but try to get them through this and to Madam Eva asap
 
 ### Travel to Tser Pool Vistani Encampment 
-- if somehow the session is gas and we're all locked in -> combat first
+- if somehow the session is gas and we're all locked in -> combat first (1 ghost)
 - if not -> they get there at dusk with no problems. 
 
 ### Tser Pool Vistani Encampment
