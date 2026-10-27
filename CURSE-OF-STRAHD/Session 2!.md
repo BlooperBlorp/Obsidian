@@ -85,3 +85,5 @@
 - DC 12 Insight check that the raven is warning the party -> it then flies toward vallaki 
 - Morgantha (Granny) is not here but if the players remain, she will return.
 - Her two daughters, Bella and Offalia, are here. 
+- They will defend the two stolen children, Freek and Myrtle
+	- and Cackle that granny is coming home soon while they fight the players 
