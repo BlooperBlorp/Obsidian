@@ -56,4 +56,4 @@
 	- "This weapon lies in a pile of treasure, beyond a set of Amber doors"
 - Next she goes to the card closest to her
 	- "This card sheds light on one who will help you greatly in the battle against darkness"
-	- ""
+	- "Artifact - Look for an entertaining man with a monkey. This man is more than he seems"
