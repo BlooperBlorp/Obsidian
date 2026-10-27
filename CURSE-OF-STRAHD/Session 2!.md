@@ -15,6 +15,14 @@
 - if not -> they get there at dusk with no problems. 
 
 ### Tser Pool Vistani Encampment
+###### Description:
+*The road gradually disappears and is replaced by a twisted, muddy path through the trees. Deep ruts in the earth are evidence of the comings and goings of wagons.*
+
+*The canopy of mist and branches suddenly gives way to black clouds boiling far above. There is a clearing here, next to a river that widens to form a small lake several hundred feet across. Five colorful round tents, each ten feet in diameter, are pitched outside a ring of four barrel-topped wagons. A much larger tent stands near the shore of the lake, its sagging form lit from within. Near this tent, eight unbridled horses drink from the river.*
+
+*The mournful strains of an accordion clash with the singing of several brightly clad figures around a bonfire. A footpath continues beyond this encampment, meandering north between the river and the forest's edge.*
+
+###### Details:
 - Incredibly friendly group of people invite them around a campfire, give them food and wine
 - **Arahja** 
 	- larger than life boisterous man
@@ -28,8 +36,10 @@
 	- **If the players wanna know how to leave, they'll say that they don't know how, but if there is someone that knows how, it's Madam Eva**
 
 ##### Madam Eva
+###### Description
+*Magic flames cast a reddish glow over the interior of this tent, revealing a low table covered in a black velvet cloth. Glints of light seem to flash from a crystal ball on the table as a hunched figure peers into its depths. As the crone speaks, her voice crackles like dry weeds. "Twidget, Henk, Gep, at last you have arrived!" Cackling laughter bursts like mad lightning from her withered lips.*
+###### Details
 - She greets the players by name when they enter the tent
-	- Twidget, Henk, Gep
 		- I know all about your time with your friend Cricket. 
 		- I know about your time in the army and your wife Cynthia, 
 		- I'm very well acquainted with Ulmenmite there. An I know your parents, you know. 
