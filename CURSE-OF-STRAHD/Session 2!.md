@@ -30,3 +30,5 @@
 ##### Madam Eva
 - She greets the players by name when they enter the tent
 	- Twidget, Henk, Gep
+- "Took you all long enough to arrive, I have been expecting you. Are you ready to learn your fate?"
+- 
