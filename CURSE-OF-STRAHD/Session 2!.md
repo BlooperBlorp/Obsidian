@@ -57,3 +57,6 @@
 - Next she goes to the card closest to her
 	- "This card sheds light on one who will help you greatly in the battle against darkness"
 	- "Artifact - Look for an entertaining man with a monkey. This man is more than he seems"
+- Finally the middle card
+	- She looks up at the players "Your enemy is a creature of darkness, whose powers are beyond mortality. This card will lead you to him"
+	- "Broken One - He haunts the tomb of the man he envied above all"
