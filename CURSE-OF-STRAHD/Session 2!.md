@@ -70,3 +70,6 @@
 - Finally the middle card
 	- She looks up at the players "Your enemy is a creature of darkness, whose powers are beyond mortality. This card will lead you to him"
 	- "Broken One - He haunts the tomb of the man he envied above all"
+
+### Journey Out of Tser Pool
+- On their way players will pass Tser falls, read description,
