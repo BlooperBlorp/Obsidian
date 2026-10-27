@@ -39,5 +39,9 @@
 
 ##### The Card Reading 
 - Madam Eva Shuffles an ornate deck of cards, and then meticulously places 5 of them face down on the table in front of you in a cross pattern. She then Places a card face down in front of each of you. 
-- She flips the leftmost card and says
-	- "This card tells of History. "
+- She places her fingers on the leftmost card and says
+	- "This card tells of History. Knowledge of the ancient will help you better understand your enemy"
+	- She flips the card
+	- "9 of Swords - Torturer"
+	- "There is a town where all is not well, one it seems you will reach sooner than later. There you will find a house of corruption, and within, a dark room full of still ghosts. That is where this treasure lies"
+- She then places her hand on the 
