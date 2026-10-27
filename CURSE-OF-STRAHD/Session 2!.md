@@ -72,4 +72,4 @@
 	- "Broken One - He haunts the tomb of the man he envied above all"
 
 ### Journey Out of Tser Pool
-- On their way players will pass Tser falls, read description,
+- On their way players will pass Tser falls, read description, pass the fork in the road, describe strahds place, roll a random encounter ifyw, then they 
