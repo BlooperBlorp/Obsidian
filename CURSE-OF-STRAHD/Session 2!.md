@@ -47,4 +47,9 @@
 - She then places her hand on the card opposite her and says
 	- "This card tells of a powerful force for good and protection, a holy symbol of great hope."
 	- She flips the card
-	- ""
+	- "3 of Stars - Enchanter"
+	- "I see a kneeling woman - a rose of great beauty plucked too soon. The master of the marsh knows of whom I speak, and where the treasure lies"
+- She then places her hand on her right and says
+	- "This is a card of power and strength. It tells of a weapon of vengeance: A sword of sunlight"
+	- flip
+	- " "
