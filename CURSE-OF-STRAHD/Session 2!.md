@@ -38,7 +38,7 @@
 - "Took you all long enough to arrive, I have been expecting you. Are you ready to learn your fate?"
 
 ##### The Card Reading 
-- Madam Eva Shuffles removes a silk cover from a delicate box. From this box she pulls an ornate deck of cards. The deck is split in 2 piles, one with fewer cards than the other. She then shuffles the deck and  meticulously places 5 of them face down on the table in front of you in a cross pattern. She then Places a card face down in front of each of you. 
+- Madam Eva Shuffles removes a silk cover from a delicate box. From this box she pulls an ornate deck of cards. The deck is split in 2 piles, one with fewer cards than the other. She then shuffles the deck and  meticulously places 5 of them face down on the table in front of you in a cross pattern. She then shuffles the deck together, takes a moment to look up at the three of you, and then places a card face down in front of each of you. 
 - She places her fingers on the leftmost card and says
 	- "This card tells of History. Knowledge of the ancient will help you better understand your enemy"
 	- She flips the card
