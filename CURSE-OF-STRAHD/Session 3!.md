@@ -20,6 +20,12 @@ Notes:
 	- the Festival of the Blazing Sun, then next one, will happen soon
 - Baron Vallakovich has people thrown in the stocks for being against his festivals 
 
+#### Town Square
+Description:
+Read it off the page
+
+- If the players linger, Izek arrives with two guard to swap the proclamations out 
+
 #### St. Andral's Church
 Description:
 *This slouching, centuries-old stone church has a bulging steeple in the back and walls lined with cracked, stained glass windows depicting pious saints. A fence of wrought iron encloses a garden of gravestones next to the church. A thin mist creeps among the graves.*
