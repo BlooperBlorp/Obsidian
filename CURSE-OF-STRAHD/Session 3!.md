@@ -45,17 +45,20 @@ Description:
 
 - [[Urwin Martikov]] is the innkeeper.
 	- Bed is 5 sp, Purble Grapemash No.3 is 3 cp, Red Dragon Crush win is 1 sp
-		- Wine supply is almost depleted, Urwin can ask them if they would help him with that in exchange for free room and board 
+		- Wine supply is almost depleted, Urwin can ask them if they would help him with that 
 - Taproom:
 	- *Damp cloaks hang from pegs in the entrance portico. The tavern is packed with tables and chairs, with narrow paths meandering between them. A bar stretches along one wall, under a balcony that can be reached by a wooden staircase that hugs the north wall. Another balcony overhangs an entrance to the east. All the windows are fitted with thick shutters and crossbars. Lanterns hanging above the bar and resting on the tables bathe the room in dull orange light and cast shadows upon the walls, most of which are adorned with wolf heads mounted on wooden plaques. You see a couple patrons scattered about*
 	- [[Danika Martikov]] is helping run the bar while her husband is in the kitchen, their kids [[Brom]] and [[Bray]] scamper about
 		- She is helpful, will answer questions
+		- There's a shortage of wine. Danika and Urwin have family at the Winery, but due to a past falling out, they haven't spoken in years. Urwin is worried about the Winery but has yet to set aside his pride to send a word as of yet. The last shipment was due a week ago. They may offer to send the players in exchange for free room and board 
 	- [[Nikolai and Karl Wachter]] are around 
 		- Normal people option for the players to talk to, just drunkard types who will yap with the party
 	- [[Rictavio]] (Van Richten) is here
 		- Claims to be a carnival ringmaster from a distant land. He's been there for almost a month.
 		- He arrived with a monkey, Piccolo, but the monkey wasn't welcome at the inn and so he gave it to the local toymaker.
 		- He is trying to learn about the Keepers of the Feather (who oppose strahd), as well as the nearby Vistani camp (who serve strahd). 
+		- If he has a chance to warn the players about something, let them feel free
+			- if they fuck with him or come to him as their ally
 
 #### Blinksy Toys
 Description:
