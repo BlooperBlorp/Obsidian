@@ -9,3 +9,10 @@ Description:
 
 - Perception checks 
 	- Figure standing beyond the cemetery fence shrouded in mist. The figure is a tall man, too obscured to really see, but it appears he's wearing all black and is bowing his head as if in prayer.
+
+
+### Vallaki 
+Notes:
+- Last festival they paraded through the streets with severed wolf heads on pikes
+	- the Festival of the Blazing Sun, then next one, will happen soon
+- Baron Vallakovich has people thrown in the stocks for being against his festivals 
