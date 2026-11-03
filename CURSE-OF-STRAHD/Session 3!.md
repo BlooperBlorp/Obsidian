@@ -56,9 +56,10 @@ Description:
 	- [[Rictavio]] (Van Richten) is here
 		- Claims to be a carnival ringmaster from a distant land. He's been there for almost a month.
 		- He arrived with a monkey, Piccolo, but the monkey wasn't welcome at the inn and so he gave it to the local toymaker.
-		- He is trying to learn about the Keepers of the Feather (who oppose strahd), as well as the nearby Vistani camp (who serve strahd). 
-		- If he has a chance to warn the players about something, let them feel free
-			- if they fuck with him or come to him as their ally
+		- Depending on how interactions go with him feel free to use the following:
+			- He is trying to learn about the Keepers of the Feather (who oppose strahd), as well as the nearby Vistani camp (who serve strahd). 
+			- If he has a chance to warn the players about something, let him feel free
+				- if they fuck with him or come to him as their ally, you can reveal that he is van richten, or just reveal that he is a spy and he uses his carnival thing as a front for that 
 
 #### Blinksy Toys
 Description:
