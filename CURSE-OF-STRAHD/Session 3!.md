@@ -18,7 +18,8 @@ Description:
 Notes:
 - Last festival they paraded through the streets with severed wolf heads on pikes
 	- the Festival of the Blazing Sun, then next one, will happen soon
-- Baron Vallakovich has people thrown in the stocks for being against his festivals 
+- Baron ([[Varus]]) Vallakovich has people thrown in the stocks for being against his festivals 
+- If the players seem intrigued about the Baron, Fiona will send [[Ernst Larnak]] to politely invite them to dinner. Assistance in a matter of great importance, that deals with the burgomaster.
 
 #### Gates:
 - Two guards "Who goes there"
@@ -34,8 +35,6 @@ Description: Read it off the page
 
 - If the players linger, 2 guards arrive to swap posters out 
 	- if they make a tussle, [[Izek]] will pull up 
-
-
 
 #### St. Andral's Church
 Description:
