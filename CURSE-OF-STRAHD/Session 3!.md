@@ -35,6 +35,8 @@ Description:
 - [[Father Lucian Petrovichz]] runs this place, has orphan altar boy [[Yeska]], and a groundskeeper [[milivoj]]
 	- Until recently the church was protected from Strahd by the bones of St. Andral, but they have been taken
 		- He told [[Yeska]], who admitted to telling someone else but won't say a name 
+		- He suspects Milivoj did it but hasn't confronted him cause he is so tempermental
+		- Milivoj will admit that Yeska told him about the bones and that he passed the info on to [[Henrik van der Voort]], the local coffin maker, and that he stole the bones for him in return for money to help feed his family 
 
 #### Blue Water Inn
 Description:
@@ -57,4 +59,12 @@ Description:
 Description:
 *This cramped shop has a dark entrance portico, above which hangs a wooden sign shaped like a rocking horse, with a "B" engraved on both sides. Flanking the entrance are two arched, lead-framed windows. Through the dirty glass, you see jumbled displays of toys and hanging placards bearing the slogan "Is No Fun, Is No Blinsky!"*
 
-- [[Gadof Blinsky]] 
+- [[Gadof Blinsky]] says:
+	- "Wyelcome, friends, to the House of Blinsky, where hyappiness and smiles can be bought at bargain prices. Perhaps you know a leetle child in need of joy? A leetle toy for a girl or boy?"
+	- If the players tell him about the reading, he will tell them that Rictavio gave him the monkey 
+
+#### Coffin Maker's Shop
+Description:
+*This uninviting shop is two stories tall and has a sign shaped like a coffin above the front door. All of the window shutters are closed up tight, and a deathly silence surrounds the establishment.*
+
+- [[Henrik van der Voort]] 
