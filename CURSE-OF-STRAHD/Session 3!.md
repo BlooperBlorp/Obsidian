@@ -32,5 +32,10 @@ Description:
 Description:
 *Gray smoke issues from the chimney of this large, two-story wooden building with a stone foundation and sagging tile roof, upon which several ravens have perched. A painted wooden sign hanging above the main entrance depicts a blue waterfall.*
 
-
+- [[Urwin Martikov]] is the innkeeper.
+	- Bed is 5 sp, Purble Grapemash No.3 is 3 cp, Red Dragon Crush win is 1 sp
+		- Wine supply is almost depleted, Urwin can ask them if they would help him with that in exchange for free room and board 
+- Taproom:
+	- *Damp cloaks hang from pegs in the entrance portico. The tavern is packed with tables and chairs, with narrow paths meandering between them. A bar stretches along one wall, under a balcony that can be reached by a wooden staircase that hugs the north wall. Another balcony overhangs an entrance to the east. All the windows are fitted with thick shutters and crossbars. Lanterns hanging above the bar and resting on the tables bathe the room in dull orange light and cast shadows upon the walls, most of which are adorned with wolf heads mounted on wooden plaques.*
+	- [[Danika Martikov]] is helping run the bar and kitchen with her husband, their kids [[Brom]] and [[Bray]] scamper about
 
