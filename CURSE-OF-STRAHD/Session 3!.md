@@ -10,6 +10,7 @@ Description:
 - Perception checks 
 	- Figure standing beyond the cemetery fence shrouded in mist. The figure is a tall man, too obscured to really see, but it appears he's wearing all black and is bowing his head as if in prayer.
 
+Donovitch will say he thinks they should take Ireena to the Abbey of Saint Markovia in Krezk, a town 
 
 ### Vallaki 
 Notes:
