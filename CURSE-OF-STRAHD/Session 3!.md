@@ -67,4 +67,7 @@ Description:
 Description:
 *This uninviting shop is two stories tall and has a sign shaped like a coffin above the front door. All of the window shutters are closed up tight, and a deathly silence surrounds the establishment.*
 
-- [[Henrik van der Voort]] 
+- [[Henrik van der Voort]] is here and if the characters knock he says "We're closed! Go away!", and then if they accuse him, "Go away! Leave me alone!"
+- If they break in he'll just be morose and tell them where the bones (upstairs bedroom wardrobe.)
+	- In this wardrope there is 2 large sacks, one with the bones, and the other with 90 sp, all with Strahd's face on them
+- If the players go into the vampire nest and open a crate 
