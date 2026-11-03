@@ -20,6 +20,11 @@ Notes:
 	- the Festival of the Blazing Sun, then next one, will happen soon
 - Baron Vallakovich has people thrown in the stocks for being against his festivals 
 
+#### Gates:
+- Two guards "Who goes there"
+	- Business in town and their opinion of strahd
+- Ireena (Kolyana) will happily explain what is going on, and that will help 
+
 #### Town Square
 Description: Read it off the page
 ***Be sure to add and there are 7 people trapped in stocks wearing donkey heads. Emphasize this.
