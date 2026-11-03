@@ -41,4 +41,7 @@ Description:
 	- [[Nikolai and Karl Wachter]] are around 
 		- Normal people option for the players to talk to, just drunkard types who will yap with the party
 	- [[Rictavio]] (Van Richten) is here
-		- Talking to 
+		- Claims to be a carnival ringmaster from a distant land. He's been there for almost a month.
+		- He arrived with a monkey, Piccolo, but the monkey wasn't welcome at the inn and so he gave it to the local toymaker.
+		- He is trying to learn about the Keepers of the Feather (who oppose strahd), as well as the nearby Vistani camp (who serve strahd). 
+	- 
