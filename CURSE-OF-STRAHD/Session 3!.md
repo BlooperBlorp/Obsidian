@@ -10,10 +10,15 @@ Description:
 - Perception checks 
 	- Figure standing beyond the cemetery fence shrouded in mist. The figure is a tall man, too obscured to really see, but it appears he's wearing all black and is bowing his head as if in prayer.
 
-Donovitch will say he thinks they should take Ireena to the Abbey of Saint Markovia in Krezk, a town 
+- Donovitch will say he thinks they should take Ireena to the Abbey of Saint Markovia in Krezk, a town in the far west of the valley. If not, then the church in Vallaki will probably be a good safehaven,
+	- (Ismark found some people in town to help him make a map as a gift to the players). 
+	- Ismark doesn't know about such a long journey, and leans towards Vallaki but leaves it up to the players. 
 
 ### Vallaki 
 Notes:
 - Last festival they paraded through the streets with severed wolf heads on pikes
 	- the Festival of the Blazing Sun, then next one, will happen soon
 - Baron Vallakovich has people thrown in the stocks for being against his festivals 
+
+### St. Andral's Church
+- Father Lucian Petrovich runs this place, has orphan altar
