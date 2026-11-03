@@ -23,7 +23,10 @@ Notes:
 #### Gates:
 - Two guards "Who goes there"
 	- Business in town and their opinion of strahd
-- Ireena (Kolyana) will happily explain what is going on, and that will help 
+- Ireena (Kolyana) will happily explain what is going on, and that will help them enter
+- Once entered, players will be explained the laws of vallaki by the guards
+	- "Noteable to our noble town in particular, we hold a festival each week in honor of the resident's general merriment and continued support of the Burgomaster, Baron Vargas Vallakovich. As guests of Vallaki, you will not be required to aid in the preparation for our festivals. However, your attendance and participation in each and every festival is absolutely mandatory for the length of your stay. Failure to attend will be in strict opposition to Vallakian law. The next great Vallakian festival, the Festival of the Blazing Sun, will be held in three days time in the town square."
+    - "Failure to comply with any Vallakian law will mark you as criminals to our city and you will be punished as such in accordance to our justice system. If you have any questions, now is the time to ask them."
 
 #### Town Square
 Description: Read it off the page
