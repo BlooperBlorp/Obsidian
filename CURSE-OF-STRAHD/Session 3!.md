@@ -21,10 +21,13 @@ Notes:
 - Baron Vallakovich has people thrown in the stocks for being against his festivals 
 
 #### Town Square
-Description:
-Read it off the page
+Description: Read it off the page
+***Be sure to add and there are 7 people trapped in stocks wearing donkey heads
 
 - If the players linger, Izek arrives with two guard to swap the proclamations out 
+	- 
+
+
 
 #### St. Andral's Church
 Description:
