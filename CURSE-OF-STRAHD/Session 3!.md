@@ -41,3 +41,4 @@ Description:
 	- [[Nikolai and Karl Wachter]] are around 
 		- Normal people option for the players to talk to, just drunkard types who will yap with the party
 	- [[Rictavio]] (Van Richten) is here
+		- Talking to 
