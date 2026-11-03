@@ -25,7 +25,6 @@ Description: Read it off the page
 ***Be sure to add and there are 7 people trapped in stocks wearing donkey heads
 
 - If the players linger, Izek arrives with two guard to swap the proclamations out 
-	- 
 
 
 
@@ -53,4 +52,9 @@ Description:
 		- Claims to be a carnival ringmaster from a distant land. He's been there for almost a month.
 		- He arrived with a monkey, Piccolo, but the monkey wasn't welcome at the inn and so he gave it to the local toymaker.
 		- He is trying to learn about the Keepers of the Feather (who oppose strahd), as well as the nearby Vistani camp (who serve strahd). 
-	- 
+
+#### Blinksy Toys
+Description:
+*This cramped shop has a dark entrance portico, above which hangs a wooden sign shaped like a rocking horse, with a "B" engraved on both sides. Flanking the entrance are two arched, lead-framed windows. Through the dirty glass, you see jumbled displays of toys and hanging placards bearing the slogan "Is No Fun, Is No Blinsky!"*
+
+- [[Gadof Blinsky]] 
