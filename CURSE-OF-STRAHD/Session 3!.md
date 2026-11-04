@@ -1,3 +1,4 @@
+Ended at Vallaki! 
 ### Start:
 The players had just returned to the Villaige of Barovia where they are now sleeping in the church. Tommorow will be the service to bury the Burgomaster. You awake to the screams of Doru through the floorboards 
 
@@ -84,3 +85,4 @@ Description:
 - If they break in he'll just be morose and tell them where the bones (upstairs bedroom wardrobe.)
 	- In this wardrope there is 2 large sacks, one with the bones, and the other with 90 sp, all with Strahd's face on them
 - If the players go into the vampire nest and open a crate 
+	- &&&&&&&
