@@ -130,4 +130,4 @@ You see an elk standing on a rocky spur about sixty feet away. Suddenly, it assu
 - He's then fucking nuts
 	- He doesn't know his name or anything that happened before his madness
 	- He knows that he hates Strahd and he is crazy in a bad way thinking he can't do anything to defeat him 
-	- He will actually 
+	- Players can try to calm him down but point them at the fact that magic is needed 
