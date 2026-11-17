@@ -5,6 +5,7 @@ Notes:
 	- the Festival of the Blazing Sun, then next one, will happen soon
 - Baron ([[Varus]]) Vallakovich has people thrown in the stocks for being against his festivals 
 - If the players seem intrigued about the Baron, Fiona will send [[Ernst Larnak]] to politely invite them to dinner. Assistance in a matter of great importance, that deals with the burgomaster.
+- If people wanna know about big magic, they will be told about the mad mage but say that he was sent into a madness that needs repairing before he'll be of any use
 
 #### Gates:
 - Two guards "Who goes there"
@@ -128,4 +129,5 @@ You see an elk standing on a rocky spur about sixty feet away. Suddenly, it assu
 - Basically they'll do a little fight of bull shit while the players try to convince him it's all fine
 - He's then fucking nuts
 	- He doesn't know his name or anything that happened before his madness
-	- He knows that he hates Strahd and he is crazy in a bad way thinking he can't do any
+	- He knows that he hates Strahd and he is crazy in a bad way thinking he can't do anything to defeat him 
+	- He will actually 
