@@ -92,3 +92,19 @@ Description:
 - If the party wants to overthrow the burgomaster, she'll suggest killing [[Izek]] first
 
 
+#### Arasek Stockyard
+Description:
+*This large stockyard has several locked sheds along its periphery and lies adjacent to a roomy warehouse. A wooden sign above the front gate reads "Arasek Stockyard."*
+
+*Parked at the south end of the stockyard is a sturdy carnival wagon, its colorful paint peeling off. Faded lettering on its sides spells out the words "Rictavio's Carnival of Wonders." A heavy padlock secures the back door.
+-
+The wagon suddenly lurches, as though something big has thrown itself against the inside wall. You hear the cracking of wood, the scraping of metal, and the snarl of something inhuman. Upon closer inspection, you see that the sides of the wagon are spattered with dry blood. You also see an inscription on the wagon's door frame that reads, "I bring you from Shadow into Light!"*
+
+#### Vistani Camp
+Description:
+*The woods part to reveal an expansive clearing: a small, grass-covered hill with low houses built into its sides. Fog obscures the details, but you can see that these buildings feature elegantly carved woodwork and have decorative lanterns hanging from their sculpted eaves. Atop the hill, above the fog, is a ring of barrel-topped wagons that surround a large tent with a column of smoke pouring out through a hole in the top. The tent is brightly lit from within. Even at this distance, you can smell the odors of wine and horses that emanate from this central area.*
+
+- The Vistani in this camp serve Strahd
+	- [[Luvash]] and [[Arrigal]] are in charge, they are evil and will do whatever Strahd says
+		- They have 2 problems
+			- [[Arabelle]], 
