@@ -76,14 +76,19 @@ Description:
 	- 2 vampire spawn (statblock of Hazeblood vampire) jump out 
 
 #### Burgomaster's Mansion
+Description:
+*This mansion has walls of plastered stone that display many scars where the plaster has fallen away from age and neglect. Drapes cover every window, including a large, arched opening above the mansion's double entrance doors. You see people coming and going*
+
+- If they players pull up and knock, a maid lets them in and escorts them to the den, and then goes to fetch the baron
 
 #### Watcherhaus 
 Description:
 *This house seems disgusted with itself. A slouching roof hangs heavy over furrowed gables, and moss-covered walls sag and bulge under the weight of the vegetation. As you study the house's sullen countenance, you hear the edifice actually groan. Only then do you realize the extent to which the house hates what it has become.*
 
-- Lady Fiona Watcher lives here with her daughter Stella
+- [[Lady Fiona Watcher]] lives here with her daughter Stella
 	- Their family has a long-standing loyalty to the von Zarovich line. 
 	- She wants control of Vallaki
 		- She has been creating a cult which she plans to use to take Vallaki by force
-	-
-	
+- If the party wants to overthrow the burgomaster, she'll suggest killing [[Izek]] first
+
+
