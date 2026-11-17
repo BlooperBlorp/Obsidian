@@ -117,3 +117,15 @@ Description:
 
 - 3 guards are guarding this bitch, if the players are nice they can enter and meet [[Kasimir]], the leader of the dusk elves
 	- His hovel has a decorated vestibule and a comfortable room beyond with a fireplace. Wooden statuettes of elven deities stand in cubbyholes along one wall. A tapestry of a forest hangs on the opposite wall.
+
+
+#### The Mad Mage of Mount Baratok
+Description:
+*North of the mountain lake, the trees begin their steady climb up the slopes of Mount Baratok, its monolithic presence oppressive at this distance. The ground here is rocky, uneven, and tiring to navigate. Even the wolves avoid this neck of the woods. Soon, you climb above the blanket of fog that engulfs the valley. Dark thunderclouds roll overhead.
+
+You see an elk standing on a rocky spur about sixty feet away. Suddenly, it assumes the form of a man in tattered black robes. His hair and beard are long, black, and streaked with gray, and his eyes crackle with eldritch power.*
+
+- Basically they'll do a little fight of bull shit while the players try to convince him it's all fine
+- He's then fucking nuts
+	- He doesn't know his name or anything that happened before his madness
+	- He knows that he hates Strahd and he is crazy in a bad way thinking he can't do any

@@ -14,4 +14,4 @@
 - Once killing strahd, i'm thinking the party can either find everyone they wanna find to get them out of there, or use some crazy high level magic to ritual teleport them all back if they haven't found somebody.
 
 - Cynthia is somewhere in Krezk, being taken care of, but actually doing much better.
-- 
+- Twigs druid tribe is at Yester Hill
