@@ -57,7 +57,7 @@ Description:
 			- If he has a chance to warn the players about something, let him feel free
 				- if they fuck with him or come to him as their ally, you can reveal that he is van richten, or just reveal that he is a spy and he uses his carnival thing as a front for that 
 	- 2 Miners from Aeglirin are here
-		- They found themselves in the middle of the woods 
+		- They found themselves in the middle of the woods with a group of about 10-15 miners, they had a really hard time finding their way out and wolves picked them off slowly. Only the two of them remained when they eventually emerged and found the town.
 
 #### Blinksy Toys
 Description:
