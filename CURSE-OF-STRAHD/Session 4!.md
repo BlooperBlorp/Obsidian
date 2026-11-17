@@ -74,3 +74,5 @@ Description:
 	- In this wardrope there is 2 large sacks, one with the bones, and the other with 90 sp, all with Strahd's face on them
 - If the players go into the vampire nest and open a crate 
 	- &&&&&&&
+
+#### Burgomaster's Mansion

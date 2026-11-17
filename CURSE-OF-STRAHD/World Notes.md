@@ -4,4 +4,6 @@
 
 ### The reading
 - The tome of strahd is in the attic of the burgomaster's mansion 
-- 
+- The holy symbol of ravenkind is under marina's monument in Brerez 
+	- The host of Burgomaster Lazlo Ulrich can point characters in the right way 
+- The sunsword is in the sealed treasury of the Amber Temple 
