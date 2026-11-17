@@ -100,11 +100,18 @@ Description:
 -
 The wagon suddenly lurches, as though something big has thrown itself against the inside wall. You hear the cracking of wood, the scraping of metal, and the snarl of something inhuman. Upon closer inspection, you see that the sides of the wagon are spattered with dry blood. You also see an inscription on the wagon's door frame that reads, "I bring you from Shadow into Light!"*
 
-#### Vistani Camp
+#### Vistani Camp*****
 Description:
 *The woods part to reveal an expansive clearing: a small, grass-covered hill with low houses built into its sides. Fog obscures the details, but you can see that these buildings feature elegantly carved woodwork and have decorative lanterns hanging from their sculpted eaves. Atop the hill, above the fog, is a ring of barrel-topped wagons that surround a large tent with a column of smoke pouring out through a hole in the top. The tent is brightly lit from within. Even at this distance, you can smell the odors of wine and horses that emanate from this central area.*
 
 - The Vistani in this camp serve Strahd
 	- [[Luvash]] and [[Arrigal]] are in charge, they are evil and will do whatever Strahd says
-		- They have 2 problems
-			- [[Arabelle]], 
+		- They have 2 problems, and would love if the party helped with either
+			- [[Arabelle]], [[Luvash]]'s daughter is missing, half of the Vistani are looking for her rn
+			- They ran out of wine
+##### Kasimir's Hovel
+Description:
+*Standing quietly in front of this house, bathed in the warm light of its lanterns, are three sullen, gray-cloaked figures, their angular features and black, flowing hair half-hidden under their cowls.*
+
+- 3 guards are guarding this bitch, if the players are nice they can enter and meet [[Kasimir]], the leader of the dusk elves
+	- His hovel has a decorated vestibule and a comfortable room beyond with a fireplace. Wooden statuettes of elven deities stand in cubbyholes along one wall. A tapestry of a forest hangs on the opposite wall.
