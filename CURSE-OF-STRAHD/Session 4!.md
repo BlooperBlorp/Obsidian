@@ -2,7 +2,7 @@ Encourage the players to take their own initiative in finding the story, perhaps
 ### Vallaki 
 Notes:
 - Last festival they paraded through the streets with severed wolf heads on pikes
-	- the Festival of the Blazing Sun, then next one, will happen soon
+	- the Festival of the Blazing Sun, then next one, will happen in 3 days
 - Baron ([[Varus]]) Vallakovich has people thrown in the stocks for being against his festivals 
 - If the players seem intrigued about the Baron, Fiona will send [[Ernst Larnak]] to politely invite them to dinner. Assistance in a matter of great importance, that deals with the burgomaster.
 - If people wanna know about big magic, they will be told about the mad mage but say that he was sent into a madness that needs repairing before he'll be of any use
