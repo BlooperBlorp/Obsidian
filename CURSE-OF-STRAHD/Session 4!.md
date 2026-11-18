@@ -27,7 +27,7 @@ Description: Read it off the page
 Description:
 *This slouching, centuries-old stone church has a bulging steeple in the back and walls lined with cracked, stained glass windows depicting pious saints. A fence of wrought iron encloses a garden of gravestones next to the church. A thin mist creeps among the graves.*
 
-- At night there is 2d6+6 vallakian adults and 2d6 children in the palce
+- At night there is 2d6+6 vallakian adults and 2d6 children in the palce (11,4)
 	- including Willemina Rikalova, her son the shoemaker Udo Lukovich has been imprisoned for speaking out against the burgomaster
 - [[Father Lucian Petrovichz]] runs this place, has orphan altar boy [[Yeska]], and a groundskeeper [[milivoj]]
 	- He will happily take on care of Ireena, but he says that her protection is not guaranteed as the church has lost the bones of St. Andral
